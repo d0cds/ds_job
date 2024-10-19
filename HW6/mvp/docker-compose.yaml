@@ -1,0 +1,102 @@
+services:
+
+  app:
+    build: ./app/
+    image: test_1:latest
+    env_file:
+      - .env
+    volumes:
+      - ./app:/app
+    environment:
+      PYTHONPATH: /app
+      RABBITMQ_HOST: ${RABBITMQ_HOST}
+      RABBITMQ_PORT: ${RABBITMQ_PORT}
+      RABBITMQ_USER: ${RABBITMQ_USER}
+      RABBITMQ_PASS: ${RABBITMQ_PASS}
+    depends_on:
+      - database
+      - rabbitmq
+    ports:
+      - 8080:8080
+
+  web-proxy:
+    build: ./nginx
+    ports:
+      - 80:80
+      - 443:443
+    depends_on:
+      - app
+      - database
+      - webui
+
+  database:
+    image: postgres:16-alpine
+    volumes:
+      - ./postgres_data:/var/lib/postgresql/data/
+    expose:
+      - 5432
+    environment:
+      PYTHONPATH: /app
+      POSTGRES_USER: ${DB_USER}
+      POSTGRES_PASSWORD: ${DB_PASS}
+      POSTGRES_DB: ${DB_NAME}
+
+  rabbitmq:
+    image: rabbitmq:3.13.1-management
+    hostname: rabbitmq
+    env_file:
+      - .env
+    restart: always
+    environment: 
+      RABBITMQ_DEFAULT_USER: ${RABBITMQ_USER}
+      RABBITMQ_DEFAULT_PASS: ${RABBITMQ_PASS}
+    volumes:
+      - ./rabbitmq:/var/lib/rabbitmq
+    ports:
+      - 15672:15672
+      - 5672:5672
+    healthcheck:
+      test:
+        [
+          "CMD",
+          "rabbitmq-diagnostics",
+          "check_port_connectivity"
+        ]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  worker:
+    build: ./app/workers/
+    command: python worker.py
+    env_file:
+      - .env
+    depends_on:
+      - rabbitmq
+      - database
+    volumes:
+      - ./app:/app
+    environment:
+      PYTHONPATH: /app
+      DB_HOST: ${DB_HOST}
+      DB_PORT: ${DB_PORT}
+      DB_USER: ${DB_USER}
+      DB_PASS: ${DB_PASS}
+      DB_NAME: ${DB_NAME}
+      RABBITMQ_USER: ${RABBITMQ_USER}
+      RABBITMQ_PASS: ${RABBITMQ_PASS}
+      RABBITMQ_HOST: ${RABBITMQ_HOST}
+      RABBITMQ_PORT: ${RABBITMQ_PORT}
+    scale: 3 
+
+  webui:
+    build: ./app/webui/
+    image: ui_1:latest
+    volumes:
+      - ./app:/app
+    ports:
+      - 8001:8001
+    environment:
+      - PYTHONPATH=/app
+    depends_on:
+      - app

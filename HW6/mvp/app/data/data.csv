@@ -1,0 +1,921 @@
+|name_job|type_busy|qualification|location|federalDistrictCode|skills|salary_min|salary_max|salary_stat_mean
+0|системный аналитик|remote|middle|n o t l o c a t i o n|Not_cod|Java,Scala,JMS,kafka,Python,REST,UX,UML,UI,JSON,BPMN,Protobuf,gRPC|160000.0|160000.0|108900
+1|data scientist|remote|middle|n o t l o c a t i o n|Not_cod|Computer Vision,ML|150000.0|230000.0|108900
+2|data analyst|full-time|middle|n o t l o c a t i o n|Not_cod|Invite IT,KION,Well,being,DS,Premium,SQL,CLV,Big Data|240000.0|270000.0|108900
+3|системный аналитик|full-time|middle|к р а с н о д а р с к и й к р а й|3.0|net,SQL,Oracle,PosgreSQL|150000.0|200000.0|109000
+4|data engineer|full-time|middle|м о с к в а|1.0|ETL,Impala,ODBC,API,Docker,pandas,GitLab,Redis,Hadoop,Managed Services,PostgreSQL,NoSQL,Python,SQL,Linux,Sever X,RestAPI,ftp,GreenPlum,Hive,Data Lake,ClickHouse,Apache Airflow|250000.0|250000.0|104400
+5|data engineer|full-time|senior|м о с к в а|1.0|ML,AI,io,ETL,Spark,DS,Airflow,Python,SQL,Lucky Hunter,KFC,https,Hadoop,data|400000.0|400000.0|104400
+6|dl инженер|internship|junior|м о с к в а|1.0|AI,nvi,DL,CV,Guard,research,TensorRT,me,NVI Solutions,PyTorch,git,ru,Python,OneTBB,https,OpenCV,NVI Research,ML,docker|80000.0|150000.0|104400
+7|ml engineer|remote|senior|n o t l o c a t i o n|Not_cod|ECCV,Gradient,Computer Vision,Machine Learning,opencv,TFlite,Pytorch,torchscript,Deep Learning,ICML,github,ICLR,arxiv,Apple,Best of,server,CV Engineer,face beautification,ICCV,numpy,NIPS,ML,CoreML,CVPR,production ready GAN,mobile,SOTA Computer Vision|500000.0|500000.0|108900
+8|data engineer|full-time|Not_qualification|с а н к т п е т е р б у р г|2.0|streaming,HDFS,Spark,Apache SuperSet,NiFi,Java,Yandex DataLens,Scala,Yandex Cloud Platform,pipeline,Docker,Git,Hadoop,data,PySpark,Azure,Power BI,Kubernetes,Python,SQL,Data Management,intermediate,Nifi,Airflow,DataLake,Kafka,YCP,YARN etc,AWS|250000.0|350000.0|105200
+9|преподаватель онлайн курса reinforcement learning|remote|Not_qualification|n o t l o c a t i o n|Not_cod|zoom c,RL,IT,best practices,Reinforcement Learning,OTUS|350.0|4000.0|108900
+10|bi analyst|full-time|middle|n o t l o c a t i o n|Not_cod|Blanc Labs,PostgreSQL,ad,Google BigQuery,Tableau,Airflow,Power BI,Data Vault,PL,SQL,DWH,Performance Review,Data Lake,QlikView,PowerBI,hoc|200000.0|250000.0|108900
+11|machine learning engineer|remote|middle|n o t l o c a t i o n|Not_cod|Swift,Github,CL,CI,Python,iOS,Docker,AURA Devices,Apple Core ML|200.0|200000.0|108900
+12|data engineerdata architect|remote|senior|м о с к в а|1.0|ELT,PostgreSQL,ETL,blockchain,Cypher,NoSQL,Airflow,II,Debezium,Match Systems,SQL,Blockchain,Kafka,Database Administrator,anti money laundering,ClickHouse,ElasticSearch,AML|300000.0|300000.0|104400
+13|ведущий аналитик|remote|senior|м о с к в а|1.0|Tableau,Power BI,ru,SQL,Python,MS Excel,BI,QlikView|200000.0|230000.0|104400
+14|преподаватель онлайн курса|remote|Not_qualification|n o t l o c a t i o n|Not_cod|zoom c,RL,DQN,ru,DDPG,IT,SAC,best practices,Reinforcement Learning,OTUS,https,learning,otus|350.0|4000.0|108900
+15|nlp engineer|remote|junior|n o t l o c a t i o n|Not_cod|ML,notion,PyTorch,Git,Trading Board,Bert,LLM,Docker,Domain adaptation,https,site,pvs|250000.0|250000.0|108900
+16|ml engineer|remote|middle|м о с к в а|1.0|IDecide,ML,net,python,http,scikit,git,docker,ru,linux,learn|200000.0|250000.0|104400
+17|системный аналитик|full-time|senior|м о с к в а|1.0|Home office,API,SberCloud,SQL,IT,UML,BPMN,NET|150000.0|300000.0|104400
+18|преподаватель онлайн курсов|part-time|Not_qualification|n o t l o c a t i o n|Not_cod|zoom c,Data Warehouse Analyst,IT,best practices,Reinforcement Learning,OTUS|300000.0|400000.0|108900
+19|data analyst|remote|Not_qualification|м о с к в а|1.0|net,c HR,Bell Integrator,python,feature engineering,Python,HR,sql,Postgresql|250000.0|250000.0|104400
+20|ml  java разработчик|full-time|senior|n o t l o c a t i o n|Not_cod|ML,Jira,Java Core,IT,machine learning,BrainShells,Java|400000.0|400000.0|108900
+21|разработчик greenplum|remote|junior|с а н к т п е т е р б у р г|2.0|net,Bell Integrator,Greenplum,Greenplum PostgreSQL,tg,Oracle,SQL,com,Ason,Softline,Hadoop|150000.0|170000.0|105200
+22|cto|full-time|senior|n o t l o c a t i o n|Not_cod|Tech,ML,CTO,python,NLP,EU,postgresql,LLM,Ru,RU|300000.0|300000.0|108900
+23|data engineer|remote|senior|n o t l o c a t i o n|Not_cod|HDFS,Spark,ETL,open,Java,Scala,API,CI,MySQL,com,Data lakehouse,Hadoop,data,SOAP,PostgreSQL,OLAP,DevOps,NoSQL,OLTP,driven,Python,SQL,REST,CD,MS SQL,Airflow,data governance,REST API,FESCO,IT,tg,source,Infrastructure as code|200000.0|280000.0|108900
+24|deep learning engineer|full-time|junior|м о с к в а|1.0|AI,nvi,DL,CV,Guard,research,TensorRT,me,NVI Solutions,PyTorch,git,ru,Python,OneTBB,https,OpenCV,NVI Research,ML,docker|80000.0|150000.0|104400
+25|data scientist|full-time|senior|с а н к т п е т е р б у р г|2.0|gross,pyspark,Superset,Spark,HDFS,scipy,Grafana,python,MLOps,com,pandas,pytorch,Hadoop,soft,numpy,phoenix,keras,Python,SQL,Telegram,hard skills,ML,hive,Apache,RedCloudLab,Airflow,kafka,IT,Kafka,sklearn,Data Scinetist,day off,hbase|300000.0|550000.0|105200
+26|data engineer|full-time|Not_qualification|n o t l o c a t i o n|Not_cod|ETL,job,Equipment,www,Desired skills,Paid time off,MySQL,com,About the project,Swift Invention,We offer,GCP,PostgreSQL,Azure,Flexible working hours,Required skills,Python,https,SQLite,RAM,Contacts,engineer,AWS,Bachelor|400000.0|500000.0|108900
+27|ml engineer|full-time|junior|м о с к в а|1.0|net,NLP,neural,developer,job,ru,Python,www,https,artlebedev,Artlebedev|100000.0|180000.0|104400
+28|ml engineer|full-time|junior|м о с к в а|1.0|net,NLP,neural,developer,job,ru,Python,www,https,artlebedev,Artlebedev|100000.0|180000.0|104400
+29|python разработчик|full-time|senior|n o t l o c a t i o n|Not_cod|Pytorch,OpenCV,PostgreSQL,Tensorflow,Computer Vision,Gitlab,ru,Python,Linux,Docker,info,Git,ClickHouse,Megainsight,Keras|200000.0|300000.0|108900
+30|bi аналитик|full-time|Not_qualification|м о с к в а|1.0|wa,mail,ru,tg,BI|150000.0|250000.0|104400
+31|system analyst middle|remote|middle|n o t l o c a t i o n|Not_cod|Confluence,SOAP,Camunda,system analyst,ftp,code,ESB,Soft Jet,SQL,REST,low,Kafka,UML,Telegram,BPMN|180000.0|300000.0|108900
+32|system analyst middle|remote|middle|n o t l o c a t i o n|Not_cod|Confluence,SOAP,Camunda,system analyst,ftp,code,ESB,Soft Jet,SQL,REST,low,Kafka,UML,Telegram,BPMN|180000.0|300000.0|108900
+33|data engineer|full-time|junior|м о с к в а|1.0|net,ETL,Loginom,AlphaBI,Python,SQL,DWH,ModusBI,legacy,DQ|125000.0|125000.0|104400
+34|machine learning engineer|remote|middle|n o t l o c a t i o n|Not_cod|Mathematical background,Pandas,Our expectations,Fluent in English,Transformers,Competitive salary,Pytorch,Sklearn,Vacancy,Responsibilities,BitBucket,CI,Official employment,Docker,Git,Requirements,Django,Work format,marked ML,from,Company,Conditions,PostgreSQL,Understanding of CI,Python,SQL,CD processes,Mad Devs Salary,CD,dollar|200000.0|300000.0|108900
+35|разработчик|full-time|middle|n o t l o c a t i o n|Not_cod|AI,www,Deep Learning,Sklearn,Data Science,Data set,hr,Docker,DVC,Git,net,PyTorch,PostgreSQL,ERP,NumPy,SciPy,driven,Python,tech,ML,Data,Airflow,MLFlow,IT,Kafka,Redis,ClickHouse|150000.0|200000.0|108900
+36|lead data engineer|remote|senior|м о с к в а|1.0|Get Taxi,Apache Kafka,ETL,App Store,Google Play,dbt,AWS,MarfaTech,OLAP,SQL,Python,Snowflake,Apple MBP,BI,Delivery Club,ing,Coca Cola,IT,Clickhouse,ABBYY,DE,VK,Apache Airflow|450000.0|550000.0|104400
+37|преподаватель онлайн курса clickhouse для инженеров и архитекторов бд|part-time|junior|м о с к в а|1.0|Best Practices,Zoom,IT,telegram,Clickhouse,OTUS|3000.0|3000.0|104400
+38|аналитик данных|full-time|middle|м о с к в а|1.0|STONE,data driven,DWH,stone,hard,vacancy,API,net,Power BI,ru,SQL,Python,BI,Data Management,https,stoneru,notion,hh,site|150000.0|150000.0|104400
+39|аналитик данных|full-time|middle|м о с к в а|1.0|net,STONE,notion,Soft,Power BI,hard,ru,data driven,SQL,Python,DWH,API,stone,BI,Data Management,https,stoneru,site|150000.0|150000.0|104400
+40|data engineer|full-time|senior|n o t l o c a t i o n|Not_cod|YQL,ETL,Superset,bash,Java,Hbase,ITQ Group,PostgreSQL,as,NoSQL,Phoenix,SQL,telegram,BI,Jasperserver,HBase,YTsaurus,Clickhouse,is|250000.0|300000.0|108900
+41|руководитель направления по исследованию данных|full-time|senior|с в е р д л о в с к а я о б л а с т ь|5.0|Sklearn,Lightgbm,Xgboost,RandomForest,Pandas,Catboost,Python,SQL,Statsmodels|230000.0|230000.0|111100
+42|data engineer|remote|Not_qualification|n o t l o c a t i o n|Not_cod|YQL,Superset,ETL,bash,Java,Hbase,PostgreSQL,as,NoSQL,Phoenix,SQL,BI,Jasperserver,Top Selection,HBase,YTsaurus,IT,Clickhouse,is|1700.0|1700.0|108900
+43|data science специалист|full-time|Not_qualification|n o t l o c a t i o n|Not_cod|Learn,ETH,Ethereum,USD,Data Science,NumPy,ALEX GROUP COMPANY,Pandas,Scikit,Python,SQL,ICO|310000.0|340000.0|108900
+44|аналитик данных|remote|Not_qualification|с а н к т п е т е р б у р г|2.0|net,HRG,HRlink,IT,HR,unit,HeadHunter|150000.0|150000.0|105200
+45|data engineer|remote|middle|n o t l o c a t i o n|Not_cod|IT,data,HEAAD|160000.0|160000.0|108900
+46|ml инженер|remote|middle|р е с п у б л и к а т а т а р с т а н т а т а р с т а н|4.0|ONNX models,GitLab CI,WSG,Unet,json,python,UAT,CI,API,Docker,Streamlit,CVAT,Yolo,GitLab,PyTorch,PostgreSQL,Gitlab Runners,DevOps,git,SQL,Linux,python ML,CD,backend,openCV,ML,Mobilenet,PyCharm,ML DevOps,IT,OpenVINO,DEV,EfficientNet,legacy|170000.0|170000.0|112800
+47|маркетолог|internship|Not_qualification|n o t l o c a t i o n|Not_cod|email,IT|777000.0|777000.0|108900
+48|дата аналитик middle|remote|middle|м о с к в а|1.0|front,TCP,Aris,UI,Confluence,Jira,back,IP,ER,Web,Scrum,SOAP,ESB,SLA,REST,UX,UML,Use Cases,Agile,BPMN,User Story|18000.0|18000.0|104400
+49|data scientist|remote|senior|n o t l o c a t i o n|Not_cod|ML,Oracle Telegram,GLM,catboost,xgboost,Top Selection,data science,MS SQL|230000.0|280000.0|108900
+50|data engineer|remote|middle|n o t l o c a t i o n|Not_cod|ETL,Spark,HDFS,NoSQL,Airflow,Scala,Oozie,Data Vault,Luigi,Flink,BI,NiFi,AirFlow|150000.0|270000.0|108900
+51|ml engineer|full-time|senior|n o t l o c a t i o n|Not_cod|tuning LLM,Scalable Solutions,Retriever,LLM,fine,Docker,Git,PyTorch,langchain,NLP,Python,Linux,LLMs,Bash,tuning,on|400000.0|400000.0|108900
+52|ml engineer|full-time|middle|n o t l o c a t i o n|Not_cod|in,Americor,Compliance,CV,Pytorch,ai,MySQL,com,open source LLM,Big Data,Skyeng,net,git,VOIP,Python,SQL,MongoDB,ML,ClickHouse|250000.0|250000.0|108900
+53|ai product manager|full-time|junior|n o t l o c a t i o n|Not_cod|USD,No Code,AI,Zero Code,product manager,AI Product manager,me,IT,Nexpanse,digital,https|250000.0|600000.0|108900
+54|data engineer|full-time|middle|n o t l o c a t i o n|Not_cod|career,dwh,tinkoff,ETL,Greenplum,ru,system,SQL,Python,it,analytics,www,me,Clickhouse,Data Platform,https|150000.0|400000.0|108900
+55|deep learning engineer|full-time|junior|м о с к в а|1.0|NVI Research,ML,AI,python,nvi,docker,TensorRT,git,ru,DL,me,CV,NVI Solutions,https,research,linux|100000.0|120000.0|104400
+56|data scientist|full-time|Not_qualification|n o t l o c a t i o n|Not_cod|ML,PyTorch,nlp,Jupyter Notebook,Machine Learning,Scikit,MlFlow,Python,Aston,learn,TensorFlow,Keras|250000.0|350000.0|108900
+57|data scientist|full-time|Not_qualification|м о с к в а|1.0|Jira,PostgreSQL,pgSQL,CTE,MVCC,XML,Oracle Pl,Postgis,job,PL,SQL,CSV,Git,JSON,ACID|150000.0|200000.0|104400
+58|data analyst|full-time|Not_qualification|м о с к в а|1.0|Tableau,Power Pivot,Power BI,Power Query,SQL,BI,Excel|200000.0|200000.0|104400
+59|преподаватель онлайн курса data warehouse analyst|part-time|Not_qualification|n o t l o c a t i o n|Not_cod|OTUS,IT,zoom c,Data Warehouse Analyst|300000.0|400000.0|108900
+60|аналитик продукта|full-time|middle|м о с к в а|1.0|Superset,Ru,Yandex,product analyst,Mail,Datalens,Tableau,BCG,Greenplum,Python,SQL,Magnit Tech,BI,ML,Lamoda,Airflow,IT,Avito,ClickHouse|200000.0|280000.0|104400
+61|data scientist|remote|senior|n o t l o c a t i o n|Not_cod|ML,LightGBM,Sklearn,off,production,WB,Pandas,XGBoost,Python,DL,Catboost,Numpy,SQL,day,Scipy,Wildberries|150.0|500000.0|108900
+62|data scientistdata analyst|full-time|middle|м о с к в а|1.0|net,ML,company,vacancy,vk,SQL,Python,https,VK|200000.0|250000.0|104400
+63|data scientist|full-time|senior|м о с к в а|1.0|OpenCV,PyTorch,Data Science,ai,DS,MLOps,production,Python,DL,Linux,Raspberry Pi,IT,MVP,Git,https|400000.0|500000.0|104400
+64|computer vision engineer|remote|senior|м о с к в а|1.0|OpenCV,PyTorch,Deep Learning,DevOps,git,Net,Python,Dev,HF Labs,CV,docker|200000.0|400000.0|104400
+65|senior ml разработчик|remote|middle|м о с к в а|1.0|Deep Learning,ML,Pytorch,Tensorflow,CTO,IT,SQL,Keras|450000.0|600000.0|104400
+66|преподаватель онлайн курса|remote|Not_qualification|n o t l o c a t i o n|Not_cod|zoom c,Data Warehouse Analyst,MLOps,IT,OTUS|300000.0|400000.0|108900
+67|senior database administrator|full-time|senior|м о с к в а|1.0|ELT,PostgreSQL,ETL,blockchain,Cypher,NoSQL,Airflow,II,Debezium,Match Systems,SQL,Blockchain,Kafka,Database Administrator,anti money laundering,ClickHouse,AML|300000.0|300000.0|104400
+68|руководитель группы продуктовой и маркетинговой аналитики|remote|senior|м о с к в а|1.0|SuperSet,BigQuery,gross,Metrika,ML,OWOX,Airflow,ClickHouse,Python,SQL,IT,me,https,App,Postgresql,AppsFlyer,PowerBI|400000.0|450000.0|104400
+69|руководитель группы продуктовой и маркетинговой аналитики|remote|senior|м о с к в а|1.0|SuperSet,BigQuery,gross,Metrika,ML,OWOX,Airflow,ClickHouse,Python,SQL,IT,me,https,App,Postgresql,AppsFlyer,PowerBI|400000.0|450000.0|104400
+70|data engineer|remote|Not_qualification|м о с к в а|1.0|ETL,BestBenefits,commerce,Vertica,Apache NiFi,PostgreSQL,MPP,Greenplum,Apache Ariflow,SQL,Python,Teradata,MS SQL,SAP Data Services,BW on HANA,Airflow,Oracle,IT,Clickhouse,Postgres|195000.0|245000.0|104400
+71|инженер данных|remote|Not_qualification|м о с к в а|1.0|ETL,BestBenefits,commerce,Vertica,Apache NiFi,PostgreSQL,MPP,Greenplum,Apache Ariflow,SQL,Python,Teradata,MS SQL,SAP Data Services,BW on HANA,Airflow,Oracle,IT,Clickhouse,Postgres|195000.0|245000.0|104400
+72|data scientist|full-time|junior|р е с п у б л и к а т а т а р с т а н т а т а р с т а н|4.0|NN,ML,python,DS,GBM,IOGA center,statsmodels,Kaggle,ru,IT,scipy,pandas,Git,Sayhire,bash,linux,SVM|250000.0|250000.0|112800
+73|data science|full-time|junior|с а н к т п е т е р б у р г|2.0|IT,Data Science|150000.0|250000.0|105200
+74|senior mlops|remote|senior|n o t l o c a t i o n|Not_cod|ML,SOTA ML,GPU multi,DevOps,MLOps,DS,production,off,PyTorch multi,Python,SQL,node,Linux,Go,Docker,day,Jupyter Hub,Wildberries|250000.0|500000.0|108900
+75|ml engineer|full-time|senior|n o t l o c a t i o n|Not_cod|inference,LLM,of,online,CV,WILDBERRIES,Wildberries,production,CI,Behavior Models,the,state,flow,Large Language,CD,art,ML,SEO|300000.0|600000.0|108900
+76|ml engineer|full-time|junior|м о с к в а|1.0|net,NLP,neural,developer,job,ru,Python,www,https,artlebedev|100000.0|180000.0|104400
+77|ml engineer|full-time|junior|м о с к в а|1.0|net,NLP,neural,developer,job,ru,Python,www,https,artlebedev|100000.0|180000.0|104400
+78|computer vision engineer|full-time|senior|n o t l o c a t i o n|Not_cod|ML,python,inference,smartbrainio,DL,CV,mercurial,git flow,npu,linux|410000.0|550000.0|108900
+79|бизнес аналитик|remote|Not_qualification|с а н к т п е т е р б у р г|2.0|SAAS,Trace,FMSG,XSD,Big data,Swagger,API,JSON,Postman,SOAP,Teva,Bayer,Kubernetes,Utrace,SQL,REST,BI,Navicon,SQL BI,XML,Johnson,BPMN,Track|240000.0|240000.0|105200
+80|data engineer|full-time|Not_qualification|n o t l o c a t i o n|Not_cod|SQL,MOEX,CME,c Git|200000.0|300000.0|108900
+81|data analystdata engineer|full-time|senior|с а м а р с к а я о б л а с т ь|4.0|ETL,Spark,info,bash,NiFi,data analysis,me,com,Docker,Jupyter,git,Python,SQL,Linux,https,Hadoop map,ing,Data,FineBI|140000.0|220000.0|111700
+82|ведущий разработчик с|remote|Not_qualification|n o t l o c a t i o n|Not_cod|http,Postman,PostgreSQ,MS SQL|250000.0|250000.0|108900
+83|senior devops|full-time|middle|с а н к т п е т е р б у р г|2.0|Jenkins,core,Cloud Native,DevOps,Python,Docker,Git,NodeJS,Ansible|350000.0|400000.0|105200
+84|sql аналитик|full-time|middle|м о с к в а|1.0|PostrgeSQL,PostgreSQL,SMS,ru,SQL,IT,IVR,SQl,push,https|250000.0|250000.0|104400
+85|sql аналитик|full-time|middle|м о с к в а|1.0|PostrgeSQL,PostgreSQL,SMS,ru,SQL,IT,IVR,SQl,push,https|250000.0|250000.0|104400
+86|продуктовый аналитик|remote|Not_qualification|n o t l o c a t i o n|Not_cod|IT,SQL,USD,ZION Development|250000.0|360000.0|108900
+87|аккаунт менеджер|remote|Not_qualification|n o t l o c a t i o n|Not_cod|FigJam,Zoom,Selectel,Skillfactory,Confluence,email,vacancy,Mailganer,com,Smartavia,ru,Usedesk,https,Tilda,IT,sms|40000.0|90000.0|108900
+88|системный аналитик|remote|Not_qualification|н и ж е г о р о д с к а я о б л а с т ь|4.0|AI,HTML,Confluence,Jira,io,CJM,API,commerce,machine learning,ER,Git,Excel,JSON,Postman,SOAP,NoSQL,SQL,Python,EPC,REST,MS Excel,UML,Visio,User Story Map,Use Cases,XML,Riverstart,IT,Draw,BPMN,User Story|150000.0|180000.0|111000
+89|ml lead|full-time|senior|р е с п у б л и к а т ы в а|6.0|js,ML,QA,front,AI,Scrum,gross,email,IoT,tg,PM,Agile,com,backend|350000.0|500000.0|104200
+90|data engineer|full-time|junior|n o t l o c a t i o n|Not_cod|Google Sheets,AI,DAGs,Glue,dbt,Workflow performance,BigQuery,FTP servers,Scientist,MySQL,me,STACK,Lambdas,GCP,SKILLS,Azure PostgreSQL,RESPONSIBILITIES,PostgreSQL,make,Adaptable to Windows,ru,Python,Redshift,Linux,Dataform,https,MSSQL,AWS Redshift,company,Airflow,KPI,Intermediate,Data Lake,AWS,etc|200000.0|300000.0|108900
+91|senior mlops|remote|senior|м о с к в а|1.0|ML,SOTA ML,GPU multi,DevOps,MLOps,DS,production,off,PyTorch multi,Python,SQL,node,Linux,Go,Docker,day,Jupyter Hub,Wildberries|250000.0|500000.0|104400
+92|аналитик данных|full-time|Not_qualification|м о с к в а|1.0|Excel,SQL,Google,Market Lab|200000.0|300000.0|104400
+93|web аналитик|full-time|middle|м о с к в а|1.0|app,gross,Google Tag Manager,Firebase,IS,TO,web,GTM,BE,Web,Google Analytics,Google BigQuery,Power BI,SQL,Python,appsFlyer,AS,AppMetrica,Looker|240000.0|240000.0|104400
+94|senior mlops|remote|senior|n o t l o c a t i o n|Not_cod|ML,SOTA ML,GPU multi,DevOps,MLOps,DS,production,off,PyTorch multi,Python,SQL,node,Linux,Go,Docker,day,Jupyter Hub,Wildberries|250000.0|250000.0|108900
+95|data engineer|remote|senior|n o t l o c a t i o n|Not_cod|Event Sourcing Projections,Event Sourced Data,KSQLDB,KAFKA,OLAP,Superset,RPS,IDP,IT,Python,DWH,CCS,Go,BI,Architecture,ClickHouse,ing|300000.0|300000.0|108900
+96|computer vision engineer|full-time|senior|n o t l o c a t i o n|Not_cod|ML,python,inference,smartbrainio,DL,CV,mercurial,git flow,npu,linux|410000.0|550000.0|108900
+97|golang разработчик|full-time|middle|n o t l o c a t i o n|Not_cod|Jira,PostgreSQL,QIWI,CD,fintech,Gitlab,CI,SQL,Python,HR,Kafka,Golang,Git,Docker,unit,Redis|250000.0|300000.0|108900
+98|computer vision engineer|full-time|middle|n o t l o c a t i o n|Not_cod|ML,python,inference,DL,smartbrainio,CV,mercurial,git flow,npu,linux|410000.0|550000.0|108900
+99|business analyst|full-time|Not_qualification|n o t l o c a t i o n|Not_cod|HuntIT,Digital,Business Analyst,web,IT,HR,TG,huntit,work,https,IT HR|300000.0|300000.0|108900
+100|product analyst|remote|Not_qualification|n o t l o c a t i o n|Not_cod|numpy,mobile,Pandas,Python,SQL,WILDBERRIES,sklearn,Product Analyst|300000.0|600000.0|108900
+101|продуктовый аналитик|full-time|Not_qualification|n o t l o c a t i o n|Not_cod|BigQuery,OpenMyGame,Tableau,Skill,SQL,Python,BI|13000.0|13000.0|108900
+102|junior или middle php разработчик|part-time|junior|n o t l o c a t i o n|Not_cod|JavaScript,js,JS frameworks,Jenkins,SCSS,PHP,Redux,MariaDB,MySQL,Git,Github Flow,learning,jQuery,Backbone,CSS,SASS,Yii,USD,React,Angular,etc|160000.0|240000.0|108900
+103|data analyst|remote|middle|n o t l o c a t i o n|Not_cod|ML,numpy,Data Science,Tableau,Redash,IT,Python,pandas,Grafana|200000.0|450000.0|108900
+104|bi developer|full-time|middle|n o t l o c a t i o n|Not_cod|Tableau,Brief,SQL,HR,UX,BI,UI,Fine BI|240000.0|280000.0|108900
+105|data analyst|remote|middle|n o t l o c a t i o n|Not_cod|ML,numpy,Data Science,Tableau,Redash,IT,Python,pandas,Grafana|200000.0|200000.0|108900
+106|продуктовый аналитик тестировщик|remote|Not_qualification|м о с к в а|1.0|tg|250000.0|250000.0|104400
+107|аналитик математик|full-time|Not_qualification|м о с к в а|1.0|net,Confluence,Jira,Matlab,Python|250.0|130000.0|104400
+108|data analyst|full-time|middle|м о с к в а|1.0|Invite IT,gross,Data,ETL,KION,DevOps,Premium,git,SQL,Python,DWH,bash,Data Lake,Big Data|250000.0|250000.0|104400
+109|product analyst|full-time|middle|n o t l o c a t i o n|Not_cod|HuntIT,DataLore,Digital,Tableau,web,SciPy,Pandas,IT,SQL,product analyst,MySQL,Python,BI,Numpy,Plotly,ClickHouse|150000.0|250000.0|108900
+110|ml engineer|remote|senior|n o t l o c a t i o n|Not_cod|ECCV,Gradient,Computer Vision,Machine Learning,opencv,TFlite,Pytorch,torchscript,Deep Learning,ICML,github,ICLR,arxiv,Apple,Best of,server,CV Engineer,face beautification,ICCV,numpy,NIPS,ML,CoreML,CVPR,production ready GAN,mobile,SOTA Computer Vision|300000.0|300000.0|108900
+111|devops инженеры|full-time|senior|n o t l o c a t i o n|Not_cod|Terraform,DevOps,IP,TCP,git,CI,Linux,Docker,bash,CD,Ansible,Java|200000.0|300000.0|108900
+112|data scientist|remote|Not_qualification|м о с к в а|1.0|MSSQL,PostgreSQL,Data Science,ETL,Oracle,FinTech,SQL,Python,airflow,grafana,Git,docker|200000.0|240000.0|104400
+113|компания|remote|Not_qualification|м о с к в а|1.0|tg|250000.0|250000.0|104400
+114|системный аналитик|full-time|Not_qualification|м о с к в а|1.0|Confluence,Chatlab,GRPC,Market Lab,SQL,Atlassian Jira,WS API,REST,Git,CRM,SaaS|200000.0|350000.0|104400
+115|qa automation|full-time|Not_qualification|м о с к в а|1.0|QA Automation,JS,TelegramBots,Pytest,Market Lab,Python,Jest|170000.0|170000.0|104400
+116|data analyst|full-time|middle|n o t l o c a t i o n|Not_cod|Finstar Financial Group,DFI,ETL,Power BI,KPI,SQL,Python,DWH,com,www,BI,digital,https,Digital Finance ational|200000.0|300000.0|108900
+117|data scientist|full-time|middle|с а н к т п е т е р б у р г|2.0|LLM,GPT,IT,NLP|250000.0|300000.0|105200
+118|разработка bi|remote|middle|n o t l o c a t i o n|Not_cod|ETL,Tableau,HTML,CSS,Apache Superset,it,SQL,BI,Power Bi,Qlik|160000.0|190000.0|108900
+119|bi developer|full-time|middle|n o t l o c a t i o n|Not_cod|Confluence,PostgreSQL,DDL,Power BI,DAX,DIY,DML,FMCG,IT,SQL,DWH,BI,My SQL,ClickHouse|160000.0|200000.0|108900
+120|middle product analyst|full-time|middle|n o t l o c a t i o n|Not_cod|notion,emex,EMEX,Product,tg,SQL,Python,commerce,group,Analyst,https,site,pvs,Product Analyst|150000.0|280000.0|108900
+121|s|remote|senior|n o t l o c a t i o n|Not_cod|Google Analytics,Tableau,Power BI,Amplitude,Mixpanel,CloverCode|250000.0|350000.0|108900
+122|data scientist|full-time|junior|с а н к т п е т е р б у р г|2.0|IT,Data Science|150000.0|250000.0|105200
+123|системный аналитик|full-time|middle|n o t l o c a t i o n|Not_cod|Confluence,ETL,KPI,Oracle,IT,SQL,DWH,Atlassian Jira|290000.0|290000.0|108900
+124|вакансия для начинающих data science|full-time|junior|с а н к т п е т е р б у р г|2.0|IT,Data Science|150000.0|250000.0|105200
+125|системный аналитик|remote|middle|n o t l o c a t i o n|Not_cod|Confluence,Jira,PlantUML,swagger,kafka,REST API,SQL,it,join,OpenAPI,group by,UML,BPMN|160000.0|190000.0|108900
+126|frontend разработчик|full-time|Not_qualification|n o t l o c a t i o n|Not_cod|React,QIWI,SPA,Redux,job,Kubernetes,Frontend,ru,Agile,SOLID,Typescript,TypeScript,MobX,JavaScript|230000.0|230000.0|108900
+127|data scientist|full-time|senior|n o t l o c a t i o n|Not_cod|Programming,Machine Learning,Strong Math Skills,Nearest Neighbors,on Experience,Java,js,Responsibilities,Data Science,Naive Bayes,Hands,Degree,me,com,Familiarity with Scala,Software Engineering Background,Preferred Additional Skills,Communication Skills,Data Wrangling,Decision Forests,Develop real,Analytical Mind,Familiarity with open,Python,Knowledge of,Pig is desirable,Statistics,https,Key Skills,Data Visualization,In Computer Science,Hive,or C,Mathematics,etc,SVM|400000.0|450000.0|108900
+128|product data analyst|full-time|senior|n o t l o c a t i o n|Not_cod|outside Russia,work,English,Belarus Company,Product analysis experience,Data Science experience,Project,Travel,years of Data,Understanding of web,Structure data,Contact,Europe,Create dashboards,Create custom reports,Salary,Basic API knowledge,Location,Amazon QuickSight,PO,Language,You Have|350000.0|450000.0|108900
+129|data engineer|remote|senior|м о с к в а|1.0|Superset,DWH,PowerBI,Tableau,hr,me,com,data,PostgreSQL,Greenplum,git,Python,SQL,Linux,csv,https,Amazon,Airflow,DataLake,IT,Clickhouse,Kafka|200000.0|200000.0|104400
+130|data analyst|full-time|middle|м о с к в а|1.0|PowerDesigner,Draw io,SQL,erwin,Visio|250000.0|350000.0|104400
+131|co founder в ai проект|part-time|Not_qualification|n o t l o c a t i o n|Not_cod|Co,CTO,AI,Alluxe,Web,backend,Full Stack Developer|175000.0|250000.0|108900
+132|data engineer|full-time|Not_qualification|м о с к в а|1.0|ELT,Jenkins,gross,pgSQL,Nifi,ETL,Kubernetes,Apache AirFlow,Pandas,PL,SQL,Python,DWH,BI,Docker,TenzorFlow|300.0|380000.0|104400
+133|бизнес аналитик|part-time|senior|n o t l o c a t i o n|Not_cod|SConsulting,Visio,ARIS|220000.0|250000.0|108900
+134|бизнес аналитик|part-time|senior|n o t l o c a t i o n|Not_cod|MS Visio,SConsulting,Business Studio,ARIS,EPC,MS Office,Visio|250000.0|350000.0|108900
+135|data analyst|part-time|Not_qualification|м о с к о в с к а я о б л а с т ь|1.0|Google Analytics,Google BigQuery,Product,Google Cloud Platform,Cloud,GTM,SQL,Google Looker Studio,SQl,GGSel,Clickhouse,Google Tag Manager|80000.0|80000.0|109300
+136|data инженер|full-time|senior|с а м а р с к а я о б л а с т ь|4.0|ETL,Spark,info,bash,NiFi,data analysis,me,com,Docker,Jupyter,git,Python,SQL,Linux,https,Hadoop map,ing,Data,FineBI|120000.0|180000.0|111700
+137|data scientist|full-time|middle|n o t l o c a t i o n|Not_cod|Google Sheets,ML,io,Data Science,Python,SQL,Analyst,me,Smartbrain,Excel,https|350000.0|450000.0|108900
+138|аналитик данных|remote|middle|м о с к в а|1.0|Confluence,tg,Python,Linux,Windows,Targetprocess|100000.0|100000.0|104400
+139|product analyst|full-time|senior|м о с к в а|1.0|Mail,ML,BCG,Datalens,Lamoda,Superset,Tableau,Greenplum,Airflow,Python,Product analyst,SQL,Yandex,Avito,BI,Ru,IT,ClickHouse|200000.0|250000.0|104400
+140|ml engineer|full-time|senior|м о с к в а|1.0|IDF,Hugging Face,DeepSeed,LLM,Torch,AirFlow,Sklearn,MLOps,TensorRT,Brand Analytics,TF,Docker,net,PyTorch,FastAPI,CatBoost,ru,Python,SQL,Telegram,MLM,https,Data Mining,noSQL,ML,LM,MLFlow,IT,analytics,GoLang,legacy,SaaS|450000.0|450000.0|104400
+141|ведущий бизнес аналитик|remote|middle|м о с к в а|1.0|net,Confluence,Jira,AS IS,hr,TO BE,UML,BPMN|230000.0|250000.0|104400
+142|bi analyst|remote|middle|n o t l o c a t i o n|Not_cod|Azure,ProductOwner,sick days,Product Owner,KL Group,HTML,Power Query,Power BI,DAX,Power,Azure Synapse Analytics,Azure Data Factory,API,performance review,DWH,Odata,Azure DevOps|250000.0|300000.0|108900
+143|ml engineer|full-time|senior|n o t l o c a t i o n|Not_cod|SKL,ML,Pytorch,vc,AI,NLP,AI Assistant,http,NLU,LLM,Python,VC,GPU,CPU|500000.0|800000.0|108900
+144|системный аналитик dwh|full-time|middle|м о с к в а|1.0|net,Confluence,ETL,Oracle,IT,SQL,DWH,Atlassian Jira|296000.0|296000.0|104400
+145|ds lead|full-time|senior|м о с к в а|1.0|ML,AdTech,GPT,DS,IT,GetIT,Chat|400000.0|600000.0|104400
+146|senior php разработчик|full-time|senior|с а н к т п е т е р б у р г|2.0|Symfony,Laravel,RabbitMQ,PHP,MySQL,GetIT,Kafka|250000.0|350000.0|105200
+147|ml engineer|remote|senior|n o t l o c a t i o n|Not_cod|ECCV,Gradient,Computer Vision,Machine Learning,opencv,TFlite,Pytorch,torchscript,Deep Learning,ICML,github,ICLR,arxiv,Apple,Best of,server,CV Engineer,face beautification,ICCV,numpy,NIPS,ML,CoreML,CVPR,production ready GAN,mobile,SOTA Computer Vision|300000.0|300000.0|108900
+148|data engineer|full-time|Not_qualification|м о с к в а|1.0|PostrgeSQL,gross,pgSQL,ETL,Data Vault,DWH,SQL OR,Jenkins,IBS,OR  OR  OR,CI,PL,Git,Hadoop,Skyeng,OR,Greenplum,Bitbucket,ru,Spirit,SQL,Python,Linux,BI,CD,Teradata,https,Fitness,Ad hoc,Oracle,IT|330000.0|330000.0|104400
+149|ml engineer|remote|Not_qualification|м о с к в а|1.0|ML,ML C,SMART MONEY|500000.0|500000.0|104400
+150|data engineer|part-time|senior|n o t l o c a t i o n|Not_cod|gross,ETL,time,Tableau Server,Python,SQL,Part,CloverCode|150000.0|250000.0|108900
+151|tts специалист|remote|Not_qualification|n o t l o c a t i o n|Not_cod|Style Modeling,ASR,AI,Spark,open,NastyaSereb,DL,TTS,CV,Speech,python,TensorRT,CI,Replika,me,pytorch,VAD,NLP,Transfer,Triton,SQL,resource TTS,low,Computer Science,CD,https,backend,ML,ONNX,Voice Conversion,docker|500000.0|800000.0|108900
+152|руководитель направления по исследованию данных|full-time|senior|с в е р д л о в с к а я о б л а с т ь|5.0|Sklearn,Lightgbm,Xgboost,RandomForest,Pandas,Catboost,Python,SQL,Statsmodels|230000.0|230000.0|111100
+153|управление корпоративных данных|full-time|senior|с а н к т п е т е р б у р г|2.0|gross,JIRA,DG,SQL,Qlik,DQ,Data Governance|170000.0|270000.0|105200
+154|machine learning engineer|remote|middle|р е с п у б л и к а т ы в а|6.0|in,AI,DICOM,DL,www,CV,bash,NIfTI,research,core,io,python,Data Science,LinkendIn,MLOps,linkedin,Oxygen Technologies,com,Docker,CEO,Git,DVC,LinkenIn,Prod,PyTorch,CTO,gle,DS,ClearML,https,Research,MLFlow,Nrrd,forms,etc|250000.0|350000.0|104200
+155|data full stack analyst|remote|middle|n o t l o c a t i o n|Not_cod|ELT,python,numpy,ETL,Tableau,Kubernetes,Redash,IT,Python,matplotlib,Grafana,pandas,Git,Ad,ClickHouse,CPO,hoc|200000.0|450000.0|108900
+156|web аналитик|full-time|middle|м о с к в а|1.0|app,gross,Google Tag Manager,Firebase,IS,TO,web,GTM,BE,Web,Google Analytics,Google BigQuery,Power BI,SQL,Python,appsFlyer,AS,AppMetrica,Looker|300000.0|300000.0|104400
+157|системный аналитик dwh|full-time|middle|м о с к в а|1.0|Confluence,gross,ETL,Oracle,IT,SQL,DWH,Atlassian Jira|296.0|296000.0|104400
+158|системный аналитик dwh|full-time|middle|м о с к в а|1.0|net,Confluence,ETL,Oracle,IT,SQL,DWH,Atlassian Jira|296000.0|296000.0|104400
+159|ведущий разработчик с erp|full-time|middle|n o t l o c a t i o n|Not_cod|SOAP,XML,ERP,HTTP,JSON|250000.0|250000.0|108900
+160|руководитель направления|full-time|senior|n o t l o c a t i o n|Not_cod|Confluence,Jira,Superset,Spark,Airflow,Oracle,Python,SQL,FunDay,SM Lab,Docker,Git,data science,STIN|1000.0|2000.0|108900
+161|ведущий администратор баз данных|full-time|Not_qualification|с а н к т п е т е р б у р г|2.0|SQL,Postgre SQL,MS SQL|13.0|180000.0|105200
+162|senior database administrator|full-time|senior|м о с к в а|1.0|ELT,PostgreSQL,ETL,blockchain,Cypher,NoSQL,Airflow,II,Debezium,Match Systems,SQL,Blockchain,Kafka,Database Administrator,anti money laundering,ClickHouse,AML|300000.0|300000.0|104400
+163|middle devops engineer|full-time|middle|м о с к в а|1.0|Nexus,bash,Grafana,Avant IT,Gitlab CI,CI,Git,Sentry,OpenVPN,Ansible,PostgreSQL,Terraform,Openshift,Kubernetes,Python,SQL,Cloudflare,Kubespray,CD,Helm,Prometheus,DevOps Engineer,on,Istio|180000.0|250000.0|104400
+164|продуктовый аналитик|full-time|Not_qualification|n o t l o c a t i o n|Not_cod|Appsflyer,SUPER POWER,Cosmic Vibrations Inc,Singular,learn,SKILLS,Posthog,Amplitude,SQL,Python,test,Offer,https,TO DO,ML,USD,legacy|250000.0|250000.0|108900
+165|bi analyst|full-time|middle|n o t l o c a t i o n|Not_cod|KL Group,Product Owner,performance review,Power Query,Power BI,DAX,Power,Telegram,WW,day off|250000.0|300000.0|108900
+166|web аналитик|full-time|middle|n o t l o c a t i o n|Not_cod|www,Looker Studio,CV,Google Tag Manager,BD,NK,su,monopoly,BA,web,gavrilenko,com,BB,facebook,net,Google Analytics,Google BigQuery,Yandex Clickhouse,Power BI,ru,SQL,digital,https,hashtag,WEB,tatiana|180000.0|180000.0|108900
+167|продуктовый аналитик|full-time|Not_qualification|n o t l o c a t i o n|Not_cod|ML,USD,Appsflyer,SUPER POWER,Posthog,Amplitude,Cosmic Vibrations Inc,SQL,Python,test,Singular,legacy,Offer,learn,TO DO,SKILLS|250000.0|250000.0|108900
+168|bi analyst|full-time|middle|м о с к в а|1.0|ML,bi,PostgreSQL,AI,PaaS,Power BI,Ad hoc,Cloud,ru,IaaS,IT,SQL,Python,Intermediate,Bi,BI,Vertica|150000.0|150000.0|104400
+169|руководитель продуктового pl|full-time|senior|м о с к в а|1.0|pro,SQL,Excel,https|280000.0|280000.0|104400
+170|разработчик mediawiki|full-time|Not_qualification|n o t l o c a t i o n|Not_cod|Rubrain,PHP,MediaWiki,MySQL,Telegram|250000.0|350000.0|108900
+171|bi analyst|remote|middle|n o t l o c a t i o n|Not_cod|Azure,ProductOwner,sick days,Product Owner,KL Group,HTML,Power Query,Power BI,DAX,Power,Azure Synapse Analytics,Azure Data Factory,API,performance review,DWH,Odata,Azure DevOps|250000.0|300000.0|108900
+172|product analyst|remote|junior|n o t l o c a t i o n|Not_cod|app,WindyApp,ARPU,Ad hoc,SQL,Product analyst,Python,Windy,Clickhouse,HR,Retention,LTV|120000.0|200000.0|108900
+173|data analyst|full-time|senior|n o t l o c a t i o n|Not_cod|Proficiency in Python,Salary budget,www,Form of work,ETL tools,advantage,Contact,We,visualisation libs,Product Analyst,from,and keep innovating,group,Plan,You will,https,ing,Astromer,Muse Group,Airflow,execute,Employment,Clickhouse,etc|4000.0|4000.0|108900
+174|data engineer|full-time|middle|n o t l o c a t i o n|Not_cod|career,dwh,tinkoff,ETL,Greenplum,ru,system,SQL,Python,it,analytics,www,Clickhouse,me,Data Platform,https|150000.0|400000.0|108900
+175|data analyst|full-time|senior|n o t l o c a t i o n|Not_cod|Proficiency in Python,Salary budget,Form of work,ETL tools,advantage,We,visualisation libs,Product Analyst,from,and keep innovating,Plan,You will,ing,Astromer,About Us,Muse Group,Airflow,execute,Employment,Clickhouse,etc|4000.0|4000.0|108900
+176|senior|full-time|middle|м о с к в а|1.0|ML,PostgreSQL,ad,MS,SQL,Python,Clickhouse,BI,hoc|200000.0|200000.0|104400
+177|senior devops инженер|full-time|senior|м о с к в а|1.0|PostgreSQL,NoSQL,Kubernetes,ELK,CI,SQL,MySQL,Devops,MongoDB,it,Docker,Grafana,CD,Redis,ClickHouse,Ansible|300000.0|400000.0|104400
+178|системный аналитик dwh|full-time|middle|м о с к в а|1.0|Confluence,Jira,gross,ETL,Oracle,IT,SQL,DWH|296000.0|296000.0|104400
+179|data engineer|remote|middle|м о с к в а|1.0|pgSQL,ETL,ERWin,PL,Java Enterprise Edition,Powershell,Spring,Big Data,Hadoop,PostgreSQL,SQL,RUB gross,Green Plum,Aston,PowerDesinger,MSSQL,CASE,TSQL,Informatica PowerCenter,Oracle,IT,Kafka,Oracle GoldenGate|200000.0|310000.0|104400
+180|data scientist|full-time|senior|м о с к в а|1.0|OpenCV,PyTorch,Data Science,ai,DS,MLOps,production,Python,DL,Linux,Raspberry Pi,IT,MVP,Git,https|400000.0|500000.0|104400
+181|преподаватель онлайн курса искусственный интеллект в медицине|part-time|junior|n o t l o c a t i o n|Not_cod|AI,Data Science,Machine Learning,Best Practices,Zoom,IT,telegram,OTUS|3000.0|5000.0|108900
+182|devops|full-time|middle|n o t l o c a t i o n|Not_cod|STL,DevOps,Boost,git,ru,Python,gitlab,Linux,CMake,cmake|300000.0|300000.0|108900
+183|data analyst|remote|middle|n o t l o c a t i o n|Not_cod|OLAP,Tableau,MIA Dev,SSAS,SQL,SSIS,PowerBI|100000.0|140000.0|108900
+184|data scientist|full-time|Not_qualification|м о с к в а|1.0|PyCharm,git,FinTech,SQL,Python,CRM|240000.0|290000.0|104400
+185|руководитель отдела аналитики|remote|senior|м о с к о в с к а я о б л а с т ь|1.0|net,Appmetrica,PostgreSQL,Google Analytics,Appsflyer,Tableau,web,DAX,SQL,Python,Excel|200000.0|280000.0|109300
+186|data engineer|remote|middle|м о с к в а|1.0|pgSQL,ETL,ERWin,PL,Java Enterprise Edition,Powershell,Spring,Big Data,Hadoop,PostgreSQL,SQL,RUB gross,Green Plum,Aston,PowerDesinger,MSSQL,CASE,TSQL,Informatica PowerCenter,Oracle,IT,Kafka,Oracle GoldenGate|310000.0|310000.0|104400
+187|senior qa full stack|full-time|senior|n o t l o c a t i o n|Not_cod|QA Full Stack,Unit,Forex,Task Agency,Selenide,HTTP,IT,Blockchain,REST,Gradle,GitLab CI,CD,Selenium,HTTPs,Java|400000.0|400000.0|108900
+188|data аналитика|remote|Not_qualification|n o t l o c a t i o n|Not_cod|Data,Superset,email,ai,superset,WA,Athena,Presto,Python,SQL,Clickhouse,Git,etl,Trino|300000.0|300000.0|108900
+189|продуктовый аналитик|full-time|Not_qualification|м о с к в а|1.0|Google Firebase,AppsFlyer,Reporting services,Tableau,Power BI,KPI,GTM,Amplitude,SQL,Python,GA,QlikView,Hoff|185000.0|185000.0|104400
+190|продуктовый аналитик|full-time|Not_qualification|м о с к в а|1.0|Google Firebase,AppsFlyer,Reporting services,Tableau,Power BI,KPI,GTM,Amplitude,SQL,Python,GA,QlikView,Hoff|185000.0|185000.0|104400
+191|web аналитик|full-time|Not_qualification|с а н к т п е т е р б у р г|2.0|www,Looker Studio,CV,Google Tag Manager,BD,NK,su,monopoly,BA,web,gavrilenko,com,BB,facebook,net,Google Analytics,Google BigQuery,Yandex Clickhouse,Power BI,ru,SQL,digital,https,hashtag,WEB,tatiana|180000.0|180000.0|105200
+192|senior product analyst|remote|senior|n o t l o c a t i o n|Not_cod|notion,emex,EMEX,Product,tg,SQL,Python,commerce,group,Analyst,https,site,pvs,Product Analyst|280000.0|380000.0|108900
+193|продуктовый аналитик|full-time|middle|с а н к т п е т е р б у р г|2.0|Daruma,tg,IT,SQL,Python,Grafana,ClickHouse,Hadoop|350000.0|350000.0|105200
+194|data engineerdata analyst|remote|senior|n o t l o c a t i o n|Not_cod|ETL,Superset,Adjust,Branch,DBT,Tableau,Postgre,Tiktok,Google Analytics,Excdev,Google Ads,Binom,AppsFlyer,SkadNetwork iOS,Airflow,Google Looker,AppMetrica,Clickhouse,Meta|200000.0|300000.0|108900
+195|lead data analyst|full-time|senior|м о с к в а|1.0|AB,Google Analytics,web,iGaming,MariaDB,SQL,Python,Hard Skills,Amplitude,Soft Skills,tech,https,ClickHouse,Your Personal Agent,LTV|250000.0|350000.0|104400
+196|преподаватели по курсу data analytics|remote|middle|n o t l o c a t i o n|Not_cod|Data analytics,Google presentation,Python,it,BI,Algorithms,ITCH|2500.0|2500.0|108900
+197|аналитик данных|full-time|middle|м о с к в а|1.0|STONE,DataLens,ETL,DataHub,data driven,DWH,stone,City,Deploy,Confluence,io,Streamlit,Docker,GitLab,pvs,excel,net,draw,Power BI,ru,Monitoring,Python,SQL,telegram,BI,https,stoneru,Docs,MSSQL,ML,notion,Airflow,Reporting,SSIS,DE,ClickHouse,linux,site|150000.0|180000.0|104400
+198|devops engineer|full-time|middle|м о с к в а|1.0|SberCloud,IaaS,Devops,Grafana,elk,CI,gitlab,Docker,Ansible,PostgreSQL,Terraform,Yandex Cloud,Kubernetes,IaC,RabbitMq,CD,Prometheus,DevOps Engineer,IT,NET|250000.0|320000.0|104400
+199|data engineer|full-time|middle|n o t l o c a t i o n|Not_cod|career,dwh,tinkoff,ETL,Greenplum,ru,system,SQL,Python,it,analytics,www,Clickhouse,me,Data Platform,https|150000.0|400000.0|108900
+200|бизнес аналитик|full-time|middle|n o t l o c a t i o n|Not_cod|ELT,ETL,SQL,DWH,BI,UML|250000.0|250000.0|108900
+201|senior|full-time|middle|м о с к в а|1.0|ML,PostgreSQL,ad,MS,SQL,Python,Clickhouse,BI,hoc|200000.0|200000.0|104400
+202|etl developer|full-time|middle|м о с к в а|1.0|Informatica PC,PostgreSQL,ETL,IBM DataStage,ru,SQL,DWH,BI,UML,Pentaho Data Integrator,https,Java|250000.0|250000.0|104400
+203|data scientist|full-time|Not_qualification|м о с к в а|1.0|MSSQL,PostgreSQL,Data Science,ETL,Oracle,FinTech,SQL,Python,airflow,grafana,Git,docker|200.0|350000.0|104400
+204|разработчик etl|full-time|middle|n o t l o c a t i o n|Not_cod|Informatica PC,PostgreSQL,ETL,IBM DataStage,SQL,DWH,BI,UML,Pentaho Data Integrator,Java|250000.0|250000.0|108900
+205|руководитель продуктового pl|full-time|senior|м о с к в а|1.0|Excel,SQL|280000.0|280000.0|104400
+206|ml engineer|full-time|Not_qualification|т у л ь с к а я о б л а с т ь|1.0|IT Test,AI,LangChain,LLM,IT,ChatGPT,Python,Streamlit,Chroma,RAGAs|330000.0|330000.0|111700
+207|team lead|remote|senior|n o t l o c a t i o n|Not_cod|Deep Learning,ML,GGTechnology,OpenCV,Computer Vision|300000.0|400000.0|108900
+208|web аналитик|full-time|Not_qualification|с а н к т п е т е р б у р г|2.0|www,Looker Studio,CV,Google Tag Manager,BD,NK,su,monopoly,BA,web,gavrilenko,com,BB,facebook,net,Google Analytics,Google BigQuery,Yandex Clickhouse,Power BI,ru,SQL,digital,https,hashtag,WEB,tatiana|150000.0|180000.0|105200
+209|дата аналитик|remote|middle|n o t l o c a t i o n|Not_cod|Google Sheets,ETL,Pandas,Google Tag Manager,App,Albato,Google Cloud,BigQuery,Garpun,JetStat,Web,AppsFlayer,Google Analytics,Google Data Studio,Google BigQuery,performance review,Amplitude,Python,SQL,UX,YouTalk|100000.0|150000.0|108900
+210|преподаватели по курсу data analytics|part-time|middle|n o t l o c a t i o n|Not_cod|Data analytics,Python,Algorithms,CET,PowerBI|2500.0|2500.0|108900
+211|ведущий аналитик|remote|junior|n o t l o c a t i o n|Not_cod|gross,Appsflyer,ETL,Superset,QlikSense,Mixpanel,QlikView,Firebase,Datalens,Tableau,MySQL,Excel,Vertica,Hadoop,Google Analytics,SQL Server,Google Data Studio,Google BigQuery,Power BI,Amplitude,SQL,Python,Oracle,AppMetrica,Postgres|250000.0|250000.0|108900
+212|data scientist|full-time|Not_qualification|м о с к в а|1.0|MSSQL,PostgreSQL,Data Science,ETL,Oracle,FinTech,SQL,Python,airflow,grafana,Git,docker|240000.0|350000.0|104400
+213|data analyst|remote|senior|n o t l o c a t i o n|Not_cod|Oracle,sql,SQL,BI|300000.0|350000.0|108900
+214|qa engineer|full-time|Not_qualification|м о с к в а|1.0|app,api,GitLab CI,io,back,vacancies,CI,commerce,Docker,Git,gRPC,Python,SQL,CD,Bash,https,backend,REST API,Kafka,QA Engineer|180000.0|400000.0|104400
+215|преподаватели по курсу data analytics|part-time|middle|n o t l o c a t i o n|Not_cod|Data analytics,Google presentation,Power BI,Python,SQL,Algorithms,CET,Product analytics|2500.0|2500.0|108900
+216|data scientist|full-time|middle|м о с к в а|1.0|in,Fintech,catboost,www,core,Data Science,Pyspark,linkedin,xgboost,com,Prod,pandas,lightgbm,learn,numpy,git,ru,SQL,ML Platorm,MacBook,https,Research,ML,scikit,Airflow,kuber,etc|200000.0|300000.0|104400
+217|data engineer|full-time|senior|м о с к в а|1.0|Spark,data quality,DWH,AirFlow,Java,DBT,Scala,CDC,KafkaConnect,Dbt,Yandex Cloud,Python,SQL,Apache Pulsar,Hudi OpenMetaData,Data,GreenPlum,Airflow,Trino Clickhouse Parquet,AF,Kafka,ClickHouse,Debezium|200000.0|350000.0|104400
+218|или postgresql|remote|Not_qualification|n o t l o c a t i o n|Not_cod|IT,gross,PostgreSQL,MS SQL|180000.0|180000.0|108900
+219|бизнес аналитик|remote|junior|n o t l o c a t i o n|Not_cod|Superset,Appsflyer,Windows,CV,QlikSense,Mixpanel,QlikView,analyst,Firebase,Datalens,Tableau,MySQL,Excel,Vertica,Hadoop,Google Analytics,SQL Server,Google Data Studio,Google BigQuery,Power BI,Amplitude,SQL,Python,Oracle,AppMetrica,legacy,Postgres,Mac|285000.0|285000.0|108900
+220|системный аналитик|remote|middle|n o t l o c a t i o n|Not_cod|XML,BPMN,WSDL,PL,RUP,SQL,Agile,DFD,UML,IDEF,MSF,Waterfall|350000.0|350000.0|108900
+221|web аналитик|full-time|middle|м о с к в а|1.0|BigQuery,Google Analytics,AmoCRM,Roistat,Bitrix,ETL,PowerBi,Google Ads,SQL,Python,SIBERIA,GA,Google Tag Manager,CRM,Web|120000.0|120000.0|104400
+222|senior system analyst|full-time|senior|n o t l o c a t i o n|Not_cod|Apache Kafka,Spark,SAP BO,AO Bereke Bank,bash,QlikView,GoldenGate,Tableau,system analyst,MS SQL Server,UNIX,me,MemSQL,Hadoop,CDC,Python,Informatica,SQL,Teradata,https,HBase,Druid,Change Data Capture,GreenPlum,Hive,Oracle,ClickHouse,Rabbit MQ,Debezium|230000.0|230000.0|108900
+223|data engineer|remote|senior|м о с к в а|1.0|Superset,DWH,PowerBI,Tableau,hr,me,com,data,PostgreSQL,Greenplum,git,Python,SQL,Linux,csv,https,Amazon,Airflow,DataLake,IT,Clickhouse,Kafka|200000.0|200000.0|104400
+224|data analyst|full-time|Not_qualification|n o t l o c a t i o n|Not_cod|Google Sheets,AI,ETL,Pandas,Google Tag Manager,App,Google Cloud,Albato,BigQuery,well,Garpun,JetStat,Web,being,AppsFlayer,net,Google Analytics,Google Data Studio,Google BigQuery,performance review,Amplitude,Python,SQL,UX,YouTalk,ML|100000.0|100000.0|108900
+225|аналитик системы мониторинга|full-time|middle|n o t l o c a t i o n|Not_cod|IT,HH,ITIL,Outlines Tech,Forbes|200000.0|200000.0|108900
+226|бизнес аналитик|remote|junior|м о с к в а|1.0|Superset,Appsflyer,Windows,QlikSense,Mixpanel,QlikView,Firebase,Datalens,Tableau,MySQL,Excel,Vertica,Hadoop,Google Analytics,SQL Server,Google Data Studio,Google BigQuery,Power BI,Amplitude,SQL,Python,Task agency,Oracle,AppMetrica,Mac,Postgres|285000.0|285000.0|104400
+227|data scientist|full-time|Not_qualification|м о с к в а|1.0|PyCharm,git,FinTech,Python,SQL,CRM|240000.0|290000.0|104400
+228|middle product analyst|remote|middle|n o t l o c a t i o n|Not_cod|eComm,www,PowerBI,BigQuery,web,commerce,com,Product Analyst,PostgreSQL,DataStudio,ru,luxury,SQL,Python,Telegram,tech,https,fashion,MSSQL,mobile|200000.0|200000.0|108900
+229|бизнес аналитик|remote|Not_qualification|м о с к в а|1.0|SQL,Task agency,Python,Excel|285.0|285000.0|104400
+230|старший менеджер по аналитике|remote|Not_qualification|n o t l o c a t i o n|Not_cod|Hyperion,OLAP,Digital,Power Pivot,DMP,SQL,Python,IT,MS Excel,MS Office,MS Power Point,Hadoop|175.0|175000.0|108900
+231|data analyst|full-time|Not_qualification|n o t l o c a t i o n|Not_cod|Google Sheets,AI,ETL,Pandas,Google Tag Manager,App,Google Cloud,Albato,BigQuery,well,Garpun,JetStat,Web,being,AppsFlayer,net,Google Analytics,Google Data Studio,Google BigQuery,performance review,Amplitude,Python,SQL,UX,YouTalk,ML|100000.0|100000.0|108900
+232|data scientist|remote|middle|м о с к в а|1.0|in,Spark,Next Best Action,classic ML cls,Impala,DL,www,core,BD,Data Science,BA,MLOps,Uplift evaluating,linkedin,com,BB,Prod,Hadoop,learning,ru,Propensity scoring,Python,SQL,https,Research,ML,BC,Hive,Active Learning,kuber,DE|300000.0|400000.0|104400
+233|middle php разработчик|full-time|middle|м о с к в а|1.0|Unit,PHP,PSR,SQL,Dry,SOLID,DWH,EGGHEADS,unit,code review,ClickHouse,MySql,Kiss|200000.0|230000.0|104400
+234|bi analyst|full-time|Not_qualification|м о с к в а|1.0|net,Superset,HTML,CSS,SQL,me,UX,BI,Telegram,UI,https|20000.0|130000.0|104400
+235|системный аналитик|remote|middle|н и ж е г о р о д с к а я о б л а с т ь|4.0|Confluence,Jira,SOAP,XML,ERP,Riverstart,LMS,SQL,REST,XSD,JSON,CRM|160000.0|200000.0|111000
+236|ml engineer|remote|middle|n o t l o c a t i o n|Not_cod|Mathematical background,Pandas,Our expectations,Fluent in English,Transformers,Competitive salary,Pytorch,Level Work format,Vacancy,Responsibilities,Sklearn,BitBucket,CI,Official employment,Docker,Git,Requirements,Django,Company,Conditions,PostgreSQL,Understanding of CI,Python,SQL,CD processes,Mad Devs Salary,CD,dollar,DevOps work together|200000.0|300000.0|108900
+237|lead data analyst|full-time|senior|м о с к в а|1.0|ad,Ad hoc,ru,SQL,me,https,hoc|240000.0|240000.0|104400
+238|продуктовый аналитик|full-time|junior|м о с к в а|1.0|net,HR BP,Tableau,Superjob,NumPy,SciPy,Matplotlib,Pandas,IT,Python,SQL,HRTech,telegram,SuperJob,BI,ClickHouse|200000.0|200000.0|104400
+239|data analyst|remote|Not_qualification|м о с к в а|1.0|DataLens,Superset,bash,Ubuntu,Tableau,pandas,Apache Airflow,PostgreSQL,Power BI,git,SQL,Python,Linux,BI,Visiology,Debian,UNION,BI Apache Superset,IT,CentOS,JOIN|150000.0|150000.0|104400
+240|ведущий java разработчик|full-time|Not_qualification|n o t l o c a t i o n|Not_cod|Nexus,core,Java,Confluence,Jenkins,Jira,BitBucket,Spring,data,Scrum,Kubernetes,Skillbox,BPM,MongoDB,Quarkus JPA,Agile,docker|300000.0|300000.0|108900
+241|middle senior php laravel|full-time|middle|n o t l o c a t i o n|Not_cod|Laravel,PHP Laravel,gle,DevOps,PHP,forms,CI,Kuber,Docker,CD,https,AWS|200000.0|300000.0|108900
+242|программист с|full-time|middle|м о с к в а|1.0|HHru,API,ru,time|200000.0|200000.0|104400
+243| продуктовый аналитик|remote|middle|n o t l o c a t i o n|Not_cod|Power BI,SQL,Python,it,BI,Top Selection|280000.0|340000.0|108900
+244|data engineer|full-time|middle|n o t l o c a t i o n|Not_cod|career,dwh,tinkoff,ETL,Greenplum,ru,system,SQL,Python,it,analytics,www,DWH,me,Data Platform,https|150000.0|400000.0|108900
+245|бизнес аналитик|remote|Not_qualification|n o t l o c a t i o n|Not_cod|SQL,Task agency,Python,Excel|285000.0|285000.0|108900
+246|data engineer|full-time|senior|n o t l o c a t i o n|Not_cod|ETL,org,Airflow,DWH,me,Kafka,https,ClickHouse|400000.0|600000.0|108900
+247|главный системный аналитик|full-time|senior|с а н к т п е т е р б у р г|2.0|SQL,Task agency|450000.0|450000.0|105200
+248|разработчик bi|remote|middle|с а н к т п е т е р б у р г|2.0|FineBI,BI,Visiology,ClickHouse|180000.0|220000.0|105200
+249|data scientist|full-time|Not_qualification|м о с к в а|1.0|PyCharm,git,FinTech,SQL,Python,CRM|240000.0|320000.0|104400
+250|bi analyst|full-time|junior|м о с к в а|1.0|excel,BI,FineBI|150000.0|150000.0|104400
+251|devops|full-time|middle|м о с к в а|1.0|iFORA,prometheus,zabbix,youtrack,cloud,ansible,Devops,terraform,Go,jenkins,full time,jupyter,rabbitmq,python,Swarm,Ska vi fika,CI,gitlab,Docker,SSL,Ansible,data,sonarqube,AaaC,nginx,Terraform,ru,Python,CD pipelines,shell,grafana,https,nexus,postgres,data analytics,postgresql,on,clickhouse,airflow,spark,VK Cloud,docker|350000.0|350000.0|104400
+252|data engineer|full-time|senior|n o t l o c a t i o n|Not_cod|in,ArtWorkout Limited,ETL,Superset,Typescript,Docker compose Linux,push,Jupyter Notebook,Javascript,API,CI,me,Git,retention,gle,Kubernetes,Bash,https,Growthbook,Duolingo,iPad,ChatGPT,forms,ArtWorkout|400000.0|600000.0|108900
+253|bi developer|full-time|middle|м о с к в а|1.0|Confluence,PostgreSQL,Power BI,DAX,PQ,power BI,IT,BI,My SQL,ClickHouse|200000.0|200000.0|104400
+254|senior full stack php разработчик|full-time|senior|n o t l o c a t i o n|Not_cod|Laravel,HTML,Full Stack PHP,git,CSS,MySQL,SQL,Java Script,Less,backend|330000.0|400000.0|108900
+255|бизнес аналитик|remote|Not_qualification|м о с к в а|1.0|SQL,Task agency,Python,Excel|285000.0|285000.0|104400
+256|machine learning engineer|remote|Not_qualification|n o t l o c a t i o n|Not_cod|RAG,LLM,DL,scipy,TensorFlow,API,Novelect,pandas,learn,Keras,PyTorch,langchain,numpy,Pipeline,NLP,Python,ML,GPT,scikit,llamaIndex,Caffe|120000.0|180000.0|108900
+257|продуктовый бизнес аналитик|remote|junior|м о с к в а|1.0|Superset,Appsflyer,Qlik Sense,Windows,Mixpanel,QlikView,Firebase,Datalens,Tableau,MySQL,me,Vertica,Hadoop,Google Analytics,SQL Server,Google Data Studio,Google BigQuery,Power BI,Amplitude,SQL,Product analyst,Python,Telegram,Task agency,Oracle,AppMetrica,Mac,Postgres|285000.0|285000.0|104400
+258|product analyst|remote|Not_qualification|м о с к о в с к а я о б л а с т ь|1.0|Sprinklr,Brand Analytics,Usedesk,Gravity,digital,ORM,Product Analyst|100000.0|130000.0|109300
+259|системный  бизнес аналитик|full-time|middle|р е с п у б л и к а т ы в а|6.0|XML,cv,API,IT,UML,CMS,JSON,BPMN,NET,rub|200000.0|250000.0|104200
+260|ml специалист в проекте на базе ии|remote|Not_qualification|n o t l o c a t i o n|Not_cod|Deep Learning,ML,API,Python,GOST Agency|200000.0|350000.0|108900
+261|разработчик c с embedded background|full-time|middle|n o t l o c a t i o n|Not_cod|Cryptography,blockchain,DeFi,Make,MCU,MPU,cmake,UX,UI,RTOS|300000.0|400000.0|108900
+262|data scientist|remote|Not_qualification|м о с к в а|1.0|MSSQL,PostgreSQL,Data Science,ETL,Oracle,FinTech,SQL,Python,airflow,grafana,Git,docker|200.0|350000.0|104400
+263|senior developer|full-time|senior|м о с к в а|1.0|Tech,Data Science,Computer Vision,developer,AWS,IT,Python,Linux,Clickhouse,Docker,Git,Pawlin Technologies|200000.0|400000.0|104400
+264|системный аналитик|full-time|Not_qualification|м о с к в а|1.0|ru,DFD,Microsoft Visio,BPMN|120000.0|170000.0|104400
+265|продуктовый бизнес аналитик|full-time|senior|м о с к в а|1.0|Superset,Qlik Sense,Windows,Mixpanel,QlikView,Firebase,IS,Datalens,Tableau,TO,MySQL,me,Vertica,BE,Google Analytics,SQL Server,Google BigQuery,Power BI,Amplitude,SQL,App Metrica,AS,Telegram,Task agency,Oracle,Mac,Postgres|385000.0|385000.0|104400
+266|data analyst|full-time|middle|n o t l o c a t i o n|Not_cod|pyspark,Superset,Spark,ETL,commerce,Vertica,Hadoop,net,vertica,Python,sql,grafana,BI,Airflow,postgresql,clickhouse,airflow,Clickhouse,Ozon Tech|285000.0|285000.0|108900
+267|product manager|full-time|middle|с а н к т п е т е р б у р г|2.0|job,MusicLab,CLTV,JTBD,www,Kaizen,Lean Canvas,AARRR,TAM,CR,SWOT,hhtmFrom,Unit,YouTube,ARPU,Value Proposition,hard,PnL,vacancy,com,Porter,net,Scrum,soft,ru,Product Manager,UniPage,https,Benchmarking,SOM,CAC,Business Model Canvas,NewGen Vision,hh,Kano,SAM,Agile|120000.0|120000.0|105200
+268|аналитик power bi|full-time|junior|n o t l o c a t i o n|Not_cod|gross,Power Query,Power BI,SQL,HR,BI,Excel,excel|95000.0|95000.0|108900
+269|marketing product manager|remote|Not_qualification|n o t l o c a t i o n|Not_cod|Scrum,Paynocchio,HR,Agile,com,https,Marketing Product Manager|300000.0|300000.0|108900
+270|data analyst|full-time|middle|м о с к в а|1.0|pyspark,Superset,Spark,ETL,commerce,Vertica,Hadoop,net,vertica,Python,sql,grafana,BI,Airflow,postgresql,clickhouse,airflow,Clickhouse,Ozon Tech|285000.0|285000.0|104400
+271|ml engineer|remote|middle|n o t l o c a t i o n|Not_cod|Deep Learning,PyTorch,NLP,NumPy,Scikit,Pandas,Python,me,CV,learn,TensorFlow|200000.0|300000.0|108900
+272|пресейл бизнес аналитик|full-time|middle|м о с к в а|1.0|SAS,Tableau,Power BI,PolyAnalyst,IT,commerce,BI,Qlik,Deloitte|160000.0|160000.0|104400
+273|product analyst|remote|junior|м о с к в а|1.0|Superset,Appsflyer,Qlik Sense,Windows,Mixpanel,QlikView,Firebase,Datalens,Tableau,MySQL,me,Vertica,Hadoop,Google Analytics,SQL Server,Google Data Studio,Google BigQuery,Power BI,Amplitude,SQL,Product analyst,Python,Telegram,Task agency,Oracle,AppMetrica,Mac,Postgres|174000.0|174000.0|104400
+274|computer vision engineer|full-time|senior|n o t l o c a t i o n|Not_cod|Nerf,Stable Diffusion,CI,CEO,ICCV,Dreambooth,PyTorch,Scrum,Kaggle,GAN,HR,iOS,Deforum,Stable Diffusion Pipelines,ML,CoreML,CVPR,GANs,GitHub,etc|600000.0|600000.0|108900
+275|product analyst|remote|junior|м о с к в а|1.0|Superset,Appsflyer,Qlik Sense,Windows,Mixpanel,QlikView,Firebase,Datalens,Tableau,MySQL,me,Vertica,Hadoop,Google Analytics,SQL Server,Google Data Studio,Google BigQuery,Power BI,Amplitude,SQL,Product analyst,Python,Telegram,Task agency,Oracle,AppMetrica,Mac,Postgres|174000.0|174000.0|104400
+276|data scientist|full-time|middle|n o t l o c a t i o n|Not_cod|ETL,Computer Vision,Spark,CV,full time,Java,Data Science,NEOFLEX,me,Docker,Hadoop,net,PyTorch,NumPy,Kubernetes,Python,HR,https,HelenaList,NeofleX,Scikit Learn|200000.0|350000.0|108900
+277|data analyst|remote|Not_qualification|м о с к в а|1.0|DataLens,Superset,bash,Ubuntu,Tableau,pandas,Apache Airflow,PostgreSQL,Power BI,git,SQL,Python,Linux,BI,Visiology,Debian,UNION,BI Apache Superset,IT,CentOS,JOIN|150000.0|300000.0|104400
+278|data engineer|full-time|middle|n o t l o c a t i o n|Not_cod|career,dwh,tinkoff,ETL,Greenplum,ru,system,SQL,Python,it,analytics,www,Clickhouse,me,Data Platform,https|150000.0|400000.0|108900
+279|data analyst|full-time|middle|n o t l o c a t i o n|Not_cod|ELT,Oracle Golden Gate,SAS Data Management,Nifi,ETL,API,Informatica PowerCenter,Oracle,IT,SQL,Kafka,Teradata,Top Selection|280000.0|300000.0|108900
+280|аналитик данных|remote|senior|м о с к в а|1.0|PySpark,Data Vault,Oracle,SQL,Python,DWH,GAP,Apache Spark|250000.0|380000.0|104400
+281|data analyst|full-time|senior|n o t l o c a t i o n|Not_cod|Proficiency in Python,Salary budget,Form of work,ETL tools,advantage,We,visualisation libs,Product Analyst,from,and keep innovating,Plan,You will,ing,Astromer,Muse Group,Airflow,execute,Employment,Clickhouse,etc|3500.0|3500.0|108900
+282|аналитик|full-time|middle|м о с к в а|1.0|AI,Superset,Spark,Cloud,IaaS,DWH,Data Platform,Data Quality,Upper Intermediate,Datalens,PaaS,Qlik,gRPC,Data Governance,Power BI,ru,SQL,Python,REST,Hard skills,BI,ML,Data,Customer Journey Map,IT,SaaS|250000.0|250000.0|104400
+283|оплачиваемой стажировке от втб по направлению аналитика|internship|junior|n o t l o c a t i o n|Not_cod|Big Data|90000.0|90000.0|108900
+284|data analyst|full-time|middle|м о с к в а|1.0|ELT,Oracle Golden Gate,SAS Data Management,Nifi,ETL,Informatica Power Center,API,Informatica PowerCenter,Oracle,MySQL,SQL,Kafka,Teradata,Top Selection,I  I|1500.0|1800.0|104400
+285|data scientist|full-time|middle|n o t l o c a t i o n|Not_cod|net,PyTorch,Jenkins,rabbitmq,NLP,Data Science,NumPy,kafka,Kaggle,Boosters,IT,Python,pro,GitLab,sklearn,TensorFlow|250000.0|350000.0|108900
+286|аналитик dwh|full-time|senior|м о с к в а|1.0|Xfit,ETL,SQL,TG,DWH,Skyeng|260000.0|410000.0|104400
+287|data scientist|remote|junior|р е с п у б л и к а т ы в а|6.0|in,XGBoost,DL,www,MVP,python,Data Science,linkedin,ml,com,Prod,pandas,pytorch,LightGBM,mac,NLP,CatBoost,numpy,git,ru,sql,HRTech,MacBook Pro,https,Research,ML,sklearn,GPU,docker|200000.0|300000.0|104200
+288|продуктовый аналитик мобильного приложения|remote|Not_qualification|n o t l o c a t i o n|Not_cod|Green Wave Palace,commerce|700.0|1200.0|108900
+289|data scientist|full-time|senior|м о с к в а|1.0|Random Forest,http,Supply Chain,Pandas,Gradient boosting,XGBoost,Pytorch,CI,Scikit,learn,OP,PySpark,NumPy,ru,Python,SQL,CD,ML,Jume,ARIMAX|250000.0|350000.0|104400
+290|продуктового аналитика|remote|middle|n o t l o c a t i o n|Not_cod|ML,PostgreSQL,Google Analytics,Tableau,web,Group,Python,SQL,HR,Wiam group,BI,Google Tag Manager,data|200000.0|350000.0|108900
+291|data engineer|full-time|middle|n o t l o c a t i o n|Not_cod|career,dwh,tinkoff,ETL,Greenplum,ru,system,SQL,Python,it,analytics,www,DWH,Clickhouse,Data Platform,me,https|150000.0|400000.0|108900
+292|продуктовый аналитик|remote|Not_qualification|n o t l o c a t i o n|Not_cod|SQL,mobile,web|300000.0|300000.0|108900
+293|middle cv исследователь|full-time|junior|м о с к в а|1.0|tensorflow,VisionLabs,gross,ML,Computer Vision,Python,pipeline,DL,CV,pytorch,etc|125000.0|200000.0|104400
+294|ml разработчик|full-time|middle|n o t l o c a t i o n|Not_cod|Open AI API,Go,Java,python,MySQL,BrainShells,Docker,pandas,asyncio,pytorch,deep learning,keras,postgreSQL,Python,pytest,tensorflow,ML,redis,sklearn,Hugging face|400000.0|500000.0|108900
+295|аналитик dwh|remote|senior|n o t l o c a t i o n|Not_cod|PostgreSQL,ETL,Greenplum,Data Vault,Oracle,SQL,DWH,me,Smartbrainio,https,Hadoop,MS SQL|300000.0|400000.0|108900
+296|data engineer|full-time|senior|м о с к в а|1.0|Superset,DWH,PowerBI,Tableau,me,com,data,PostgreSQL,Greenplum,git,Python,SQL,Linux,csv,https,Amazon,Airflow,DataLake,IT,Clickhouse,Kafka|250000.0|250000.0|104400
+297|продуктовый аналитик|full-time|Not_qualification|м о с к в а|1.0|gross,PowerBI,Tableau,Power BI,Pandas,IT,SQL,Python,Numpy,it,ARPC,ClickHouse,Hadoop|250000.0|450000.0|104400
+298|middle mle|remote|middle|с а н к т п е т е р б у р г|2.0|MLE,in,MLE etc,LinkedIn,PDP,www,Transformers,habr,core,Data Science,production,linkedin,Prod vs,vk,com,Prod,LSTM,articles,ru,Python,NLP Research,companies,https,FullStack DS,Research,ML,mail,VK,etc|200000.0|300000.0|105200
+299|senior java разработчики|full-time|middle|n o t l o c a t i o n|Not_cod|net,Data,Openshift,fintech,Gitlab,Kubernetes,Core,CI,City,Security,Kafka,CD,Boot,Spring,Java|215000.0|300000.0|108900
+300|data engineer|full-time|senior|м о с к в а|1.0|ELT,gross,PostgreSQL,dwh,ETL,Airflow nifi,DWH developer,MsSQl,DWH,data science|380.0|450000.0|104400
+301|dataops|full-time|Not_qualification|n o t l o c a t i o n|Not_cod|Data Science,CI,OpenShift,Hadoop,Terraform,Data Analytics,DS,NoSQL,Kubernetes,Python,CD,ing,ML,DA,DataOps,Airflow,IT,Clickhouse,DE|300000.0|420000.0|108900
+302|junior исследователь|full-time|junior|м о с к в а|1.0|tensorflow,VisionLabs,Python,video analytics,object detection,CV,pytorch,etc|117000.0|193000.0|104400
+303|devops engineer|full-time|Not_qualification|n o t l o c a t i o n|Not_cod|AlerManager,Rabbitmq,Vault,Cloud,Frontend,Go,Grafana,CV,Kaniko,Ubuntu,Databases,Logs aggregation,MQ,CI,Platform,Secrets,ELK,IAC,Git,rub,GitLab,Ansible,Filebeat,PostgreSQL,Terraform,EKS,DS,DevOps,Monitoring,Python,MongoDB,Linux,shell,iOS,CD,RDS PostgreSQL,Helm,ML,Angular,Prometheus,DevOps Engineer,PagerDuty,Backend,AWS EKS,Mobile,Android,Clickhouse,Redis,AWS,SSR|350000.0|500000.0|108900
+304|старший продуктовый аналитик|remote|senior|м о с к в а|1.0|Go Practice,Tableau,Metabase,SQL,Python,Vertica,ClickHouse,Dashboards|300000.0|390000.0|104400
+305|data engineer|full-time|middle|n o t l o c a t i o n|Not_cod|career,dwh,tinkoff,ETL,Greenplum,ru,SQL,Python,it,DWH,www,me,Data Platform,https|150000.0|400000.0|108900
+306|старший специалист сопровождения моделей машинного обучения mlops|remote|middle|м о с к в а|1.0|Arflow,Cv,MLOps,Python,MLflow,IT,Hodoop,Bell integrator|270000.0|300000.0|104400
+307|системный аналитик bi|remote|middle|n o t l o c a t i o n|Not_cod|soft,ETL,hh,ru,vacancy,DWH,skills,BI,https|180000.0|200000.0|108900
+308|рнр|full-time|Not_qualification|n o t l o c a t i o n|Not_cod|Symfony,PostgreSQL,RabbitMQ,PHP,REST API,MySQL,IT,Git,GitLab,Telegram|180000.0|320000.0|108900
+309|devops|full-time|Not_qualification|с а н к т п е т е р б у р г|2.0|Sick,elasticsearch,GitLab CI,Grafana,VPN,Zabbix,CI,me,CRM,Ansible,PostgreSQL,Estelink,Terraform,ERP,RabbitMQ,DevOps,Kubernetes,MongoDB,Linux,HashiCorp Consul,CD,https,Helm,Prometheus,Traefik,IT,Redis|150000.0|400000.0|105200
+310|ml engineer|full-time|senior|n o t l o c a t i o n|Not_cod|ECCV,Gradient,Computer Vision,opencv,TFlite,Pytorch,torchscript,Deep Learning,ICML,github,ICLR,arxiv,Best of,server,Persona,CV Engineer,face beautification,ICCV,numpy,NIPS,ML,Apple Persona,CoreML,CVPR,production ready GAN,mobile,SOTA Computer Vision|450000.0|450000.0|108900
+311|devops инженер|full-time|middle|м о с к о в с к а я о б л а с т ь|1.0|Zabbix,Prometheus,DevOps,Shell,Kubernetes,ru,IT,Linux,Docker,Grafana,Git,https,GitLab,Ansible,Bash|180000.0|280000.0|109300
+312|data scientist|full-time|Not_qualification|n o t l o c a t i o n|Not_cod|net,NLP,DUC technologies,Salary,IT|170000.0|250000.0|108900
+313|bi team lead|remote|senior|n o t l o c a t i o n|Not_cod|IT,MS Power BI,BI|420000.0|420000.0|108900
+314|системный аналитик|full-time|middle|м о с к в а|1.0|gross,Feature review,EPC,REST,BPMN|260000.0|260000.0|104400
+315|преподаватели по курсу продуктовая аналитика|part-time|middle|n o t l o c a t i o n|Not_cod|Tableau,Python,analytics,it,CET,ITCH|2500.0|2500.0|108900
+316|product analyst|full-time|Not_qualification|м о с к в а|1.0|Star,Olgavborr,Python,Product analyst,SQL,me,Staff,https|250000.0|350000.0|104400
+317|ux исследователь|full-time|Not_qualification|п е р м с к и й к р а й|4.0|net,miro,Eqvanta,hh,Discovery,ru,vacancy,UX,jira,https|350000.0|350000.0|110800
+318|дата аналитик|remote|Not_qualification|n o t l o c a t i o n|Not_cod|Google Sheets,ETL,Pandas,Google Tag Manager,App,Albato,Google Cloud,BigQuery,Garpun,JetStat,Web,AppsFlayer,Google Analytics,Google Data Studio,Google BigQuery,performance review,Amplitude,Python,SQL,UX,YouTalk|100000.0|150000.0|108900
+319|преподаватель онлайн курса mlops|part-time|Not_qualification|n o t l o c a t i o n|Not_cod|MLOps,IT,OTUS,zoom c|300000.0|400000.0|108900
+320|системный аналитик middle|remote|middle|р е с п у б л и к а т ы в а|6.0|PostgreSQL,BPMN,CJM,Oracle,SQL,Use Cases,EPC,confluence,Kafka,UML,Git,MS SQL,Top Selection,ClickHouse,User Story Map,User Story|1200.0|1200.0|104200
+321|tech lead|full-time|senior|n o t l o c a t i o n|Not_cod|js,Tech,notion,WMS,postgres,Node,DEEL,Senor,https,site,docker|400000.0|470000.0|108900
+322|data analyst|full-time|middle|я р о с л а в с к а я о б л а с т ь|1.0|ML,python,Greenplum,Power BI,ru,Raft,SQL,BI,https|200000.0|300000.0|111500
+323|data scientist|full-time|middle|м о с к в а|1.0|Transformer,Pandas,Human Activity Recognition,Solut,Deep Learning,Confluence,Jira,Metabase,feature engineering,XGBOOST,production,Scikit,Catboost,Git,learn,LSTM,Jupyter Lab,net,PyTorch,LightGBM,RNN,Notebook,DS,Python,SQL,Numpy,Linux,ML,MLFlow|150000.0|150000.0|104400
+324|data engineer|remote|senior|n o t l o c a t i o n|Not_cod|CDK,Spark,Victoria,Data Platform,io,API,com,Docker,s Secret,Target,GOAT,Python,SQL,Petco,https,ML,Sephora,Databricks,AWS|90000.0|110000.0|108900
+325|аналитик с|full-time|Not_qualification|с а н к т п е т е р б у р г|2.0|app,io,ERP,vacancies,me,https|150000.0|200000.0|105200
+326|стажер data science|internship|junior|м о с к в а|1.0|Level Up,gross,Data Science,GPB,vk,cvTdzp,https|67000.0|67000.0|104400
+327|продуктовый аналитик|remote|Not_qualification|n o t l o c a t i o n|Not_cod|mobile,web,http,SQL,me,Vitalii|300000.0|300000.0|108900
+328|data engineerdata scientist|full-time|junior|n o t l o c a t i o n|Not_cod|hadoop,Data,MapReduce,python,must have,SQL,DWH,SCD,data science|60000.0|90000.0|108900
+329|data analyst|full-time|Not_qualification|м о с к в а|1.0|Data Science,Oracle Pl,Data Analytics,PL,FinTech,Oracle,SQL,MS Excel,MS Office,linux|100.0|120000.0|104400
+330|data scientist|remote|middle|n o t l o c a t i o n|Not_cod|ML,PyTorch,NLP,numpy,Spark,ru,Python,catboost,IT,www,CV,pandas,sklearn,https,TensorFlow,data science,Hadoop|200000.0|200000.0|108900
+331|bi аналитик|part-time|senior|n o t l o c a t i o n|Not_cod|PBI,DAX,RLS,Oracle,IT,SQL,DirectQuery,Import,BI,Top Selection,ODAC|1700.0|2100.0|108900
+332|специалист data science|full-time|junior|м о с к в а|1.0|Computer Vision,Pandas,DL,CV,Data Science,SOTA,TensorRT,Docker,CRM,PyTorch,deep learning,DS,NumPy,Nvidia CUDA,Kubernetes,computer vision,Python,SQL,BI,OpenCV,ML,Full time,BND,Business Intelligence|80000.0|80000.0|104400
+333|позиция|remote|middle|n o t l o c a t i o n|Not_cod|gross,in,Intel Xeon,Spark,Group,www,MVP,Research ad,research,core,ad,Data Science,linkedin,product owner,NSM,com,Prod,Hadoop,prod,Prime,performance review,DS,Python,SQL,Dell,https,Macbook Pro,hoc,Research,ML,DA,Hive,IT|250000.0|400000.0|108900
+334|data engineer|full-time|middle|n o t l o c a t i o n|Not_cod|career,dwh,tinkoff,ETL,Greenplum,ru,system,SQL,Python,it,analytics,www,Clickhouse,me,Data Platform,https|150000.0|400000.0|108900
+335|ведущий аналитик данных|full-time|Not_qualification|м о с к в а|1.0|Extract,ETL,Transform,OLAP,Load,Talend,Informatica,DWH,SSIS,Online Analytical Processing,Data Warehousing|300000.0|300000.0|104400
+336|ведущий аналитик данных|full-time|middle|м о с к в а|1.0|Extract,ETL,Transform,OLAP,Load,Talend,Informatica,DWH,SSIS,Online Analytical Processing,Data Warehousing|250000.0|300000.0|104400
+337|data engineer|full-time|middle|n o t l o c a t i o n|Not_cod|ETL,Greenplum,SQL,Python,Clickhouse,Data Platform|150000.0|400000.0|108900
+338|data engineer|full-time|senior|с а н к т п е т е р б у р г|2.0|ETL,NoSQL,DIY,Kubernetes,Data lake,SQL,DWH,Kafka,Java,ClickHouse,backend|400000.0|450000.0|105200
+339|ведущий аналитик данных|full-time|Not_qualification|м о с к о в с к а я о б л а с т ь|1.0|Extract,ETL,Transform,OLAP,Load,Talend,Informatica,DWH,SSIS,Online Analytical Processing,Data Warehousing|250000.0|300000.0|109300
+340|deep learning engineer|full-time|senior|в о р о н е ж с к а я о б л а с т ь|1.0|Machine Learning,Sociohub,collection,DL,bash,Deep Learning,Data Science,linux,pytorch,Python,aws,devops,ML,yandex cloud,Net,docker|280000.0|450000.0|109300
+341|marketing analyst|full-time|middle|n o t l o c a t i o n|Not_cod|Zapier,API Facebook,CPO,ARPPU,BigQuery,Tableau,Product,ARPU,com,CPC,Google Analytics,Facebook Ads,Power BI,SQL,Python,Google Ads,telegram,BI,Marketing Analyst,CAC,TikTok API,DataBox,CPA,Klipfolio|150000.0|170000.0|108900
+342|аналитик данных|full-time|Not_qualification|м о с к в а|1.0|Microsoft Office,ML,DAX,hoc,Churn Rate,SQL,Python,Ad,unit,day off,Retention Rate,LTV|180000.0|180000.0|104400
+343|продуктовый аналитик|full-time|Not_qualification|м о с к в а|1.0|SuperSet,gross,MixPanel,ETL,mobile,web,Amplitude,SQL,adhoc,Python,AppMetrica,Adjust,BI,GA,AppsFlyer|250000.0|250000.0|104400
+344|data engineer|temporary|middle|n o t l o c a t i o n|Not_cod|Azure Databricks,Superset,Spark,Data Vault,Spark Streaming,Dodo,Event Hub,Structured Streaming,Java,python,Scala,data,Kusto,Python,it,Delta Lake,debezium,databricks,Kafka,Spark SQL,Dodo Engineering|350000.0|500000.0|108900
+345|системный аналитик|remote|junior|n o t l o c a t i o n|Not_cod|json,CASE,xml,swagger,WINFOX,postman,SQL,BPMN|60000.0|80000.0|108900
+346|аналитик dwh|remote|senior|n o t l o c a t i o n|Not_cod|gross,ETL,Data Vault,DWH,SAS Enterprise Guide,io,Big Data,Hadoop,PostgreSQL,MPP,Greenplum,SQL,MS SQL,Oracle,IT,Hive,Smartbrain,SAS DI|300000.0|400000.0|108900
+347|senior product analyst|remote|middle|с а н к т п е т е р б у р г|2.0|ETL,product analyst,amplitude,PHP,Pentaho DI,MySQL,rub,excel,SQL,Python,grafana,Ad,google analytics,FS Play,hoc,KPI,google,yandex,ClickHouse|250000.0|350000.0|105200
+348|ai developer|remote|middle|n o t l o c a t i o n|Not_cod|AI,Text,RAG,LLM,text NLP,Fine,CV,Google Cloud,Relevance,Gemini,web,API,Mistral,UTC,to,CTO,Llama,code,Yandex Cloud,ML SaaS,Python,Anthropic,Langchain,low,Zapier Central,Flowise,ML,mobile,Make,OpenAI,source|350000.0|350000.0|108900
+349|системный аналитик dwh|remote|middle|м о с к в а|1.0|Confluence,Jira,gross,ETL,Oracle,IT,SQL,DWH|260.0|260000.0|104400
+350|middle computer vision researcher|full-time|middle|м о с к в а|1.0|opencv,scipy,CV,PSPNet,Unet,python,ai,TVM,SOTA,TensorRT,Docker,pytorch,MobileNet,gross Tevian,ResNet,ru,Face Recognition,https,SSD,tensorflow,ML,ONNX,Computer Vision Researcher,IT,YOLO,EfficientNet,Deeplab|230000.0|290000.0|104400
+351|python developer|full-time|senior|n o t l o c a t i o n|Not_cod|SAAS,Tensorflow,Computer Vision,usd,opencv,Megainsight,LTV,Pytorch,com,CV Engineer,Keras,Docker and Git,PostgreSQL,numpy,Triton,Gitlab,Python,Linux,ClearML,Python Developer,MLFlow,ClickHouse|3000.0|3000.0|108900
+352|продуктовый аналитик|full-time|Not_qualification|м о с к в а|1.0|gross,PowerBI,Tableau,Power BI,Pandas,IT,SQL,Python,Numpy,it,me,SanchezHR,https,ARPC,ClickHouse,Hadoop|250000.0|400000.0|104400
+353|data scientist|full-time|Not_qualification|м о с к в а|1.0|PyCharm,git,FinTech,SQL,Python,CRM|240000.0|350000.0|104400
+354|data scientist|remote|middle|м о с к в а|1.0|Computer Vision,LLM,Go,Grafana,Perfluence,CPU,python,MLOps,API,OpenVino,Docker,fastapi,asyncio,flask,UTC,net,PostgreSQL,DS,MongoDB,ML,Prometheus,MLFlow,ONNX Runtime,GPU,ClickHouse|150000.0|270000.0|104400
+355|с|full-time|middle|n o t l o c a t i o n|Not_cod|TCP,AMD,HTTP,Intel,UDP,cv,IP,Nvidia,SSL,Skyeng,NGINX,Python,Linux,StormWall,DNS|300000.0|300000.0|108900
+356|аналитик направления cb|full-time|Not_qualification|м о с к в а|1.0|Power Query,Power Pivot,SQL,HR,Python,BI,Excel|120000.0|120000.0|104400
+357|data scientist|remote|middle|n o t l o c a t i o n|Not_cod|ETL,Random Forest,Pandas,DevHunt,feature engineering,OSIsoft,Git,learn,InfluxDB,Keras,LightGBM,PI System,PostgreSQL,Conda,NumPy,Python,SQL,TimescaleDB,XGboost,MS SQL,ELT,ML,scikit,TensoFlow,Oracle,IT,AVEVA|150000.0|250000.0|108900
+358|аналитик|full-time|middle|м о с к в а|1.0|Yandex Datalens,PostgreSQL,ad hoc,driven,Python,SQL,data|150000.0|150000.0|104400
+359|senior product analyst|remote|senior|n o t l o c a t i o n|Not_cod|AI,www,core,PowerBI,BigQuery,web,commerce,com,Product Analyst,PostgreSQL,DataStudio,ru,luxury,SQL,Python,Telegram,tech,https,fashion,MSSQL,ML,mobile,Looker|20000.0|350000.0|108900
+360|data scientist|remote|middle|n o t l o c a t i o n|Not_cod|gross,in,ETL,Spark,Pandas,catboost,DL,DWH,www,CPU,core,Pytorch,Learn,Data Science,MLOps,linkedin,Scikit,xgboost,TG,me,com,firstov,Prod,lightgbm,Hadoop,DS,ru,Python,Numpy,aleksey,MacBook,https,AFirstov,Research,ML,Hive,RAM,DE|240000.0|360000.0|108900
+361|аналитик dwh|full-time|middle|n o t l o c a t i o n|Not_cod|net,Superset,Spark,Ekleft,GreenPlum,Airflow,DWH,Kafka,ClickHouse,Hadoop,Debezium|260000.0|423000.0|108900
+362|bi инженер|full-time|Not_qualification|м о с к в а|1.0|Python,Power BI,BI,Redash|200000.0|200000.0|104400
+363|цум|remote|senior|n o t l o c a t i o n|Not_cod|AI,core,PowerBI,BigQuery,web,commerce,com,Product Analyst,PostgreSQL,DataStudio,luxury,SQL,Python,tech,fashion,MSSQL,ML,mobile,Looker|20000.0|350000.0|108900
+364|аналитик dwh|remote|senior|n o t l o c a t i o n|Not_cod|gross,ETL,Data Vault,DWH,SAS Enterprise Guide,io,Big Data,Hadoop,PostgreSQL,MPP,Greenplum,SQL,MS SQL,Oracle,IT,Hive,Smartbrain,SAS DI|300000.0|450000.0|108900
+365|стажировка ozon camp|internship|Not_qualification|м о с к в а|1.0|Ozon,Ozon Camp,pro,https|50000.0|50000.0|104400
+366|middle dwh аналитик|remote|middle|n o t l o c a t i o n|Not_cod|Superset,Ekleft,Spark,GreenPlum,Airflow,DWH,Kafka,ClickHouse,Hadoop,Debezium|220000.0|300000.0|108900
+367|аналитик dwh|full-time|middle|n o t l o c a t i o n|Not_cod|net,Superset,Spark,Ekleft,GreenPlum,Airflow,DWH,Kafka,ClickHouse,Hadoop,Debezium|260000.0|423000.0|108900
+368|data scientist|remote|middle|n o t l o c a t i o n|Not_cod|hhtmFrom,hh,vacancy,ru,HH,https|250000.0|450000.0|108900
+369|преподаватель онлайн курса dwh на основе arenadata|part-time|junior|м о с к о в с к а я о б л а с т ь|1.0|Arenadata,Best Practices,Zoom,IT,DWH,OTUS|3000.0|3000.0|109300
+370|llm|full-time|middle|n o t l o c a t i o n|Not_cod|and deploy ML,LLM,Design,www,Spain,Serbia,English,m Olia,USA,Hi,Mistral,HR at Ennabl,me,Contact,com,Requirements,learn,LLM based systems,pytorch,Ireland,ML frameworks,Company,Cyprus,to,Ennabl,Llama,English language courses,Salary,Job responsibilities,Python,Georgia,Take end,LLMs,EUR gross,https,Location,OlgaBykanova,tensorflow,ML,India,GPT,scikit,Employment,Russia,Kyrgyzstan,Technologies,AWS|5800.0|8300.0|108900
+371|риск аналитика|remote|junior|n o t l o c a t i o n|Not_cod|off,Group,collection,Deep Learning,Flask,Tableau,Docker,pandas,FastAPI,numpy,must have,Kaggle,SQL,Python,HR,BI,day,Ad,hoc,ML,KPI,sklearn,Postgres,GitHub,etc|200000.0|350000.0|108900
+372|middle computer vision researcher|full-time|middle|м о с к в а|1.0|opencv,scipy,CV,PSPNet,Unet,python,TVM,Tevian,SOTA,TensorRT,Docker,pytorch,MobileNet,ResNet,Face Recognition,SSD,tensorflow,ML,ONNX,Computer Vision Researcher,IT,YOLO,EfficientNet,Deeplab|230000.0|290000.0|104400
+373|middle researcher|full-time|middle|м о с к в а|1.0|Computer Vision,DL,CV,Model Compression,Edge Computing,Researcher,Series,MLops,Time,pandas,Git,pytorch,net,numpy,Python,Linux,MobileHealth,ing,Research,ML,Series Analysis|140000.0|220000.0|104400
+374|data engineer|remote|Not_qualification|с а н к т п е т е р б у р г|2.0|ML,PostgreSQL,python,DBT,ETL,Superset,DS,Airflow,CPO,FinTech,Python,DWH,MLFlow,Clickhouse,Docker,data,NET,Devim|250000.0|400000.0|105200
+375|продуктовый аналитик|full-time|middle|с а н к т п е т е р б у р г|2.0|net,ad,PostgreSQL,su,Google Analytics,Firebase,monopoly,tatiana,ru,gavrilenko,Python,SQL,AppMetrica,UX,https,ClickHouse,hoc|180.0|250000.0|105200
+376|data analyst|full-time|senior|м о с к в а|1.0|career,Data Science,Product Owner,Sminex,IT,sminex,com,www,BI,https|290000.0|290000.0|104400
+377|ведущий аналитик ассортиментного планирования|full-time|Not_qualification|м о с к в а|1.0|gross,MS,ru,analytics,https,Fashion|207000.0|287000.0|104400
+378|devops инженер|full-time|Not_qualification|м о с к в а|1.0|Jenkins,Jira,SVN,DevOps,KPI,GitFlow,PL,IT,SQL,Python,Git,Oracle DB,Bash|500000.0|500000.0|104400
+379|ml специалист|full-time|Not_qualification|n o t l o c a t i o n|Not_cod|ML,Ziada,AI,MENA,production,Data science,me,https|3000.0|4000.0|108900
+380|стажер nlp|internship|junior|м о с к в а|1.0|nlp in practice,NLP,company,nlp,ai,RAG,LLM,ru,blog,com,alfa,https,habr,ods|150000.0|200000.0|104400
+381|специалист по тестированию ml моделей|remote|middle|n o t l o c a t i o n|Not_cod|Confluence,ML,Jira,net,MLOps,git,API,postman,Python,airflow,jenkins|350000.0|350000.0|108900
+382|продуктовый аналитик|remote|senior|м о с к в а|1.0|Python,SQL|200000.0|350000.0|104400
+383|инженер программист golang|full-time|Not_qualification|р е с п у б л и к а т а т а р с т а н т а т а р с т а н|4.0|HTTP API,GO,Ethernet,IP,TCP,HTTP,Python,SNMP,Golang,POS,Modbus|300.0|300000.0|112800
+384|системный аналитик|remote|Not_qualification|м о с к в а|1.0|XML,uptrade,REST API,SQL,it,JSON|200000.0|300000.0|104400
+385|data scientist|full-time|Not_qualification|м о с к в а|1.0|PyCharm,git,FinTech,SQL,Python,CRM|240.0|320000.0|104400
+386|руководитель проектов data science|full-time|senior|м о с к в а|1.0|in,DL,DWH,www,CPU,core,Data Science,MLOps,linkedin,PnL,com,Prod,Hadoop,DS,ru,SQL,Python,ML System Design,MacBook,https,Research,ML,RAM,DE|30000.0|400000.0|104400
+387|ml engineer|full-time|senior|n o t l o c a t i o n|Not_cod|Deep Learning,ML,GGTechnology,OpenCV,Computer Vision,NUERA|300000.0|400000.0|108900
+388|аналитик|remote|Not_qualification|м о с к в а|1.0|IT,Jira|150000.0|200000.0|104400
+389|аналитик данных|full-time|Not_qualification|м о с к в а|1.0|career,Data Science,Product Owner,Sminex,IT,sminex,com,www,BI,https|290000.0|290000.0|104400
+390|позиция|full-time|Not_qualification|м о с к в а|1.0|in,Computer Vision,Macbook,www,CV,TensorFlow,habr,CPU,Market Robotics,core,Data Science,linkedin,com,Prod,PyTorch,articles,ru,Python,companies,https,Research,ML,YTsaurus,CPI,yandex,GPU,Jetson AGX Xavier|250000.0|450000.0|104400
+391|data analyst|full-time|Not_qualification|n o t l o c a t i o n|Not_cod|SQL|300000.0|300000.0|108900
+392|bi analyst|full-time|middle|n o t l o c a t i o n|Not_cod|Ozon,ETL,SQL,BI,Wildberries|120000.0|200000.0|108900
+393|data scientist|full-time|senior|n o t l o c a t i o n|Not_cod|net,ML,kubernetes,pyspark,hadoop,python,Data Science,postgres,Ptolemay,SOTA,kafka,SQL,Python,airflow,spark,docker|400000.0|420000.0|108900
+394|цум|remote|senior|м о с к в а|1.0|AI,core,PowerBI,BigQuery,web,commerce,com,Product Analyst,PostgreSQL,DataStudio,luxury,SQL,Python,Telegram,tech,fashion,MSSQL,ML,mobile,Looker|400000.0|400000.0|104400
+395|fullstack разработчик|full-time|Not_qualification|n o t l o c a t i o n|Not_cod|Symfony,js,React,PHP,Fullstack,API,SQL,REST,Contact,TypeScript,work,JavaScript|250000.0|400000.0|108900
+396|data engineer|remote|Not_qualification|n o t l o c a t i o n|Not_cod|USD,USA,io,ETL,Big data,Bitquery,New York,Real,NY,Data quality,Clickhouse,BITQUERY,Wall Street Suite,QA Test Automation|200000.0|500000.0|108900
+397|data engineer|remote|Not_qualification|n o t l o c a t i o n|Not_cod|USD,USA,io,Big data,Bitquery,New York,NY,Data quality,Clickhouse,BITQUERY,Wall Street Suite,QA Test Automation|200000.0|500000.0|108900
+398|риск аналитик|remote|middle|n o t l o c a t i o n|Not_cod|off,Group,collection,Deep Learning,Flask,Tableau,Docker,pandas,FastAPI,numpy,CTO,must have,Kaggle,SQL,Python,HR,BI,day,Ad,hoc,ML,KPI,sklearn,Postgres,GitHub,etc|200000.0|350000.0|108900
+399|дата аналитик|remote|middle|n o t l o c a t i o n|Not_cod|React,Web UI,IBS InfiniSoft,Reuters,Bloomberg,Styled Components,React Query,Radix UI,API,SQL,TypeScript,Service Workers,Kit,UI,SWR,Ramda,Web,PWA|310000.0|310000.0|108900
+400|data scientistml engineer|remote|senior|м о с к в а|1.0|net,ML,DS,ru,SQL,Python|400000.0|400000.0|104400
+401|data scientist|remote|middle|n o t l o c a t i o n|Not_cod|hhtmFrom,hh,vacancy,ru,HH,https|250000.0|450000.0|108900
+402|bi data analyst|remote|Not_qualification|n o t l o c a t i o n|Not_cod|LTV,Responsibilities,web,Familiarity with Appsflyer,We offer,Requirements,particularly PostgreSQL,Experience with Tableau,to,Facebook Ads,Develop the in,Statistics,SKAdNetwork,Goal,Mathematics,etc,Bachelor|28000.0|28000.0|108900
+403|data analyst|full-time|senior|м о с к в а|1.0|SuperSet,CTE,HTML,Spark,web,Airflow,agile,Pandas,Python,SQL,GTM,Clickhouse,JavaScript,Hadoop|100000.0|250000.0|104400
+404|аналитик|remote|middle|n o t l o c a t i o n|Not_cod|Google Firebase,Tableau,FinTech,SQL,Python,Google Looker Studio,AppMetrika,BI,Zorion,AppsFlyer,PowerBI,Firebase|300000.0|300000.0|108900
+405|web аналитик|full-time|middle|м о с к в а|1.0|PWA,PostgreSQL,Google Analytics,DataLence,Web,Tableau,Alanbase,iGaming,SQL,Google Tag Manager,Pixel,ClickHouse,Your Personal Agent,PowerBI|150000.0|250000.0|104400
+406|ml разработчик|remote|senior|n o t l o c a t i o n|Not_cod|Open AI API,Go,Java,python,MySQL,BrainShells,Docker,pandas,asyncio,pytorch,deep learning,keras,Kaggle,postgreSQL,Python,pytest,tensorflow,ML,redis,sklearn,Hugging face|600000.0|600000.0|108900
+407|senior python dev  fastapi|full-time|senior|n o t l o c a t i o n|Not_cod|PostgreSQL,FastAPIdle,FastAPI,Python,Python Dev,Docker|350000.0|350000.0|108900
+408|ведущий аналитик клиентских данных|full-time|middle|м о с к в а|1.0|AdHoc,CLTV,SQL,Python,RFM,data science,BI,CRM,Retention|300000.0|300000.0|104400
+409|бизнес аналитик|remote|middle|n o t l o c a t i o n|Not_cod|Confluence,mobile,web|200000.0|300000.0|108900
+410|аналитикbi|full-time|Not_qualification|м о с к в а|1.0|Confluence,Jira,PowerBI,Bell Integrator,numpy,Tableau,GreenPlum,Hadoop,SQL,Python,matplotlib,BI,pandas,QlikSense,Softline|180000.0|180000.0|104400
+411|product analyst|full-time|Not_qualification|м о с к в а|1.0|Pandas,Hunters,io,PlantUML,mockup,Git,Product Analyst,UTC,net,data,draw,PowerPoint,flow,SQLAlchemy,SciPy,Amplitude,Python,SQL,Blockchain,Numpy,utc,IT,etc|200000.0|300000.0|104400
+412|data scientist|remote|middle|n o t l o c a t i o n|Not_cod|ML,PyTorch,scikit,Python,com,learn,TensorFlow|450000.0|450000.0|108900
+413|data scientist|full-time|senior|м о с к в а|1.0|PyCharm,git,FinTech,SQL,Python,CRM|300000.0|400000.0|104400
+414|qa engineer|remote|middle|n o t l o c a t i o n|Not_cod|LabelStudio,Machine Learning,Recall,Video Processing,Jmeter,Elasticsearch,Swagger,API,mAP,CVAT,Postman,Precision,Kibana,SoapUI,YouTrack,Python,Telegram,ML,Charles Proxy,ReadyAPI,Interactive Ventures,LabelMe,QA Engineer,Testlodge|200000.0|400000.0|108900
+415|qa automation engineer|full-time|Not_qualification|n o t l o c a t i o n|Not_cod|QA Automation Engineer,Pytest,IP,TCP,Python,Linux,Windows,OSI,Selenium,WA,Allure|200000.0|200000.0|108900
+416|data scientist|remote|middle|м о с к в а|1.0|MLE,Computer Vision,LLM,Go,Grafana,Perfluence,CPU,python,MLOps,API,OpenVino,Docker,fastapi,asyncio,flask,UTC,PostgreSQL,NLP,DS,MongoDB,net Perfluence,ML,Prometheus,MLFlow,ONNX Runtime,GPU,ClickHouse|150000.0|270000.0|104400
+417|junior analyst|full-time|junior|м о с к в а|1.0|Google Sheets,MobiAds,Appsflyer,SQL,adhoc,MS Excel,push|120000.0|120000.0|104400
+418|data scientist|full-time|junior|м о с к в а|1.0|gross,in,ETL,Spark,Pandas,catboost,DL,alfa,www,habr,Pytorch,Learn,MLOps,linkedin,Scikit,xgboost,TG,me,com,firstov,lightgbm,Hadoop,DS,ru,Python,Numpy,aleksey,https,AFirstov,ML,company,blog,Hive,DE|360000.0|460000.0|104400
+419|аналитик данных|full-time|senior|n o t l o c a t i o n|Not_cod|IT,Top Selection,Power BI,Redash|330000.0|350000.0|108900
+420|devops инженер|full-time|Not_qualification|м о с к в а|1.0|HP SM,Devops,Windows,Grafana,bash,jenkins,jira,Confluence,Zabbix,Jira,Jenkins,python,go,tcp,Gitlab CI,Docker,yarn,Ansible,Unix,Kubernetes,sql,SQL,helm,Linux,CD,ip,MS SQL,Atlassian,Prometheus,Kafka,Postgres|300000.0|370000.0|104400
+421|data scientist|full-time|senior|м о с к в а|1.0|ML,PostgreSQL,Python Advanced,Scala,CPU,Oracle,IT,Legal Tech,Linux,shell,Pravo Tech,bash,Ubuntu,GPU,ClickHouse,CentOS,Java,Clojure|500000.0|500000.0|104400
+422|data engineer|full-time|middle|n o t l o c a t i o n|Not_cod|net,Data,Superset,Spark,Ekleft,GreenPlum,Airflow,DWH,Kafka,ClickHouse,Hadoop,Debezium|250000.0|338000.0|108900
+423|junior исследователь|full-time|junior|м о с к в а|1.0|tensorflow,VisionLabs,Python,video analytics,object detection,CV,pytorch,etc|117000.0|193000.0|104400
+424|data analyst|full-time|middle|м о с к в а|1.0|CTE,DWH,dbt,Yandex DataLens,Datalens,Metabase,Tableau,OLAP Ad,Qlik,net,PostgreSQL,Power BI,ru,SQL,BI,Telegram,hoc,MSSQL,MS SQL,GreenPlum,Airflow,DataLense,join,ClickHouse|200000.0|200000.0|104400
+425|data analyst|full-time|middle|n o t l o c a t i o n|Not_cod|Spark,data science,Grafana,MVP,Outlines Tech,Forbes,HeadHunter,broadcast join,Git,PySpark,Python PEP,SLA,Spark UI,SQL,Python,BI,seaborn,group by,PyTest,plotly,Airflow,IT,join,matplotlib,SPARK|250000.0|260000.0|108900
+426|аналитик данных|full-time|junior|р е с п у б л и к а т а т а р с т а н т а т а р с т а н|4.0|gross,PostgreSQL,Apache Kafka,JS,GreenPlum,Apache Superset,SQL,REST,Clickhouse,BI,MS SQL|200000.0|200000.0|112800
+427|преподаватель по направлениям продуктовая аналитика|part-time|Not_qualification|n o t l o c a t i o n|Not_cod|Tableau,CET,it,IT Career Hub|2500.0|2500.0|108900
+428|junior исследователь|remote|junior|м о с к в а|1.0|tensorflow,VisionLabs,Python,video analytics,object detection,CV,pytorch,etc|117000.0|193000.0|104400
+429|data analyst|full-time|middle|м о с к в а|1.0|Airflow,Clickhouse,Datalens|200000.0|200000.0|104400
+430|data engineer|remote|middle|n o t l o c a t i o n|Not_cod|hr,it,com,https|430000.0|430000.0|108900
+431|machine learning engineer|full-time|Not_qualification|n o t l o c a t i o n|Not_cod|net,ML,NeRF,Research,in,Data Science,linkedin,Gaussian Splatting,TG,com,www,CV,Prod,SfM,https,MTS Cloud|260000.0|300000.0|108900
+432|старший веб аналитик|remote|junior|р е с п у б л и к а т а т а р с т а н т а т а р с т а н|4.0|DataLens,Google,Qlik Sense,API,SQL,commerce,DWH,BI|205000.0|205000.0|112800
+433|программист с|full-time|junior|м о с к в а|1.0|hh,API,ru|100000.0|150000.0|104400
+434|computer vision engineer|full-time|senior|м о с к в а|1.0|Sick days,face recognition,XR,EIoU,PyTorch,USDT,AWS CLI,Labs Inc,VR,re|350000.0|500000.0|104400
+435|техлид генерации audio|full-time|senior|м о с к в а|1.0|XR,ML,Labs Inc,DL Engineer,Audio,Sick days,GenAI,VR|450000.0|600000.0|104400
+436|системный аналитик dwh|full-time|senior|м о с к в а|1.0|Scrum,Confluence,Jira,PostgreSQL,Jenkins,Oracle Exadata,Greenplum,SQL,DWH,Agile,Git,Oracle DB,Waterfall|400000.0|400000.0|104400
+437|data scientist|remote|middle|n o t l o c a t i o n|Not_cod|catboost,DL,Go,scipy,Elasticsearch,xgboost,Docker,pandas,Git,lightgbm,pytorch,PostgreSQL,NLP,numpy,keras,DS,Kubernetes,Python,HR tech,tensorflow,ML,Airflow,RecSys,Clickhouse,Kafka,sklearn|280000.0|280000.0|108900
+438|маркетинговый аналитик|remote|senior|n o t l o c a t i o n|Not_cod|Google Sheets,in,www,VC,core,Data Science,linkedin,com,Prod,excel,vc,ru,https,Linkedin,Research|120000.0|160000.0|108900
+439|product analyst|full-time|Not_qualification|n o t l o c a t i o n|Not_cod|Business,Pandas,Hunters,io,PlantUML,mockup,Git,Product Analyst,UTC,net,data,draw,PowerPoint,flow,SQLAlchemy,SciPy,Amplitude,Python,SQL,Blockchain,Numpy,utc,IT,etc|200000.0|300000.0|108900
+440|системный аналитик|temporary|junior|n o t l o c a t i o n|Not_cod|SA,sequence,MEN IN DEV,ru,IT,SQL,REST,UX,JSON,UI,UML,BPMN|800.0|1200.0|108900
+441|bi analyst|full-time|Not_qualification|с а н к т п е т е р б у р г|2.0|hhtmFrom,hh,Power BI,ru,vacancy,SQL,Python,NPS,LTR,BI,Excel,https,LTV|22000.0|22000.0|105200
+442|data engineerdata analyst|remote|middle|n o t l o c a t i o n|Not_cod|ETL,Superset,Adjust,Branch,DBT,Tableau,Postgre,Tiktok,Google Analytics,Excdev,Google Ads,Binom,AppsFlyer,SkadNetwork iOS,Airflow,Google Looker,AppMetrica,Clickhouse,Meta|200000.0|250000.0|108900
+443|devops инженер|full-time|Not_qualification|n o t l o c a t i o n|Not_cod|prometheus,TCP,Jenkins,Sonic MQ,Tibco,IP,ELK,CI,MySQL,Cassandra,GitLab,RedLab TG,Ansible,PostgreSQL,RabbitMQ,Litota Group c,MongoDB,HR,Linux,grafana,RedLab,IT,Tarantool,Kafka,DEVOPS,ClickHouse,docker|200000.0|400000.0|108900
+444|data scientist|full-time|junior|м о с к в а|1.0|gross,in,Spark,AutoDL,Pandas,catboost,DL,alfa,www,habr,Pytorch,Learn,MLOps,linkedin,AutoML,Scikit,xgboost,com,lightgbm,Hadoop,articles,DS,ru,Python,NAS,Numpy,companies,https,Kaggle Competition Master,ML,OSidorshin,company,stack,blog,Hive,DE|120000.0|240000.0|104400
+445|product analytics lead|remote|senior|n o t l o c a t i o n|Not_cod|UE,Grafana,Google Tag Manager,Kiwitaxi,commerce,com,Google Analytics,GMV,Power BI,SQL,unit,https,Product Analytics,Intermediate,IT|15000.0|150000.0|108900
+446|продуктовый аналитик|full-time|senior|с а н к т п е т е р б у р г|2.0|GMT,mail,IT,SQL,Python,Lucky hunter e,Product Analyst|370000.0|450000.0|105200
+447|стажер по направлению deep learning|internship|junior|м о с к в а|1.0|gross,in,Spark,Pandas,catboost,DL,alfa,www,habr,Deep Learning,Pytorch,Learn,linkedin,Scikit,xgboost,TG,me,com,firstov,lightgbm,Hadoop,articles,ru,Python,Numpy,aleksey,companies,https,ML,company,blog,Hive|60000.0|120000.0|104400
+448|data scientist|remote|middle|n o t l o c a t i o n|Not_cod|hhtmFrom,hh,vacancy,ru,HH,https|250000.0|450000.0|108900
+449|computer vision engineer|full-time|senior|м о с к в а|1.0|Sick days,cv,face recognition,XR,EIoU,PyTorch,USDT X,AWS CLI,Labs Inc,VR,re|350000.0|500000.0|104400
+450|аналитик данных|full-time|middle|м о с к в а|1.0|ELT,PySpark,Bell Integrator,noSql,python,ETL,Spark,UDF,Kanban,SQL,Agile,Softline,Hadoop|200000.0|200000.0|104400
+451|data analyst|full-time|middle|м о с к в а|1.0|CTE,DWH,dbt,Yandex DataLens,Datalens,Metabase,Tableau,OLAP Ad,Qlik,net,PostgreSQL,Power BI,ru,SQL,BI,Telegram,hoc,MSSQL,MS SQL,GreenPlum,Airflow,DataLense,join,ClickHouse|200.0|200000.0|104400
+452|junior product manager|remote|junior|n o t l o c a t i o n|Not_cod|Compensair,gle,forms,code,CRM analyst,Product Manager,low,c IT,https,CRM,Problem|60000.0|120000.0|108900
+453|data analyst|remote|middle|м о с к в а|1.0|AB,ML,agile,SQL,Python,SM|250000.0|300000.0|104400
+454|data scientist|full-time|middle|n o t l o c a t i o n|Not_cod|go,python,usd,USDT,Python,SQL,UAE,Go,Datatech Labs  East,telegram|350000.0|400000.0|108900
+455|data engineer|full-time|middle|n o t l o c a t i o n|Not_cod|career,dwh,tinkoff,ETL,Greenplum,ru,system,SQL,Python,it,analytics,www,DWH,me,Data Platform,https|150000.0|400000.0|108900
+456|техлид генерации audio|full-time|senior|м о с к в а|1.0|XR,ML,Labs Inc,DL Engineer,Audio,cv,Sick days,GenAI,VR|600.0|450000.0|104400
+457|системный аналитик|full-time|Not_qualification|м о с к в а|1.0|SQL,REST,Market Lab|250000.0|350000.0|104400
+458|data analyst|remote|senior|n o t l o c a t i o n|Not_cod|Data,agile,SQL,DWH,PostgeSQL,Selecty|220000.0|400000.0|108900
+459|руководитель онлайн курса ml team lead|remote|senior|n o t l o c a t i o n|Not_cod|ML,IT,OTUS,Zoom|3000.0|3000.0|108900
+460|системный аналитик|full-time|middle|n o t l o c a t i o n|Not_cod|API Rest,Soap,IT,SQL,UML,Centicore,BPMN|250000.0|350000.0|108900
+461|data analyst|temporary|senior|м о с к в а|1.0|Top Selection,Power BI,Redash|1600.0|2000.0|104400
+462|преподаватель по направлению продуктовая аналитика|part-time|Not_qualification|n o t l o c a t i o n|Not_cod|CET,it,IT Career Hub|2500.0|2500.0|108900
+463|bi analyst|remote|junior|n o t l o c a t i o n|Not_cod|HuntIT,Tableau,Tableau Desktop,Tableau Server,IT,BI,Holistics BI,Hard skills|400000.0|400000.0|108900
+464|senior product analyst|remote|senior|n o t l o c a t i o n|Not_cod|UAE,Mixpanel,paced,If interested,up to,Project,Responsibilities,Data Science,data analysis,Tableau,In,Hands,Fully,Excellent English skills,dynamic startup environment,Requirements,and quality,retention,Product Analyst,Google Analytics,Analytics,Salary,year gross,Amplitude,Familiarity with A,Looker,Bachelor|15000000.0|15000000.0|108900
+465|data engineer|remote|middle|м о с к в а|1.0|Vsemirsoft,Moscow,DWH,Europe,UTC|285000.0|285000.0|104400
+466|fullstack аналитик|full-time|middle|n o t l o c a t i o n|Not_cod|Restart,XML,Fullstack,REST API,IT,FinTech,SQL,UML,JSON,BPMN,re|250000.0|350000.0|108900
+467|devops инженер|full-time|senior|n o t l o c a t i o n|Not_cod|ARM Templates,Grafana,full time,CloudFormation,Jenkins,AWS CodePipeline,CI,ELK,Docker,Git,GitLab,Terraform,DevOps,Kubernetes,PowerShell,Python,IaC,Microsoft,CD,Bash,DevOps Engineer Expert,Prometheus,Infrastructure as Code,Azure Administrator,Agile,GitHub,AWS|350000.0|450000.0|108900
+468|lead системный аналитик dwh|remote|senior|м о с к в а|1.0|Confluence,Jira,gross,ETL,Oracle,IT,SQL,DWH|300000.0|300000.0|104400
+469|data scientist|full-time|Not_qualification|м о с к в а|1.0|MSSQL,PostgreSQL,Data Science,ETL,Oracle,FinTech,SQL,Python,airflow,grafana,Git,docker|200.0|350000.0|104400
+470|middle product analyst|remote|middle|n o t l o c a t i o n|Not_cod|app,Simpals,Matplotlib,Pandas,analyst,PowerBI,web,vacancy,com,Product Analyst,Scipy,Google Data Studio,SQL,Python,Numpy,https,product,IT|300000.0|300000.0|108900
+471|помощник исследователя в области al|part-time|junior|с а н к т п е т е р б у р г|2.0|AI,TensorFlow,Hugging Face Transformers,Flask,Docker,pandas,Git,Django,learn,GCP,PyTorch,FastAPI,NLP,Azure,NumPy,Python,scikit,Al,AWS,transformers|1000.0|1200.0|105200
+472|junior исследователь|full-time|junior|м о с к в а|1.0|tensorflow,VisionLabs,Python,video analytics,DeepFake,object detection,CV,pytorch,etc|117000.0|193000.0|104400
+473|преподаватель онлайн курса ml для финансового анализа|remote|Not_qualification|n o t l o c a t i o n|Not_cod|ML,Zoom,IT,best practices,OTUS|350.0|3000.0|108900
+474|data scientist|full-time|middle|n o t l o c a t i o n|Not_cod|net,ML,PyTorch,NLP,numpy,ru,Python,catboost,IT,www,CV,pandas,sklearn,https,TensorFlow,data science|200.0|200000.0|108900
+475|аналитик dwh|full-time|middle|м о с к в а|1.0|net,ELT,PostgreSql,ETL,BPMN,UseCases,MBiS,IT,DWH,UseCase,UML,DE|250000.0|300000.0|104400
+476|data engineer|full-time|Not_qualification|n o t l o c a t i o n|Not_cod|CTE,ETL,Spark,DWH,Wildberries,Hadoop,PostgreSQL,WMS,Greenplum,SQL,Python,BI,DQ,Data,Apache airflow,IT,Kafka,ClickHouse,Debezium|250000.0|250000.0|108900
+477|data engineer|full-time|middle|м о с к в а|1.0|ETL,DV,Outlines Tech,DataMesh,me,Ancor,Git,OLAP,SLA,SQL,Outlines Technologies,Python,tech,https,Airflow,Oracle,IT,Clickhouse,Postgres,etc|215000.0|215000.0|104400
+478|архитектор dwh|full-time|senior|м о с к в а|1.0|ETL,pipelines,Inmon,DWH,Kimball,web,API,me,Code review,data,Prefect,Greenplum,SQL,Python,BI,Teradata,https,MS SQL,Nifi,Airflow,Oracle,Data vault,Postgres|350000.0|470000.0|104400
+479|data engineer|remote|middle|м о с к в а|1.0|ETL,pipelines,Inmon,DWH,Kimball,web,API,CI,me,Git,Code review,data,Prefect,PostgreSQL,Greenplum,SQL,Python,Linux,BI,CD,Teradata,https,MS SQL,Nifi,Airflow,Oracle,Data vault,Agile,Clickhouse,Kafka,Postgres|270000.0|350000.0|104400
+480|data engineer|remote|middle|n o t l o c a t i o n|Not_cod|AI,ETL,Machine Learning,cloud,Yandex,Cyber Staff,Vertica,PostgreSQL,DevOps,MPP,Greenplum,SLA,SQL,HR,https,IT,Agile,Clickhouse,Kafka,ClickHouse,SaaS|200000.0|200000.0|108900
+481|data аналитик|full-time|middle|n o t l o c a t i o n|Not_cod|Microsoft Power BI,ETL,of,DWH,Causal Inference,skyeng,VIP,lamoda,analyst,Google Cloud,BD,BA,Product,Google Big Query,BB,Kolesa Group,the,state,data,SQL,group,Python,Family Day,BI,we,product,https,hashtag,tech,art,career,ML,Data,Airflow,tg|900000.0|1300000.0|108900
+482|lead machine learning engineer|remote|senior|n o t l o c a t i o n|Not_cod|ECCV,Gradient,Computer Vision,Image,FFmpeg,of,PhD,Pytorch,github,production,SOTA,Scikit,Apple,Best of,Persona,the,ICCV,state,computer vision,Python,GAN,art,OpenCV,ML,ready,CVPR,computer science,transformers|1000000.0|1000000.0|108900
+483|младший аналитик стажер|full-time|junior|с а н к т п е т е р б у р г|2.0|SQL,Python,MS Excel,VBA,Big Data|100000.0|100000.0|105200
+484|data engineer|remote|middle|n o t l o c a t i o n|Not_cod|AI,ETL,Machine Learning,cloud,Yandex,Cyber Staff,Vertica,PostgreSQL,DevOps,MPP,Greenplum,SLA,SQL,HR,IT,Agile,Clickhouse,Kafka,ClickHouse,SaaS|200000.0|200000.0|108900
+485|системный аналитик|remote|Not_qualification|м о с к в а|1.0|SDLC,TOGAF,TCP,Wi,Go,MQTT,MIST,Jira,Juniper,IP,Ruckus,CCNA,IEEE,Miro,Firmware,Lua,ArchiMate,Nginx,Redis,Fi,Huawei,docker,MongoDB,Linux,Caddy,RADIUS,UML,System analyst,CNWA,AAA,Eltex,TACACS,Cisco,IT,Mattermost,BPMN,Vue|250000.0|350000.0|104400
+486|data analyst|remote|middle|р е с п у б л и к а т ы в а|6.0|Microsoft Office,Xfit,RnD,SQL,Ad,SQL Oracle,Skyeng,hoc|230000.0|260000.0|104200
+487|data engineer|remote|senior|n o t l o c a t i o n|Not_cod|UAE,Design,paced,up to,Project,Responsibilities,Data Science,B testing,Tableau,If interested,Fully,Product,dynamic startup environment,Requirements,and quality,Fluent English,Google Analytics,Salary,year gross,Amplitude,test,NoSQL databases,Airflow,Conduct experimenting,Postgres,Engineering,Bachelor|13000000.0|13000000.0|108900
+488|data engineer|full-time|senior|м о с к в а|1.0|Apache Kafka,Trino,python,java,ETL,Big Data SQL,Gitlab,Apache Flink,Hive,Impala,com,dbt,Git,NiFi,Apache Airflow|350000.0|350000.0|104400
+489|bi аналитик|full-time|junior|м о с к в а|1.0|PBI,Tableau,Power BI,tg,BWG,SQL,BI,Black Wall Group|120000.0|200000.0|104400
+490|middle продуктовый аналитик |remote|middle|n o t l o c a t i o n|Not_cod|CR,ARPPU,Google Analytics,Google BigQuery,mobile,KPI,MentalHealth,ARPU,Amplitude,IT,SQL,AppMetrica,ROI,retention,LTV|230000.0|250000.0|108900
+491|data engineer|remote|Not_qualification|n o t l o c a t i o n|Not_cod|oracle,PBI,Xfit,SELECTY,postgreSQL,sql,join,IT,OLAP excel,Selecty,FitMost,BI,windows,greenplum,Skyeng|250000.0|300000.0|108900
+492|data engineer|full-time|middle|n o t l o c a t i o n|Not_cod|career,dwh,tinkoff,ETL,Greenplum,ru,system,SQL,Python,it,analytics,www,DWH,me,Data Platform,https|150000.0|400000.0|108900
+493|data scientist|full-time|Not_qualification|n o t l o c a t i o n|Not_cod|ML,Binance,Deribit,Salary,USDT,Python,TG,Contact,Cicada Capital Ltd|1000000.0|1400000.0|108900
+494|machine learning engineer|temporary|middle|n o t l o c a t i o n|Not_cod|AI,LlamaIndex,RAG,Fine,CV,TensorFlow,Google Cloud,API,MySQL,OpenAI Assistant,UTC,PyTorch,PostgreSQL,FastAPI,Azure,LangChain,HF Transformers,HR,ML,Subscale AI,tuning,REST API,ClickHouse,AWS,SaaS|2500.0|350000.0|108900
+495|data engineerdata analyst|full-time|Not_qualification|м о с к в а|1.0|Engineer  Analyst,PostgreSQL,ETL,Neoflex,Greenplum,GreenPlum,Data Vault,Airflow,agile,kanban,IT,SQL,DWH,scrum,Telegram|200000.0|345000.0|104400
+496|middle product analyst|full-time|middle|n o t l o c a t i o n|Not_cod|CR,ARPPU,Google Analytics,Google BigQuery,mobile,KPI,MentalHealth,ARPU,Amplitude,IT,SQL,AppMetrica,ROI,retention,LTV|230000.0|250000.0|108900
+497|middle php разработчик|full-time|middle|n o t l o c a t i o n|Not_cod|Laravel,Redash,full time,Postrges,mVas,PHP,API,MySQL,SoKseniya,me,SOLID,Revenue Sharing,Docker,Git,Composer,PostgreSQL,RabbitMQ,Kibana,Gitlab,SQL,unit,https,REST API,CPA,Mysql,Clickhouse,Redis,ClickHouse|200000.0|250000.0|108900
+498|data scientist|full-time|senior|n o t l o c a t i o n|Not_cod|Spark,Data Science,production,PL,Git,Hadoop,PySpark,Oracle Exadata,Python,MLflow,SQL,Linux,Bash,iRW,AB,ML,Science,ready,Airflow,KPI,Hive,etc|350000.0|350000.0|108900
+499|junior bi аналитик|full-time|junior|с а н к т п е т е р б у р г|2.0|PostgreSQL,Ad,Superset,Power Query,Power Pivot,DAX,ru,SQL,BI,Excel,PowerBI,hoc|65000.0|65000.0|105200
+500|искусственному интеллекту  специалист по robot operating system таким образом|full-time|Not_qualification|n o t l o c a t i o n|Not_cod|ML,Robot Operating System,AI,ROS,DS,CV|250000.0|400000.0|108900
+501|data analyst|full-time|senior|n o t l o c a t i o n|Not_cod|Finstar,Power BI,DAX,Gross efficiency,SQL,Recovery rate|200000.0|300000.0|108900
+502|data analytics|remote|middle|n o t l o c a t i o n|Not_cod|Spark,Grafana,broadcast join,Git,PySpark,Data Analytics,DS,Spark UI,SQL,Python,it,BI,seaborn,group by,Top Selection,PyTest,plotly,ML,DA,Airflow,CVM,join,matplotlib,DE,data science|300000.0|335000.0|108900
+503|machine learning engineer|temporary|middle|n o t l o c a t i o n|Not_cod|AI,LlamaIndex,RAG,Fine,TensorFlow,Google Cloud,API,MySQL,OpenAI Assistant,UTC,PyTorch,PostgreSQL,FastAPI,Azure,LangChain,HF Transformers,HR,ML,Subscale AI,tuning,REST API,ClickHouse,AWS,SaaS|2500.0|350000.0|108900
+504|data engineerdata analyst|full-time|Not_qualification|м о с к в а|1.0|PostgreSQL,ETL,Neoflex,Greenplum,GreenPlum,Data Vault,Airflow,agile,kanban,IT,SQL,DWH,scrum,Telegram|200000.0|345000.0|104400
+505|data аналитик middle|remote|middle|n o t l o c a t i o n|Not_cod|DA,Google Analytics,Data,DstLab,Power BI,web,MySQL,data,MS SQL|260000.0|320000.0|108900
+506|продуктовый аналитик|full-time|middle|м о с к в а|1.0|AB,ReDash,Tableau,Power BI,Redash,SQL,Python|200000.0|400000.0|104400
+507|product analyst|full-time|Not_qualification|n o t l o c a t i o n|Not_cod|Business,Pandas,Hunters,io,PlantUML,mockup,Git,Product Analyst,UTC,net,data,draw,PowerPoint,flow,SQLAlchemy,SciPy,Amplitude,Python,SQL,Blockchain,Numpy,utc,IT,etc|300000.0|500000.0|108900
+508|data scientist|full-time|Not_qualification|n o t l o c a t i o n|Not_cod|ML,Binance,Deribit,Salary,USDT,Python,TG,Contact,Cicada Capital Ltd|1000000.0|1400000.0|108900
+509|системный аналитик|full-time|middle|м о с к в а|1.0|Confluence,ML,Jira,SOAP,AI,MQ,XML,WMT Group,REST API,IT,SQL,Agile,CSV,Kafka,JSON|200000.0|300000.0|104400
+510|data аналитик|full-time|middle|n o t l o c a t i o n|Not_cod|PostgreSQL,Data,GreenPlum,IT,SQL,DWH,GAPov,Kafka,Top Selection,ClickHouse|230000.0|250000.0|108900
+511|преподаватель онлайн курсов|remote|Not_qualification|n o t l o c a t i o n|Not_cod|zoom c,MLOps,Machine Learning,IT,OTUS|300000.0|400000.0|108900
+512|прикладной администратор mlops инфраструктуры|remote|middle|м о с к в а|1.0|MLOPS,batch ML,kubernetes,MLOps,Feature Store,AutoML,Online,Devops,Agile,CD,Deploy|260000.0|310000.0|104400
+513|ml инженер|full-time|Not_qualification|n o t l o c a t i o n|Not_cod|Stable Diffusion,ML,OpenCV,Fast API,open,SD,Docker,source,SDxl|200000.0|200000.0|108900
+514|devops инженер|full-time|senior|n o t l o c a t i o n|Not_cod|ARM Templates,Grafana,full time,CloudFormation,Jenkins,AWS CodePipeline,CI,ELK,Docker,Git,GitLab,Terraform,DevOps,Kubernetes,PowerShell,Python,IaC,Microsoft,CD,Bash,Prometheus,Infrastructure as Code,Agile,GitHub,AWS|250000.0|450000.0|108900
+515|data scientist|full-time|Not_qualification|м о с к в а|1.0|in,api,DL,Nvidia Tesla,www,core,Data Science,linkedin,com,Prod,SQL,https,Research,ML,postgres,RAM|400000.0|400000.0|104400
+516|продуктовый аналитик|remote|middle|n o t l o c a t i o n|Not_cod|AB,CTE,Full HD,Superset,mobile,web,viju,Viasat tech,driven,Viasat Tech,it,SQL,Python,BI,digital,Viju,Smart TV,data|250000.0|300000.0|108900
+517|data scientist|full-time|Not_qualification|n o t l o c a t i o n|Not_cod|ML,Binance,Deribit,Salary,USDT,Python,TG,Contact,Cicada Capital Ltd|1000000.0|1400000.0|108900
+518|data engineer|full-time|middle|n o t l o c a t i o n|Not_cod|career,dwh,tinkoff,ETL,Greenplum,ru,system,SQL,Python,it,analytics,www,DWH,me,Data Platform,https|150000.0|400000.0|108900
+519|data engineer|full-time|senior|n o t l o c a t i o n|Not_cod|ETL,Spark,www,Java,Data Science,linkedin,API,Teza Technologies,com,pandas,Structured,Prod,Hadoop,data,numpy,data IO,Python,https,ELT,Research,Data Vendors,on,PhD of Math,engineer,DE,data science,AWS,In|400000.0|800000.0|108900
+520|продуктовый аналитик|full-time|Not_qualification|с а н к т п е т е р б у р г|2.0|net,ad,PostgreSQL,su,Google Analytics,Firebase,monopoly,tatiana,ru,gavrilenko,Python,SQL,AppMetrica,UX,https,ClickHouse,hoc|160000.0|200000.0|105200
+521|руководитель проектов data science|full-time|senior|м о с к в а|1.0|in,DL,DWH,www,CPU,core,Data Science,MLOps,linkedin,PnL,com,Prod,Hadoop,DS,ru,SQL,Python,ML System Design,MacBook,https,Research,ML,RAM,DE|300000.0|400000.0|104400
+522|dl engineer|remote|senior|n o t l o c a t i o n|Not_cod|NN,ML,SOTA DL,NLP,AI,deep learning,DL Engineer,SOTA,Kaggle,TTS,CV|600000.0|600000.0|108900
+523|dl engineer|full-time|senior|n o t l o c a t i o n|Not_cod|NN,ML,SOTA DL,NLP,AI,deep learning,DL Engineer,SOTA,Kaggle,TTS,CV,full time|600000.0|600000.0|108900
+524|senior product analyst|remote|senior|n o t l o c a t i o n|Not_cod|Looker,UAE,Mixpanel,paced,If interested,up to,Project,Data Science,Responsibilities,data analysis,Tableau,Hands,Fully,dynamic startup environment,Excellent English skills,Requirements,retention,and quality,Product Analyst,Google Analytics,Analytics,Salary,year gross,Amplitude,Familiarity with A,HOOK,In,Bachelor|14000000.0|14000000.0|108900
+525|стажер продуктовый аналитик|full-time|junior|м о с к в а|1.0|SQL,Python,BI,Excel|80000.0|80000.0|104400
+526|data engineer|remote|middle|n o t l o c a t i o n|Not_cod|ETL,off,hr,Airflow,ru,SQL,Python,IT,me,BI,day,https|200000.0|200000.0|108900
+527|data scientist|remote|middle|n o t l o c a t i o n|Not_cod|MSSQL,github,PostgreSQL,Github,Sklearn,Matplotlib,Pandas,Python,SQL,it,Numpy,MySQL,Clickhouse,Top Selection,data science,Apache Airflow,Scipy|400000.0|850000.0|108900
+528|аналитик|remote|Not_qualification|n o t l o c a t i o n|Not_cod|in,TON Api,com,the,net,to,ru,https,company,TON Connect,blog|50000.0|50000.0|108900
+529|data engineer|remote|senior|n o t l o c a t i o n|Not_cod|Spark,Near Real,Apache Pinot,Java,Kubernetes c,Scala,API,Flink,JSON,data,PySpark,NoSQL,SQL,Python,ML,YTsaurus,Airflow,time,Clickhouse,Kafka,Postgres|350000.0|450000.0|108900
+530|data engineer|remote|senior|м о с к в а|1.0|Apache Kafka,PostgreSQL,ETL,MS SQL Server,Greenplum,Arenadata,SQL,Python,me,com,Clickhouse,https,DQ,Apache Airflow,Hadoop,Apache NiFi|130000.0|160000.0|104400
+531|продуктовый аналитик|full-time|Not_qualification|в о р о н е ж с к а я о б л а с т ь|1.0|AB,Surf,Appmetrica,LOVE REPUBLIC,Lamoda,ERP,CJM,LTV,Custdev,IT,Amplitude,CLT,KFC,Job stories,Firebase,Retention Rate,PWA,Delivery Club|150000.0|300000.0|109300
+532|data engineer|full-time|senior|n o t l o c a t i o n|Not_cod|Python,SQL,Your Personal Agent|300000.0|400000.0|108900
+533|ml engineer|remote|senior|n o t l o c a t i o n|Not_cod|PyTorch,tuning LLM,NLP,Data Science,fine,RESTful API,LLM,Python,SQL,EXCDEV,Falcon,Git,TensorFlow|270000.0|350000.0|108900
+534|data analyst|full-time|middle|м о с к в а|1.0|SuperSet,DataLens,Tableau,Performance review,Glassford Global,SQL,Python,IT,BI,PowerBI|220000.0|260000.0|104400
+535|ds разработчик|remote|Not_qualification|n o t l o c a t i o n|Not_cod|ML,numpy,DS,Python,pandas,sklearn|1000.0|1000.0|108900
+536|lead data engineer|remote|senior|n o t l o c a t i o n|Not_cod|ELT,ETL,Spark,GreenPlum,Airflow,job,ru,Python,SQL,DWH,me,dbt,Kafka,https,Apache Airflow|500000.0|500000.0|108900
+537|backend developer python|full-time|senior|n o t l o c a t i o n|Not_cod|Developer Python,Backend,full time|250000.0|250000.0|108900
+538|data analyst|remote|middle|n o t l o c a t i o n|Not_cod|net,ETL,Ptolemay,Tableau,Power BI,git,kafka,IT,Python,SQL,matplotlib,airflow,Linux,seaborn,BI,nifi,docker|300000.0|400000.0|108900
+539|data engineer|remote|middle|n o t l o c a t i o n|Not_cod|API,CI,me,com,OLAP,DevOps,NoSQL,OLTP,Python,SQL,RDBMS,CD,https,code review,ELT,data governance,FESCO,IT,Infrastructure as code|240000.0|240000.0|108900
+540|data engineer|remote|middle|n o t l o c a t i o n|Not_cod|PostgreSQL,ETL,ru,DWH,me,https,MS SQL|180000.0|180000.0|108900
+541|ml lead|full-time|senior|с а н к т п е т е р б у р г|2.0|Saiga,LlamaIndex,RAG,vLLM,LMDeploy,LLM,MLC,HRMLab,MVP,TensorRT,pgvector,Mistral,TG,commerce,LangChains,Hugging Face TGI,Llama,DS,StableDiffusion,BERT,ML,Faiss,Qdrant,ChatGPT,Claude,Milvus,Postgres,GPT Functions|300000.0|400000.0|105200
+542|data scientistml engineer|full-time|middle|n o t l o c a t i o n|Not_cod|PyTorch,ETH,PostgreSQL,NLP,DeFi,ANN,API,USDT,Python,SciKitLearn,Git,Apache Spark,TensorFlow,Solana|300000.0|800000.0|108900
+543|data scientist|remote|junior|м о с к в а|1.0|gross,in,Spark,AutoDL,Pandas,catboost,DL,alfa,www,habr,Pytorch,Learn,MLOps,linkedin,AutoML,Scikit,xgboost,com,lightgbm,Hadoop,articles,DS,ru,Python,NAS,Numpy,companies,https,Kaggle Competition Master,ML,OSidorshin,company,stack,blog,Hive,DE|360000.0|460000.0|104400
+544|data engineer|internship|junior|с а н к т п е т е р б у р г|2.0|Tech,NoSQL,SCRUM,ru,SQL,Python,Aston,RUB GROSS,ASTON|23000.0|70000.0|105200
+545|data scientist|remote|senior|с а н к т п е т е р б у р г|2.0|IDF,Benefactory,Spark,HDFS,Pandas,DL,CV,TF,CRM,Hadoop,PyTorch,PySpark,NLP,DS,SciPy,ru,Python,SQL,Numpy,ML,DF API,Apache,Airflow,Hive,Kafka,sklearn,day off|350000.0|500000.0|105200
+546|middle mlops|full-time|middle|с а н к т п е т е р б у р г|2.0|ETL,Feature Store,RAG,MLOps,CI,MLops,pgvector,commerce,Docker,GitLab,Ansible,Database Postgres,Terraform,Kubernetes,Python,CD,Stack,ELT,ML,Faiss,Qdrant,Milvus|170000.0|250000.0|105200
+547|data engineer|remote|senior|n o t l o c a t i o n|Not_cod|Rancher,Zookeeper,ETL,HDFS,Spark,DWH,Groovy,Ranger,Java,SAP BW,Zabbix,CI,MySQL,me,Docker,Git,NDA,Ansible,Hadoop,Apache Nifi,SAS,Unix,Talend,ru,SQL,Informatica,Linux,CD,https,BigData,Airflow,DataLake,MsSQL,Oracle,Hive,Postgres,Yarn|40.0|2400.0|108900
+548|data engineer|remote|middle|м о с к в а|1.0|HDInsight,ETL,Spark,Yandex,DWH,SAP BW,Azure DevOPS,SConsulting,Chef,Scala,Azure Data Factory,Europe,DSC,Ansible,Hadoop,UTC,data,Yandex DL,Azure,Yandex Data Lake,SQL,Python,Pentaho,Pig,Azure DL,YDL,Moscow,Hive,ADL,Puppet,SSIS,Salt|250000.0|290000.0|104400
+549|инженер по данным|full-time|middle|р е с п у б л и к а т а т а р с т а н т а т а р с т а н|4.0|ApacheAirflow,MS SSIS,ETL,AirFlow,Data Build Tool,DBT,SMP,Tableau,Microsoft SQL Server,me,pandas,Git,Qlik,numpy,MPP,Greenplum,ru,SQL,Python,BI,https,ELT,REST API,Oracle|130000.0|130000.0|112800
+550|data analyst|full-time|middle|n o t l o c a t i o n|Not_cod|numpy,python,DstLab,Power BI,git,kafka,SQL,airflow,matplotlib,seaborn,pandas,nifi,ASAP,docker|200000.0|280000.0|108900
+551|ml engineerdata scientist|remote|Not_qualification|n o t l o c a t i o n|Not_cod|ML,Binance,Deribit,Salary,USDT,Python,TG,Contact,Cicada Capital Ltd|1300000.0|1500000.0|108900
+552|data engineer|full-time|senior|n o t l o c a t i o n|Not_cod|DDL,pgSQL,HDFS,Spark,ETL,DML,DWH,Confluence,Jira,PL,com,Git,ANSI,Hadoop,PostgreSQL,MPP,Greenplum,Gitlab,git,YARN,Bitbucket,SQL,Sqoop,https,Top Selection,ELT,Data,Nifi,kafka,Informatica PowerCenter,SAS DIS|350000.0|400000.0|108900
+553|продуктовый аналитик|remote|middle|n o t l o c a t i o n|Not_cod|CustDev,Figma,CJM,Wireframe,it,Miro,User Story Mapping,Top Selection|270000.0|320000.0|108900
+554|data engineer|remote|middle|n o t l o c a t i o n|Not_cod|Spark,Near Real,Apache Pinot,Java,Kubernetes c,Scala,API,me,Flink,JSON,data,PySpark,NoSQL,SQL,Python,https,ML,YTsaurus,Airflow,time,Clickhouse,Kafka,Postgres|350000.0|450000.0|108900
+555|data инженер senior|full-time|senior|n o t l o c a t i o n|Not_cod|DDL,pgSQL,HDFS,Spark,ETL,DML,DWH,Confluence,Jira,PL,Git,ANSI,Hadoop,PostgreSQL,MPP,Greenplum,Gitlab,git,YARN,Bitbucket,SQL,Sqoop,ELT,Data,Nifi,kafka,Informatica PowerCenter,SAS DIS|350000.0|400000.0|108900
+556|продуктовый аналитик|full-time|Not_qualification|м о с к в а|1.0|ReDash,Tableau,Power BI,SQL,Python|270000.0|315000.0|104400
+557|middle devops инженер|full-time|senior|м о с к в а|1.0|GCloud,ML,DevOps,docker,Kubernetes,CI,MLFlow,gitlab,OpenSource,Docker,jenkins,CD,full time,Kubeflow,AWS,linux|250000.0|400000.0|104400
+558|data engineer|remote|senior|м о с к в а|1.0|Co,ETL,Data Vault,DWH,me,Vertica,Detkin,MPP,SQL,HR,Dagster,Python,Telegram,Amazon Redshift,https,GreenPlum,Airflow,ClickHouse|300000.0|300000.0|104400
+559|системный аналитик|full-time|senior|n o t l o c a t i o n|Not_cod|SAP,Confluence,SOAP,Top Selection topselection,SRM,SRM Agora,API,Cloud,SQL,c JIRA,it,com,SAP SRM,REST,SAP Ariba,Docker|210000.0|240000.0|108900
+560|продуктовый аналитик|full-time|middle|n o t l o c a t i o n|Not_cod|AB,CTE,Full HD,Superset,mobile,web,Viasat tech,driven,SQL,it,Python,BI,digital,Viju,Smart TV,data|200000.0|300000.0|108900
+561|middle cv исследователь|full-time|junior|м о с к в а|1.0|tensorflow,VisionLabs,ECCV,Python,pipeline,IT,DeepFake,CV,etc,ACCV,pytorch,ICCV,re|108000.0|214000.0|104400
+562|разработчик nlp|full-time|middle|м о с к в а|1.0|RAG,LLM,alfa,TensorFlow,habr,Google Cloud,NLP in Practice,com,PyTorch,Azure,NLP,ru,Python,Retrieval,https,Augmented Generation,BERT,company,GPT,blog,AWS,transformers|360000.0|460000.0|104400
+563|системный аналитик|remote|senior|n o t l o c a t i o n|Not_cod|Sequence,PL,SQL,Use Case,Static Structure,Activity,UML,SOA|200000.0|280000.0|108900
+564|data engineer|full-time|middle|n o t l o c a t i o n|Not_cod|career,dwh,tinkoff,ETL,Greenplum,ru,system,SQL,Python,it,analytics,www,DWH,me,Data Platform,https|150000.0|400000.0|108900
+565|data scientist|full-time|junior|м о с к в а|1.0|ML,time series,pySpark,Salary,Airflow,git,ru,Python,pipeline,SQL,IT,Docker,Time Series,DVC|150000.0|170000.0|104400
+566|data engineer|temporary|Not_qualification|м о с к в а|1.0|EDWH,ETL,Spark,Grafana,TN Digital,Data Build Tool,DBT,SonarQube,GitLab,Ansible,PostgreSQL,Terraform,Greenplum,Kubernetes,Python,SQL,AlertManager,ELT,Prometheus,Airflow,Kafka|300000.0|450000.0|104400
+567|middle cv исследователь|full-time|junior|м о с к в а|1.0|tensorflow,VisionLabs,ECCV,Python,IT,DeepFake,CV,etc,ACCV,pytorch,ICCV,re|108000.0|236000.0|104400
+568|machine learning engineer|full-time|Not_qualification|м о с к в а|1.0|ML,LLaMa,NLP,cv,Git,SRM,production,RAG,LangChain,LLM,SQL,DL,it,IT,Setl Group,docker|200000.0|250000.0|104400
+569|консультант|full-time|senior|м о с к в а|1.0|Lamoda,CF,Power Point,PnL,DWH,BI,Smart People,Excel,https,HoReCa|80000.0|120000.0|104400
+570|bi analyst|full-time|middle|м о с к в а|1.0|DPD IT,ETL,SDS RUS,MPP Vertica,SSAS,MPP,IT,SQL,DWH,BI,Vertica|200000.0|200000.0|104400
+571|middle mlops|full-time|middle|с а н к т п е т е р б у р г|2.0|ETL,Feature Store,RAG,MLOps,CI,MLops,pgvector,TG,commerce,Docker,GitLab,Ansible,Database Postgres,Terraform,Kubernetes,Python,CD,Stack,ELT,ML,Faiss,Qdrant,Milvus|170000.0|250000.0|105200
+572|системный аналитик middle|full-time|middle|м о с к в а|1.0|soap,rest api,json,xml,postgresql,SQL,it|150000.0|220000.0|104400
+573|системный аналитик|remote|Not_qualification|n o t l o c a t i o n|Not_cod|Scrum,XML,Sequence,API,REST API,DFD,agile,OpenAPI,Warner Music Group,REST,NVIDIA,SQL,UML,Agile,JSON,BPMN|250000.0|250000.0|108900
+574|data engineer|remote|senior|м о с к в а|1.0|ETL,Inmon,DWH,dbt,Kimball,web,API,Lion Recruitment,CI,me,Code review,Prefect,RabbitMQ,DevOps,Greenplum,ru,SQL,Python,Linux,BI,CD,https,MS SQL,DataOps,Nifi,Airflow,DWH architect,Data vault,Clickhouse,Kafka,Postgres,DE|350000.0|450000.0|104400
+575|senior ml ops|full-time|senior|м о с к в а|1.0|MLE,Sick days,LLM,Diffusion Models,CPU,Deploy,MLOps,LLMOps,CI,DVC,XR,ML Ops,Engineer,DevOps,MLflow,ClearML,Batch,CD,GenAI,ONNX,MLFlow,Streaming,GPU,VR|400000.0|500000.0|104400
+576|data scientist|remote|junior|n o t l o c a t i o n|Not_cod|ML,triton,USD,production,computer vision,CV,MVP,Git,docker|150000.0|250000.0|108900
+577|data engineer|remote|senior|м о с к в а|1.0|Apache Kafka,PostgreSQL,ETL,Greenplum,MS SQL Server,Arenadata,SQL,Python,me,Clickhouse,DQ,Apache Airflow,Hadoop,Apache NiFi|130000.0|160000.0|104400
+578|data engineer|remote|Not_qualification|м о с к в а|1.0|EDWH,ETL,Spark,Grafana,TN Digital,Data Build Tool,DBT,SonarQube,GitLab,Ansible,PostgreSQL,Terraform,Greenplum,Kubernetes,Python,SQL,AlertManager,ELT,Prometheus,Airflow,Kafka|300000.0|450000.0|104400
+579|data engineer|remote|middle|n o t l o c a t i o n|Not_cod|PostgreSQL,SQL,IT,Python,me,https|155000.0|155000.0|108900
+580|android разработчик|full-time|middle|n o t l o c a t i o n|Not_cod|RxJava,Android SDK,Android Architecture Components,Retrofit,IT,HR,Android,Material Design,Telegram,Kotlin,full time,Dagger,Java,OkHttp|200000.0|380000.0|108900
+581|аналитик bi dwh middle|remote|middle|n o t l o c a t i o n|Not_cod|BI DWH,SQL,DWH,BI,Visiology|150000.0|250000.0|108900
+582|стажер|internship|junior|м о с к в а|1.0|gross,ASon,XGBoost,DL,alfa,org,habr,ods,python,ai,ODS,NLP in Practice,com,pandas,learn,pytorch,vc,articles,LightGBM,impala,NLP,CatBoost,numpy,git,ru,SQL,companies,https,LM,ML,hive,scikit,spark|60000.0|240000.0|104400
+583|бизнес аналитик|full-time|middle|м о с к в а|1.0|BPMN,web,SQL,IT,commerce,UML,digital,CRM|200000.0|250000.0|104400
+584|data analyst|remote|junior|n o t l o c a t i o n|Not_cod|company,linkedin,IT,ag tech Agro,Club,com,www,SQL,Python,https|50000.0|100000.0|108900
+585|bi analyst|full-time|senior|n o t l o c a t i o n|Not_cod|ETL,Power BI Desktop,Excel,Tabular Editor,DataScience,Power BI,SQL,MS Power BI,MS Excel,VBA,Top Selection,Dax Studio,BigData,Power Query M,WEB,Power Query,Power Pivot,DAX,IT,SSIS,VertiPaq Analyzer|260000.0|280000.0|108900
+586|data engineerml engineer|remote|senior|n o t l o c a t i o n|Not_cod|AI,MLOps,KPI,LangChain,LangSmith,Intermediate,LLM,Python,UAE,it,Linux,STACK,me,Ubuntu,https|220.0|220000.0|108900
+587|computer vision engineer|full-time|middle|м о с к в а|1.0|XR,PyTorch,AI,VPF,Labs Inc,Sick days,CV,Action Recognition,AD,GPU,VR,Action Detection|5000.0|6000.0|104400
+588|senior dl engineer|full-time|senior|м о с к в а|1.0|XR,Labs Inc,Sick days,VAE,DL,GAN,GenAI,VR|350000.0|450000.0|104400
+589|lead machine learning engineer|remote|senior|n o t l o c a t i o n|Not_cod|ECCV,Gradient,Computer Vision,Image,FFmpeg,of,PhD,Pytorch,github,production,SOTA,Scikit,Apple,Best of,Persona,the,ICCV,state,computer vision,Python,GAN,art,OpenCV,ML,ready,CVPR,computer science,transformers|1000000.0|1000000.0|108900
+590|data engineer|remote|middle|n o t l o c a t i o n|Not_cod|SAP,Alteryx,ETL,Informatica Power Center,SSAS,Access,Navision,IBM Data Stage,VLookUp,PowerBI,Tableau,FMCG,Azure Data Factory,Excel,IICS,Qlik,MicroStrategy,SUMIF,OLAP,SUM,SSRS,Power BI,ru,SQL,BI,MS SQL,BW,Oracle Data Integrator,Oracle eBS,Heaad,Oracle,SSIS|250000.0|250000.0|108900
+591|performance analyst|remote|middle|n o t l o c a t i o n|Not_cod|Proficiency in Python,Form of work,Performance Analyst,ETL tools,advantage,We,visualisation libs,Product Analyst,from,and keep innovating,Google Analytics,Salary,You will,Understanding of marketing,AppsFlyer,ing,Astromer,Data,Muse Group,SKAdNetwork etc,Airflow,Employment,Clickhouse,etc|4500.0|4500.0|108900
+592|data engineer|full-time|junior|с а н к т п е т е р б у р г|2.0|PostgreSQL,SQLAlchemy,ETL,Arenadata,Pandas,SQL,Python,Numpy,NiFi,ClickHouse,MS SQL|160000.0|160000.0|105200
+593|data engineer|remote|senior|n o t l o c a t i o n|Not_cod|ETL,hr,GMT,Python,SQL,DWH,me,CLS Global|450000.0|450000.0|108900
+594|дата аналитик|full-time|senior|n o t l o c a t i o n|Not_cod|IT,Top Selection,SQL|250000.0|270000.0|108900
+595|стажер ds|internship|junior|м о с к в а|1.0|gross,in,Spark,XGBoost,DL,alfa,www,org,habr,python,linkedin,com,pandas,pytorch,Hadoop,LightGBM,numpy,CatBoost,DS,git,ru,sql,https,NAParkhomenko,ML,company,blog,Hive,sklearn|60.0|60000.0|104400
+596|data engineer|full-time|junior|с а н к т п е т е р б у р г|2.0|PostgreSQL,SQLAlchemy,ETL,Arenadata,Pandas,SQL,Python,Numpy,NiFi,ClickHouse,MS SQL|160000.0|160000.0|105200
+597|middle qa|remote|middle|n o t l o c a t i o n|Not_cod|ML,QA,Jupyter Notebook,DevOps,Jupyter Notebooks,Excdev,CI,API,Python,Linux,LLMs,CD,GitLab,GitHub,PyTest|110000.0|110000.0|108900
+598|аналитик разработчик|full-time|middle|р е с п у б л и к а т ы в а|6.0|gross,in,Cloud,Yandex,Macbook,www,core,Data Science,Gitlab CI,MLOps,linkedin,com,Docker,Prod,Git,ds,DS,Jupyter,Kubernetes,Python,SQL,Bash,https,Research,ML,Airflow,GPU,ClickHouse,Trino|250000.0|350000.0|104200
+599|ведущий аналитик|full-time|Not_qualification|n o t l o c a t i o n|Not_cod|Confluence,Jira,MS Visio,Front,Back,MS Office,BPMN,MS Project|350000.0|350000.0|108900
+600|аналитик hr процессов|full-time|Not_qualification|n o t l o c a t i o n|Not_cod|c HR,Data Science,IT,HR,Python,SQL,Windows,MAC,Centicore|240000.0|270000.0|108900
+601|руководитель группы dwh|full-time|senior|м о с к в а|1.0|net,ETL,MBiS,IT,pipelines,DWH,SQL,Python,BI,Excel,PGSQL,data|300000.0|350000.0|104400
+602|аналитик в медиабаинговое агенство|remote|Not_qualification|n o t l o c a t i o n|Not_cod|Union Affiliate|70000.0|70000.0|108900
+603|дата аналитик|remote|middle|м о с к в а|1.0|Prometheus,JDPlex,DWH,ASAP|160000.0|240000.0|104400
+604|data engineer|remote|senior|n o t l o c a t i o n|Not_cod|Apache Kafka,ETL,Superset,ru https,DWH,Tableau,AWS,me,GCP,Scrapy,Web API,PostgreSQL,Azure,ERP,DevOps,Power BI,Excdev,SQL,Python,BI,BeautifulSoup,Kafka,ClickHouse,Apache Airflow|300000.0|300000.0|108900
+605|продуктовый аналитик|remote|middle|n o t l o c a t i o n|Not_cod|Qlikview,ETL,Tableau,Performance review,TravelTech,Airflow,PostgresQL,Power BI,Redash,Python,SQL,SimilarWeb,Full Time,Clickhouse,BI,PowerBI|350000.0|350000.0|108900
+606|prompt engineer|full-time|junior|n o t l o c a t i o n|Not_cod|Pharma,it,FMCG,Prompt engineer|40000.0|60000.0|108900
+607|data engineer|remote|middle|х а б а р о в с к и й к р а й|7.0|API,CI,me,OLAP,DevOps,NoSQL,OLTP,Python,SQL,RDBMS,CD,code review,ELT,data governance,FESCO,IT,Infrastructure as code|240000.0|240000.0|109300
+608|data scientist|full-time|middle|n o t l o c a t i o n|Not_cod|ML,Spark,mlflow,NBA,git,Hive,IT,Python,airflow,SQL,Oracle,pandas,Centicore,Vertica,CRM,Hadoop|250000.0|250000.0|108900
+609|data scientist|remote|Not_qualification|n o t l o c a t i o n|Not_cod|Matplotlib,Pandas,github,Sklearn,Notion,MySQL,Youtrack,Scipy,PostgreSQL,Github,Python,SQL,Numpy,MSSQL,ML,Dstlab,Clickhouse,data science,Apache Airflow|240000.0|240000.0|108900
+610|bi analyst|full-time|Not_qualification|м о с к в а|1.0|net,Open source,Greenplum,SSAS,Microsoft SQL Server,Power BI,Arenadata,Postgres,SQL,SSIS,BI,NiFi,ClickHouse,Apache Airflow,ITSM|170000.0|215000.0|104400
+611|data scientist|full-time|middle|n o t l o c a t i o n|Not_cod|PD,kubernetes,in,catboost,Seldon,core,Data Science,MLOps,linkedin,xgboost,com,Prod,pandas,Vertica,lightgbm,learn,JupyterHub,numpy,git,ru,SQL,MLflow,Python,Gini,Dashboard,VDI,https,ML,Research,scikit,Airflow,mail,Oracle,etc|15000.0|200000.0|108900
+612|data analyst|full-time|middle|м о с к в а|1.0|Oracle,Greenplum,PostgreSQL,Hadoop|250000.0|320000.0|104400
+613|ml engineer|full-time|middle|р о с т о в с к а я о б л а с т ь|3.0|chaining LLM,FastAPI,NLP,IDF,GPT,LangChain,Podman,IT,TF,LLM,Docker,GPU,BERT,etc|100000.0|180000.0|109500
+614|bi analyst|remote|middle|n o t l o c a t i o n|Not_cod|to,ETL,SRM,SQL,HR,UPTRADE,BI,MS SQL|200000.0|250000.0|108900
+615|стажер продуктовый аналитик|internship|junior|м о с к в а|1.0|Power BI,SQL,HR,Python,Welcome Day|100000.0|100000.0|104400
+616|bi analyst|remote|senior|n o t l o c a t i o n|Not_cod|HuntIT,Tableau,Tableau Desktop,Tableau Server,IT,BI,Holistics BI,Hard skills|400000.0|400000.0|108900
+617|data scientistml engineer|full-time|middle|n o t l o c a t i o n|Not_cod|PyTorch,ETH,PostgreSQL,NLP,DeFi,ANN,API,USDT,Python,SciKitLearn,Git,Apache Spark,TensorFlow,Solana|500000.0|600000.0|108900
+618|data scientist|remote|senior|м о с к в а|1.0|gross,ASR,Spark,RL,LLM,AirFLow,DWH,TTS,CV,Pytorch,MLOps,SOTA,pandas,numpy,NLP,DevOps,Python,ML,Okko,RecSys,GPU,ClickHouse,IR|400000.0|500000.0|104400
+619|system analyst|remote|senior|n o t l o c a t i o n|Not_cod|System Analyst,Matching Galaxy,full time,HTTP,SQL,IT,EPC,REST,WebSocket,UML,XSD,JSON,BPMN|350000.0|350000.0|108900
+620|системный аналитик|full-time|middle|n o t l o c a t i o n|Not_cod|net,Best Benefits,vacancies,ru,https|250000.0|250000.0|108900
+621|data engineer|full-time|middle|р е с п у б л и к а т а т а р с т а н т а т а р с т а н|4.0|PostgreSQL,HDFS,ETL,Greenplum,Airflow,NoSQL,ru https,Python,SQL,me,Clickhouse,Hadoop|240000.0|240000.0|112800
+622|machine learning engineer|full-time|Not_qualification|n o t l o c a t i o n|Not_cod|ML,PyTorch,scikit,CI,Python,CD,learn,TensorFlow|35000.0|35000.0|108900
+623|data analyst|remote|middle|n o t l o c a t i o n|Not_cod|Spark,Grafana,broadcast join,Git,PySpark,DS,Spark UI,Python,PEP,it,BI,seaborn,Top Selection,PyTest,plotly,ML,DA,Task Mining,Airflow,matplotlib,DE|300000.0|380000.0|108900
+624|data engineer|full-time|middle|н о в о с и б и р с к а я о б л а с т ь|6.0|Apache Kafka,Continuous Integration,ETL,Visual Studio Code,Entity Framework,ru https,Frontend,Asp Net Core,TypeScript,Code Review,Elasticsearch,Scala,Microsoft SQL Server,me,Git,Apache Spark,VisualStudio,Apache NiFi,PostgreSQL,Foundation Server,TFS,Kubernetes,SQL,Python,Linux,Unit Test,Angular,SQLite,Backend,NET|300000.0|300000.0|113800
+625|data engineer|remote|middle|n o t l o c a t i o n|Not_cod|Apache Kafka,ETL,Spark,Groovy,AirFlow,Java,SAP BW,Zabbix,Git,Big Data,Hadoop,Apache Nifi,SAS,Talend,SQL,Informatica,it,Top Selection,Airflow|380000.0|500000.0|108900
+626|data engineer|full-time|middle|n o t l o c a t i o n|Not_cod|GIS,ETL,Spark,Java,CI,MySQL,Docker,GCP,Apache Airflow,Hadoop,PostgreSQL,Azure,DevOps,NoSQL,IoT,Kubernetes,Talend,big data,SQL,Informatica,Python,CD,ing,AWS|35000.0|35000.0|108900
+627|data scientist|full-time|junior|м о с к в а|1.0|ML,time series,pySpark,Salary,Airflow,git,ru,Python,pipeline,SQL,IT,Docker,Time Series,DVC|170000.0|170000.0|104400
+628|qa automation|full-time|middle|м о с к в а|1.0|QA Automation,SOAP,Selenide,Gross,HR,REST,Selenium,Java|270000.0|420000.0|104400
+629|data engineer|remote|senior|n o t l o c a t i o n|Not_cod|ELT,MQ,RabbitMQ,Spark,ETL,MIA Dev,Airflow,Apache Airflow,Python,SQL,me,Kafka,https,Big Data|250000.0|320000.0|108900
+630|bi analyst|remote|middle|n o t l o c a t i o n|Not_cod|ETL,SQL,HR,UPTRADE,BI,MS SQL|200000.0|250000.0|108900
+631|data engineer|remote|middle|м о с к в а|1.0|PostgreSQL,XML,PHP,git,CLI,MySQL,SQL,CSV,me,Go,bash,Heaven|200000.0|200000.0|104400
+632|product analyst|remote|senior|n o t l o c a t i o n|Not_cod|DataLens,CTE,jira,SuperSet,python,Metabase,Tableau,com,Uzbekistan,Bi,Product Analyst,Hamkorbank,git,sql,confluence,BI,dwh,fintech,Power,appMetric,clickhouse,airflow|250000.0|400000.0|108900
+633|bi аналитик|remote|middle|n o t l o c a t i o n|Not_cod|PostgreSQL,Ad,Airflow,Power BI,Python,SQL,Clickhouse,BIM,BI,IYNO,EDA|200000.0|200000.0|108900
+634|data engineer|full-time|middle|n o t l o c a t i o n|Not_cod|career,dwh,tinkoff,ETL,Greenplum,ru,system,SQL,Python,it,analytics,www,DWH,me,Data Platform,https,Hadoop|150000.0|400000.0|108900
+635|системный аналитик dwh|remote|middle|м о с к в а|1.0|Confluence,Jira,gross,ETL,Oracle,IT,SQL,DWH|260.0|260000.0|104400
+636|data engineer|remote|middle|n o t l o c a t i o n|Not_cod|CTO,ETL,job,ru https,Python,SQL,DWH,HR,iSpring,me,Data Platform,Data Quality|170000.0|300000.0|108900
+637|продуктовый аналитик|full-time|Not_qualification|м о с к в а|1.0|Yandex Metrika,PostgreSQL,Google Analytics,C level,Yandex Data Lens,LETO,Airflow,MySQL,Clickhouse,Google Tag Manager,GitLab|300000.0|300000.0|104400
+638|data engineer|full-time|junior|n o t l o c a t i o n|Not_cod|ML,PySpark,HDFS,NumPy,git,Pandas,Python,engineer|300000.0|300000.0|108900
+639|ai model trainer|full-time|Not_qualification|м о с к о в с к а я о б л а с т ь|1.0|AI model trainer,advanced CLI commands,of,Basic image processing,English,AI engineer,We consider Russian,Expert AI,Advanced Python programming,SQL,Stable diffusion,Linux,other AI networks,on,LoRa,etc|500000.0|600000.0|109300
+640|системный аналитик|full-time|middle|м о с к в а|1.0|aCRM,Confluence,Jira,RESTful API,CRM,Swagger,Postman,Kafka,UML,BPMN,etc|280000.0|280000.0|104400
+641|bi analyst|remote|senior|n o t l o c a t i o n|Not_cod|HuntIT,Tableau,Tableau Desktop,Tableau Server,IT,BI,Holistics BI,Hard skills|400000.0|400000.0|108900
+642|ищем аналитика данных|full-time|Not_qualification|м о с к в а|1.0|AI,Data,gle,Data Analytics,ai,forms,Product Analytics,https,IMI|150000.0|200000.0|104400
+643|data engineer|remote|senior|n o t l o c a t i o n|Not_cod|Apache Kafka,ETL,Superset,DWH,Tableau,AWS,me,GCP,Scrapy,Web API,PostgreSQL,Azure,ERP,DevOps,Power BI,Excdev,ru,SQL,Python,BI,https,BeautifulSoup,Kafka,ClickHouse,Apache Airflow|180000.0|300000.0|108900
+644|lead data engineer|remote|senior|м о с к в а|1.0|Great Expectation,Data lineage,Apache Kafka,streaming,HDFS,DataHub,Data Vault,Feature Store,Data science,Delta lake,Windows,MVP,Spark History server,Scala,me,Apache Spark,Hadoop,CDC,PostgreSQL,Spice Agency,Datalake,Yarn,NoSQL,Greenplum,SQL,Lenovo ThinkPad,https,PoC,Ceph,REST API,Oracle,Feast,Redis,Postgres,DE,Apache Airflow,Debezium|350000.0|350000.0|104400
+645|продуктовый аналитик|remote|middle|n o t l o c a t i o n|Not_cod|Google Analytics,Power BI,SQL,Python,commerce,Grafana,Google Tag Manager,Product Analyst|150000.0|220000.0|108900
+646|nlp engineer|full-time|middle|м о с к в а|1.0|Spark,RAG,LLM,alfa,TensorFlow,habr,LLaMA,Mistral,com,Hadoop,PyTorch,NLP,ru,Python,https,BERT,company,GPT,blog,transformers|360000.0|460000.0|104400
+647|data engineer|full-time|senior|n o t l o c a t i o n|Not_cod|Learn,PyTorch,numpy,ROC,NP Recruitment Agency,Scikit,Python,xgboost,matplotlib,scipy,pandas,seaborn,Means,TensorFlow,etc|220000.0|280000.0|108900
+648|front end developer|remote|middle|n o t l o c a t i o n|Not_cod|QA,end Developer,WS,Akita,HTTP,Karma,TypeScript,JavaScript,Review,Unit,Javascript,SCSS,Redux,SOLID,Git,Angular Library,Front,flow,ui,git,Angular Elements,DRY,NgRx,Jasmine,RestAPI,Angular,KISS,NgXS,RxJS|200000.0|380000.0|108900
+649|senior mlops|full-time|senior|м о с к в а|1.0|WandB,DevOps,MLOps,Kubernetes,CI,Sick days,LLM,MLFlow,MLflow,Gen AI,ClearML,IaC,CD,Diffusion Models,Labs AI|350000.0|450000.0|104400
+650|аналитик хранилищ данных|full-time|middle|м о с к в а|1.0|DPD IT,ETL,SDS RUS,MPP Vertica,SSAS,MPP,IT,SQL,DWH,BI,Vertica|280.0|280000.0|104400
+651|системный аналитик dwh|remote|middle|м о с к в а|1.0|Confluence,Jira,gross,Prime,ETL,Zone,Oracle,IT,SQL,DWH|260000.0|260000.0|104400
+652|data engineer|full-time|junior|n o t l o c a t i o n|Not_cod|ML,PySpark,HDFS,NumPy,git,Pandas,Python,engineer,iRW|300000.0|300000.0|108900
+653|data engineer|remote|senior|м о с к в а|1.0|ETL,ru https,etl,hr,CI,me,Docker,Carprice,appmetrica,git,SQL,Python,Linux,BI,CD,dwh,google,Clickhouse|300000.0|300000.0|104400
+654|senior devops engineer|full-time|senior|n o t l o c a t i o n|Not_cod|Unreal Engine,GitLab CI,Grafana,City,AWS CloudFormation,Jenkins,VPC,Notion,CI,IAM,Docker,Git,Asana Gitlab,Asana,RDS,Terraform,DevOps engineer,DevOps,Kubernetes,Asana city,Lambda,ELK Stack,CD,Tg,Perforce,Prometheus,Cognito,Slack,AWS|400000.0|450000.0|108900
+655|senior product analyst|full-time|senior|м о с к в а|1.0|SAP,Power Qwery,Power Pivot,Product analyst,Excel,CRM|30000.0|30000.0|104400
+656|ml engineer|full-time|senior|n o t l o c a t i o n|Not_cod|Pydantic,Contact us,Spark,Pandas,Language Proficiency,Transformers,Expert Development,Classification,Required Skills,Azure AutoML Benefits,English,Engineering ership,If you,Competitive Compensation,Sklearn,Vacancy,Microsoft Azure,Docker,Git,Strong mathematical background,Russian,Company,PyTorch,PostgreSQL,FastAPI,SQLAlchemy,DataBricks,Python,SQL,OpenAI API,MAD DEVS Salary,Desired Experience,Dollar,Airflow,Employment|450000.0|550000.0|108900
+657|прикладной администратор mlops инфраструктуры|full-time|middle|м о с к в а|1.0|MLOPS,batch ML,kubernetes,MLOps,Feature Store,AutoML,Online,Devops,Agile,CD,Deploy|260000.0|310000.0|104400
+658|data engineer|remote|senior|м о с к в а|1.0|ETL,Spark,ru https,Pandas,Devops,Rubbles,hr,CI,me,Docker,Big Data,Hadoop,PostgreSQL,OLAP,DevOps,DS,OLTP,MPP,NumPy,Kubernetes,Gitlab,Python,SQL,sql,Linux,DQ,ML,DA,Airflow,Hive,Clickhouse,Postgres,DE|500000.0|500000.0|104400
+659|data scientist|remote|middle|м о с к в а|1.0|in,LinkedIn,DL,bash,core,AirFlow,DataScientist,Data Science,BitBucket,MLOps,linkedin,API,product owner,com,Prod,Git,Hadoop,git,ru,Python,SQL,Hard skills,https,ML,Daily meetings,Research,Oracle,MLFlow,kuber|350000.0|450000.0|104400
+660|data analyst|full-time|senior|м о с к в а|1.0|PostgreSQL,Datalens,Metabase,Artplay,Airflow,EdTech,SQL,Clickhouse,Debezium|200000.0|230000.0|104400
+661|data engineer|remote|senior|м о с к в а|1.0|ETL,ru https,Inmon,DWH,dbt,Kimball,web,API,Lion Recruitment,CI,me,Code review,Prefect,RabbitMQ,DevOps,Greenplum,SQL,Python,Linux,CD,MS SQL,DataOps,Nifi,Airflow,DWH architect,Data vault,Clickhouse,Kafka,Postgres,DE|350000.0|350000.0|104400
+662|системный аналитик|full-time|Not_qualification|n o t l o c a t i o n|Not_cod|IT,Gross,API|350000.0|350000.0|108900
+663|dwh|full-time|middle|м о с к в а|1.0|net,ETL,Tableau,Power BI,SQL,DWH,BI,QlikView|200000.0|300000.0|104400
+664|аналитик bi|remote|middle|n o t l o c a t i o n|Not_cod|SuperSet,DataLens,Tableau,WMT Group,Power BI,IT,SQL,Python,HR,BI,Bi|270000.0|310000.0|108900
+665|flutter разработчик|part-time|senior|n o t l o c a t i o n|Not_cod|MVVM,MVI,DevFest,Monthly Stand,Happy Friday,Performance review,Flutter,Work,IT,SOLID,MVP,Dart,Git,GitHub,Flutter SDK,Smart|100000.0|300000.0|108900
+666|data engineer|remote|junior|n o t l o c a t i o n|Not_cod|gross,Superset,ETL,io,DBT,Tableau,Independent Conractor,Docker,Improvado,PostgreSQL,Google Data Studio,Amazon Web Services,Power BI,Python,SQL,sql,ELT,Redis,JOIN|150000.0|250000.0|108900
+667|продуктовый аналитик уровня middle|remote|middle|n o t l o c a t i o n|Not_cod|net,CPM,CTR,Airflow,Redash,MySQL,Python,Viewability,GitLab,ClickHouse,CPC|270000.0|300000.0|108900
+668|аналитик dwh|full-time|senior|n o t l o c a t i o n|Not_cod|IT,Top Selection,DWH,SQL|300000.0|320000.0|108900
+669|data engineer|remote|senior|м о с к в а|1.0|QD,ETL,Spark,Robusta,PXF,core,AOP,AirFlow,hhtmFrom,Arenadata,ADB,vacancy,DataVault,me,PostgreSQL,Heap,Greenplum,QE,ru,SQL,https,hh,IT,DBA|250000.0|250000.0|104400
+670|digital marketing analyst|remote|senior|n o t l o c a t i o n|Not_cod|Digital Marketing Analyst,Google Analyti,Google Analytics,WEB,Tableau,Power BI,SCRUM,LMS,GTM,SQL,Python,Meta Ads,IT,HR,Looker|200000.0|200000.0|108900
+671|продуктовый аналитик|full-time|senior|n o t l o c a t i o n|Not_cod|SQL,IT,Product Analyst,Grafana|180000.0|180000.0|108900
+672|data engineer|part-time|senior|n o t l o c a t i o n|Not_cod|OLAP,OLTP,SQL,MongoDB,MySQL,me,Clickhouse,noSQL,https|100000.0|200000.0|108900
+674|разработчик с|full-time|Not_qualification|с в е р д л о в с к а я о б л а с т ь|5.0|http,web|180000.0|180000.0|111100
+676|маркетолог|full-time|Not_qualification|п р и м о р с к и й к р а й|7.0|BTL|60000.0|60000.0|109000
+678|аналитик|full-time|Not_qualification|с а н к т п е т е р б у р г|2.0|IT,Access|100000.0|100000.0|105200
+681|аналитик|full-time|Not_qualification|с т а в р о п о л ь с к и й к р а й|8.0|Word,Excel|25000.0|28000.0|106000
+683|web разработчик bitrix|remote|Not_qualification|х а н т ы м а н с и й с к и й а в т о н о м н ы й о к р у г ю г р а|5.0|CMS,git,REST,SOAP,1C,Bootstrap,Bitrix Framework|175000.0|175000.0|108400
+688|консультант с|full-time|Not_qualification|р е с п у б л и к а м а р и й э л|4.0|ERP 2,ERP|100000.0|100000.0|112300
+691|инженер отдела мониторинга и аналитики по северные электрические сети|full-time|Not_qualification|м у р м а н с к а я о б л а с т ь|2.0|NE|73000.0|73000.0|106000
+694|ведущий специалист отдела аналитики транспортной работы|full-time|Not_qualification|м о с к в а|1.0|Ms Office,Word,Exel,Power Point|50000.0|55000.0|104400
+696|системный аналитик|full-time|Not_qualification|х а н т ы м а н с и й с к и й а в т о н о м н ы й о к р у г ю г р а|5.0|Servicedesk|100000.0|100000.0|108400
+698|аналитик мфц|full-time|Not_qualification|н и ж е г о р о д с к а я о б л а с т ь|4.0|Mozilla Thunderbird,Microsoft Office,Outlook,Word,Excel,Power Point|35000.0|35000.0|111000
+699|разработчик с|full-time|Not_qualification|к у р г а н с к а я о б л а с т ь|5.0|http,web|130000.0|130000.0|115900
+700|разработчик с|full-time|Not_qualification|с а н к т п е т е р б у р г|2.0|http,web|180000.0|180000.0|105200
+701|разработчик с|full-time|Not_qualification|т ю м е н с к а я о б л а с т ь|5.0|http,web|180000.0|180000.0|108900
+703|разработчик с|full-time|Not_qualification|ч е л я б и н с к а я о б л а с т ь|5.0|http,web|180000.0|180000.0|110400
+708|специалист  категории|full-time|Not_qualification|с в е р д л о в с к а я о б л а с т ь|5.0|RG,Soft|40000.0|40000.0|111100
+712|product analyst|full-time|Not_qualification|с а н к т п е т е р б у р г|2.0|RFM,CPM,Power BI,Qlik Sense,Tableau,LTV,CPA,ABC,ROI|70000.0|70000.0|105200
+722|аналитик баз данных|full-time|Not_qualification|с в е р д л о в с к а я о б л а с т ь|5.0|Excel|54000.0|54000.0|111100
+730|старший системный администратор баз данных|full-time|Not_qualification|м о с к в а|1.0|MS SQL,PostgreSQL|43000.0|47000.0|104400
+733|интернет маркетолог|full-time|Not_qualification|п е р м с к и й к р а й|4.0|SMM,smm|43750.0|65625.0|110800
+735|аналитик|full-time|Not_qualification|р е с п у б л и к а к р ы м|3.0|CRM|20000.0|20000.0|105500
+736|data scientist|full-time|middle|с а н к т п е т е р б у р г|2.0|Plotly,FastAPI,Scikit,Numpy,Pandas,Python,Grafana,Learn,ELK,Catboost|100000.0|100000.0|105200
+743|аналитик рынка жилой и коммерческой недвижимости|full-time|Not_qualification|м о с к в а|1.0|Visio,Microsoft Office,Word,Excel,QGis,PowerPoint|43000.0|47000.0|104400
+747|бизнес аналитик|full-time|Not_qualification|с в е р д л о в с к а я о б л а с т ь|5.0|IT,commerce|40000.0|45000.0|111100
+752|специалист по бюджетированию|full-time|Not_qualification|с а н к т п е т е р б у р г|2.0|Microsoft Office,Word,Excel|84000.0|84000.0|105200
+753|начинающий экономист аналитик|full-time|Not_qualification|м о с к в а|1.0|Microsoft Office,Word,PowerPoint,Excel|43000.0|47000.0|104400
+754|аналитик|full-time|Not_qualification|т у л ь с к а я о б л а с т ь|1.0|managers,as,is,Jira,to be,Redmind,task|40000.0|40000.0|111700
+755|аналитик бизнес процессов|full-time|Not_qualification|м о с к в а|1.0|to be,as is|43000.0|47000.0|104400
+757|бизнес аналитик с|full-time|Not_qualification|м о с к в а|1.0|Agile,Redmine,Scrum,Jira|43000.0|47000.0|104400
+758|data scientist|full-time|Not_qualification|м о с к в а|1.0|PostGIS,PostgreSQL|43000.0|47000.0|104400
+768|специалист power bi|full-time|Not_qualification|с а н к т п е т е р б у р г|2.0|ETL,SQL,CTE,DAX query language,MS Power BI,Power Query,Power Pivot|50000.0|50000.0|105200
+772|аналитик|full-time|Not_qualification|я р о с л а в с к а я о б л а с т ь|1.0|MS Visio,Outlook,Word,Excel,Pover Point|51067.0|51067.0|111500
+774|аналитик|full-time|Not_qualification|н о в о с и б и р с к а я о б л а с т ь|6.0|Tableau,BI,MS Office,Excel|80000.0|80000.0|113800
+778|старший кредитный аналитик|full-time|Not_qualification|р е с п у б л и к а к о м и|2.0|Word,MS Office,Excel|64600.0|64600.0|106600
+784|аналитик|full-time|Not_qualification|р о с т о в с к а я о б л а с т ь|3.0|LFL|35000.0|35000.0|109500
+785|администратор баз данных oracle postgresql|full-time|Not_qualification|м о с к в а|1.0|oracle,postgresql|100000.0|100000.0|104400
+788|системный аналитик|full-time|Not_qualification|у д м у р т с к а я р е с п у б л и к а|4.0|MS Office,MySQL,MS Excel|30000.0|30000.0|110300
+789|системный аналитик|full-time|Not_qualification|м о с к в а|1.0|UML|180000.0|180000.0|104400
+793|разработчик с|full-time|Not_qualification|с в е р д л о в с к а я о б л а с т ь|5.0|http,web|180000.0|180000.0|111100
+795|администратор баз данных|full-time|Not_qualification|н и ж е г о р о д с к а я о б л а с т ь|4.0|1с|50000.0|50000.0|111000
+797|бизнес аналитик департамента развития цифровых продуктов и сервисов|full-time|Not_qualification|м о с к в а|1.0|Teams,Jira,PT,PlanFix,Trello,MS Azure,YouTrack,Project|50000.0|50000.0|104400
+802|системный аналитик|full-time|Not_qualification|с а н к т п е т е р б у р г|2.0|IDEF,BPMN,UML|120000.0|160000.0|105200
+808|инженер аналитик по автоматизации инженерных решений|full-time|Not_qualification|м о с к в а|1.0|Rhino,Dynamo,Grasshopper,API,Python,Karamba3D,VBA|50000.0|50000.0|104400
+814|системный аналитик|full-time|Not_qualification|т ю м е н с к а я о б л а с т ь|5.0|Web,HTTP|180000.0|180000.0|108900
+815|маркетолог менеджер по маркетингу|full-time|Not_qualification|м о с к о в с к а я о б л а с т ь|1.0|Monro|100000.0|100000.0|109300
+817|аналитик специалист сопровождения проектов и обучения|full-time|Not_qualification|с а м а р с к а я о б л а с т ь|4.0|1C,ERP|121200.0|121200.0|111700
+822|аналитик|full-time|Not_qualification|в о р о н е ж с к а я о б л а с т ь|1.0|excel|55000.0|55000.0|109300
+826|системный аналитик|full-time|Not_qualification|к у р г а н с к а я о б л а с т ь|5.0|Web,HTTP|180000.0|180000.0|115900
+829|dba postgresql|full-time|Not_qualification|н о в о с и б и р с к а я о б л а с т ь|6.0|Tomcat,WebSpere,SQL,PostgreSQL,JBoss,Weblogic,UNIX|70000.0|70000.0|113800
+848|инженер аналитик|full-time|Not_qualification|с а н к т п е т е р б у р г|2.0|RHEL,Debian,OSI,Linux,Astra,IP|92000.0|95000.0|105200
+851|телемаркетолог|full-time|Not_qualification|п е р м с к и й к р а й|4.0|1с|30000.0|30000.0|110800
+853|инженер тестировщик в команду machine learning|full-time|Not_qualification|н о в о с и б и р с к а я о б л а с т ь|6.0|Python|40000.0|40000.0|113800
+854|аналитик отдела мультимедийных систем и видеоконференцсвязи|full-time|Not_qualification|т а м б о в с к а я о б л а с т ь|1.0|Ms Visio,HTMT,CMS,BPML,IDEFx,XML,Rational Rose,CSV,UML,DFD,BPWin|22000.0|22000.0|109500
+855|маркетолог|full-time|Not_qualification|к а м ч а т с к и й к р а й|7.0|PR|80000.0|80000.0|107500
+857|ведущий аналитик|full-time|Not_qualification|с а н к т п е т е р б у р г|2.0|MS Office,MS Power Point,MS Excel|46200.0|46200.0|105200
+859|системный аналитик|full-time|Not_qualification|ч е л я б и н с к а я о б л а с т ь|5.0|SQL|100000.0|100000.0|110400
+869|системный аналитик|full-time|Not_qualification|с в е р д л о в с к а я о б л а с т ь|5.0|MS SQL,My SQL,Oracle|90000.0|120000.0|111100
+877|эксперт аналитик|full-time|Not_qualification|м о с к в а|1.0|REST,SOAP,UML,BPMN,web|60775.0|60775.0|104400
+882|системный аналитик|full-time|Not_qualification|с в е р д л о в с к а я о б л а с т ь|5.0|BPMn,SyteLine,ERP|32000.0|50000.0|111100
+888|администратор баз данных|remote|Not_qualification|с а н к т п е т е р б у р г|2.0|PostgreSQL|200000.0|400000.0|105200
+889|администратор баз данных|full-time|Not_qualification|к и р о в с к а я о б л а с т ь|4.0|Microsoft Office|23000.0|23000.0|111100
+890|аналитик|full-time|Not_qualification|м о с к в а|1.0|SQL,WEB|60000.0|60000.0|104400
+892|разработчик с|part-time|Not_qualification|п е р м с к и й к р а й|4.0|ERP,CRM|130000.0|130000.0|110800
+893|аналитик|full-time|Not_qualification|м о с к в а|1.0|excel,powerpoint|130000.0|130000.0|104400
+895|devops инженер|full-time|Not_qualification|с а н к т п е т е р б у р г|2.0|NAT,IMAP,Nginx,VPN,PostgreSQL,Docker,kubernetes,POP3,Gitlab,Haproxy,CD,CI,DNS,DHCP,Git|92000.0|92000.0|105200
+898|аналитик|full-time|Not_qualification|м о с к о в с к а я о б л а с т ь|1.0|Python,Power Pivot|50000.0|50000.0|109300
+902|аналитик|full-time|Not_qualification|с в е р д л о в с к а я о б л а с т ь|5.0|BPMn,SyteLine,ERP|26000.0|36000.0|111100
+903|бизнес аналитик с|full-time|Not_qualification|м о с к в а|1.0|BPMN 2,IDEF0|50000.0|100000.0|104400
+904|главный аналитик|full-time|Not_qualification|о м с к а я о б л а с т ь|6.0|Word,Excel,MS Office,powerPoint|32500.0|40000.0|112200
+905|финансовый аналитик|full-time|Not_qualification|м о с к в а|1.0|FMCG|52800.0|52800.0|104400
+910|системный аналитик|full-time|Not_qualification|м о с к в а|1.0|oracle|50000.0|50000.0|104400
+919|аналитик данных|full-time|Not_qualification|н о в о с и б и р с к а я о б л а с т ь|6.0|Power BI,pandas,rsquo,join,SQL,select,Python,numpy,Splunk,Oracle BI,BI,SQL Alchemy|100000.0|100000.0|113800
+921|системный аналитик|full-time|Not_qualification|м о с к в а|1.0|splunk,XML,postman,curl,swagger,figma,JSON,kibana,REST,BPMN,jira,plantUML,SOAP,UML,UX,io,UI,confluence,API,draw,visio|50000.0|50000.0|104400
+922|менеджер по бюджетной аналитике массового рынка|full-time|Not_qualification|м о с к в а|1.0|KPIs|50000.0|50000.0|104400
+924|помощник маркетолога|full-time|Not_qualification|р о с т о в с к а я о б л а с т ь|3.0|excel|50000.0|50000.0|109500
+927|специалист по организационному развитию|full-time|Not_qualification|с в е р д л о в с к а я о б л а с т ь|5.0|Business Studio,Visio,BPMN 2,BPwin,Cross Functional Flow Chart,IDEF0|50000.0|50000.0|111100
+932|специалист по финансовой аналитике|full-time|Not_qualification|м о с к в а|1.0|SAP,Hyperion|50000.0|50000.0|104400
+933|маркетолог аналитик|full-time|Not_qualification|р о с т о в с к а я о б л а с т ь|3.0|excel|50000.0|50000.0|109500
+936|веб разработчик с битрикс|full-time|Not_qualification|м о с к в а|1.0|CSS,HTML,PHP,JavaScript|120000.0|140000.0|104400
+946|консультант с|full-time|Not_qualification|а с т р а х а н с к а я о б л а с т ь|3.0|ERP|19300.0|19300.0|106600
+949|бизнес аналитик|full-time|Not_qualification|м о с к в а|1.0|SQL,UML,Design First,BPMN,Open API|80000.0|80000.0|104400
+950|менеджер по интернет рекламе|full-time|Not_qualification|с а н к т п е т е р б у р г|2.0|Forbes,Vademecum|100000.0|100000.0|105200
+951|старший ревизор аналитик|full-time|junior|с а р а т о в с к а я о б л а с т ь|4.0|Internet,Libre Office Writer,Libre Office Calc,Word,Libre Office Impress,mail,Excel,Libre Office Math,Libre Office Base,Libre Office Draw,Windows|20000.0|20000.0|110600
+952|аналитик сметчик|full-time|junior|с а р а т о в с к а я о б л а с т ь|4.0|Internet,Libre Office Writer,Libre Office Calc,Libre Office Impress,Libre Office Math,Libre Office Base,Libre Office Draw|20000.0|20000.0|110600
+956|аналитик|full-time|Not_qualification|п е р м с к и й к р а й|4.0|MS Office,Word,PowerPoint,Excel|70000.0|70000.0|110800
+959|системный аналитик|full-time|Not_qualification|р е с п у б л и к а т а т а р с т а н т а т а р с т а н|4.0|UI,Flowchart,UML,UX,BPMN|70000.0|140000.0|112800
+972|старший аналитик|full-time|Not_qualification|м о с к в а|1.0|SQL,BI|185000.0|185000.0|104400
+976|экономист аналитик|full-time|Not_qualification|т ю м е н с к а я о б л а с т ь|5.0|Microsoft Office,Word,PowerPoint,Excel|45000.0|50000.0|108900
+986|системный аналитик|full-time|Not_qualification|с в е р д л о в с к а я о б л а с т ь|5.0|Web,HTTP|180000.0|180000.0|111100
+988|системный аналитик|full-time|Not_qualification|м о с к о в с к а я о б л а с т ь|1.0|Agile,XML Schema,JSON,Waterfall|65000.0|65000.0|109300
+990|бизнес аналитик с|full-time|Not_qualification|с а н к т п е т е р б у р г|2.0|1с|180000.0|180000.0|105200
+996|системный аналитик|full-time|Not_qualification|ч е л я б и н с к а я о б л а с т ь|5.0|Web,HTTP|180000.0|180000.0|110400
+997|аналитик|full-time|Not_qualification|м о с к в а|1.0|LSTM,gradient tree boosting,ETS,tensorflow,random forest,SARIMAX,VAR,pytorch|30000.0|50000.0|104400
+1000|bim координатор овик вк|full-time|Not_qualification|м о с к в а|1.0|Revit|70000.0|70000.0|104400
+1003|аналитик|full-time|Not_qualification|р я з а н с к а я о б л а с т ь|1.0|excel,powerpoint|65000.0|65000.0|110100
+1006|экономист аналитик|full-time|Not_qualification|с а н к т п е т е р б у р г|2.0|excel,1с|80500.0|80500.0|105200
+1023|маркетолог|full-time|Not_qualification|р е с п у б л и к а т а т а р с т а н т а т а р с т а н|4.0|MS Office,Word,MS Outlook,Excel|80000.0|130000.0|112800
+1025|администратор баз данных|part-time|Not_qualification|к е м е р о в с к а я о б л а с т ь к у з б а с с|6.0|Windows 7,Windows 10,Windows Server 2003|35000.0|35000.0|110400
+1028|маркетолог|full-time|Not_qualification|п р и м о р с к и й к р а й|7.0|BTL|60000.0|60000.0|109000
+1031|аналитик медицинской информационной системы|full-time|Not_qualification|м о с к в а|1.0|PACS|99000.0|110000.0|104400
+1032|аналитик данных|full-time|Not_qualification|м о с к в а|1.0|SQL,BI|139000.0|160000.0|104400
+1033|ведущий маркетолог|full-time|Not_qualification|к р а с н о я р с к и й к р а й|6.0|photoshop,adobeillustrator|54000.0|54000.0|106700
+1039|экономист аналитик|full-time|Not_qualification|к о с т р о м с к а я о б л а с т ь|1.0|MS Excel|60000.0|60000.0|108000
+1047|администратор баз данных|full-time|Not_qualification|у д м у р т с к а я р е с п у б л и к а|4.0|VMware,Microsoft|45000.0|80000.0|110300
+1052|маркетолог|full-time|Not_qualification|м о с к в а|1.0|SEO|150000.0|150000.0|104400
+1055|аналитик кредитных рисков|full-time|Not_qualification|л е н и н г р а д с к а я о б л а с т ь|2.0|ERP,Excel|45000.0|45000.0|107200
+1056|менеджер отдела контроля качества данных hr аналитик|full-time|Not_qualification|к р а с н о я р с к и й к р а й|6.0|SAP,Visio,Outlook,Word,MS Office,Excel,Power Point|140000.0|140000.0|106700
+1059|администратор баз данных|full-time|Not_qualification|в л а д и м и р с к а я о б л а с т ь|1.0|WMS,1C WMS|65000.0|65000.0|109900
+1060|бизнес аналитик|full-time|Not_qualification|м о с к в а|1.0|Excel|80000.0|90000.0|104400
+1062|системный аналитик базы данных|full-time|Not_qualification|р о с т о в с к а я о б л а с т ь|3.0|PineScript,Python,ETF,SQL|60000.0|60000.0|109500
+1066|маркетолог|full-time|Not_qualification|р е с п у б л и к а б а ш к о р т о с т а н|4.0|CMS|23000.0|23000.0|110500
+1070|бизнес аналитик|full-time|Not_qualification|м о с к в а|1.0|BPMN,blueprint|150000.0|150000.0|104400
+1075|аналитик по транспортным расходам|full-time|junior|с а р а т о в с к а я о б л а с т ь|4.0|Internet,Libre Office Writer,Libre Office Calc,Word,Libre Office Impress,mail,Excel,Libre Office Math,Libre Office Base,Libre Office Draw,Windows|20000.0|20000.0|110600
+1076|аналитик департамента по работе с ключевыми клиентами|full-time|Not_qualification|м о с к в а|1.0|Google Sheets,BigQuery,Google,SQL,PostgreSQL,MS Excel,Power Query,Power Pivot|60000.0|60000.0|104400
+1081|ведущий бизнес аналитик|full-time|Not_qualification|л е н и н г р а д с к а я о б л а с т ь|2.0|IDEF,RUP,PRINCE2,SQL,AIM,Waterfall,MySQL,BABOK,PMBOK,SCRUM,UML,Agile|60000.0|60000.0|107200
+1086|аналитик центра исследований и разработки|full-time|Not_qualification|с а н к т п е т е р б у р г|2.0|PAGE,SDS|80000.0|80000.0|105200
+1093|консультант аналитик с|full-time|Not_qualification|к р а с н о я р с к и й к р а й|6.0|ERP|86208.0|86208.0|106700
+1096|аналитик в отдел фармакоэпидемиологии|full-time|Not_qualification|в л а д и м и р с к а я о б л а с т ь|1.0|II|35000.0|35000.0|109900
+1097|бизнес аналитик crm|full-time|Not_qualification|м о с к в а|1.0|BPMN|100000.0|120000.0|104400
+1103|аналитик планово бюджетного отдела|full-time|Not_qualification|р е с п у б л и к а х а к а с и я|6.0|SAP R,Excel|30787.0|30787.0|108000
+1110|аналитик по прогнозированию спроса|full-time|Not_qualification|м о с к в а|1.0|excel,powerpoint|108000.0|108000.0|104400
+1111|инвестиционный аналитик|full-time|Not_qualification|м у р м а н с к а я о б л а с т ь|2.0|MS PowerPoint,MS Excel|47000.0|47000.0|106000
+1113|маркетолог|full-time|Not_qualification|т о м с к а я о б л а с т ь|6.0|pr|45000.0|45000.0|110600
+1120|старший бизнес аналитик направления электронной коммерции|full-time|Not_qualification|м о с к в а|1.0|sql|128000.0|128000.0|104400
+1121|ведущий бизнес аналитик с|full-time|Not_qualification|п е р м с к и й к р а й|4.0|IDEF,BPMN,eEPC|50000.0|50000.0|110800
+1124|администратор баз данных геологический отдел|full-time|Not_qualification|р е с п у б л и к а б у р я т и я|7.0|Microsoft Office,Word,Excel,Geobank,Micromine,AutoCAD|100000.0|100000.0|108300
+1126|разработчик с|full-time|Not_qualification|п е р м с к и й к р а й|4.0|1с|60000.0|60000.0|110800
+1129|аналитик по планированию поставок|full-time|Not_qualification|н о в о с и б и р с к а я о б л а с т ь|6.0|excel,powerpoint|68700.0|68700.0|113800
+1136|аналитик операционных бизнес процессов|full-time|Not_qualification|м о с к в а|1.0|vba,sql|84000.0|84000.0|104400
+1137|ведущий аналитик с|full-time|Not_qualification|п е р м с к и й к р а й|4.0|Outlook,MS Office,WORD,Power Point,EXCEL|200000.0|200000.0|110800
+1138|аналитик бизнес процессов и систем|full-time|Not_qualification|м о с к в а|1.0|jira,postgresql|131000.0|131000.0|104400
+1139|бизнес аналитик|full-time|Not_qualification|с т а в р о п о л ь с к и й к р а й|8.0|Outlook,Word,PowerPoint,Excel|57500.0|57500.0|106000
+1142|аналитик|full-time|Not_qualification|в л а д и м и р с к а я о б л а с т ь|1.0|PowerPoint|35000.0|35000.0|109900
+1149|консультант с по сопровождению бюджетных организаций|full-time|Not_qualification|о р е н б у р г с к а я о б л а с т ь|4.0|Outlook,Word,MS Office,Excel|40000.0|120000.0|116200
+1150|маркетолог|temporary|Not_qualification|к р а с н о д а р с к и й к р а й|3.0|PR|54000.0|54000.0|109000
+1151|аналитик|full-time|Not_qualification|м о с к в а|1.0|SQL,Power Query|100000.0|100000.0|104400
+1152|дата аналитик|full-time|Not_qualification|м о с к о в с к а я о б л а с т ь|1.0|Hive,Teradata,SQL,PostgreSQL,Python,Hadoop,Oracle,Cloudera,Spark|65000.0|65000.0|109300
+1154|телемаркетолог|full-time|junior|ч е л я б и н с к а я о б л а с т ь|5.0|Chrome,Outlook Express,Amigo,Word,MS Office,Opera,Excel,Firefox,Internet Explorer|19600.0|19600.0|110400
+1155|маркетолог|full-time|Not_qualification|ч е л я б и н с к а я о б л а с т ь|5.0|mail|40000.0|40000.0|110400
+1173|маркетолог|full-time|Not_qualification|п р и м о р с к и й к р а й|7.0|BTL|60000.0|60000.0|109000
+1181|системный аналитик|full-time|Not_qualification|м о с к в а|1.0|RabbitMQ,IBM MQ,Kafka,ESB,REST,BPMN,SOAP,UML,MQ|150000.0|150000.0|104400
+1185|аналитик  категории|full-time|Not_qualification|в о л о г о д с к а я о б л а с т ь|2.0|Word,Excel|45000.0|55000.0|103700
+1203|системный аналитик|full-time|Not_qualification|м о с к в а|1.0|PMI PMBOK,BPMN|150000.0|150000.0|104400
+1211|системный аналитик|full-time|Not_qualification|с а н к т п е т е р б у р г|2.0|VMWare|100000.0|150000.0|105200
+1220|аналитик данных отдела продаж|full-time|Not_qualification|т у л ь с к а я о б л а с т ь|1.0|Excel|70000.0|120000.0|111700
+1224|аналитик больших данных|full-time|Not_qualification|м о с к в а|1.0|Hive,data mining,SQL,Kaggle,Reduce,Map,Spark|80000.0|80000.0|104400
+1225|маркетолог|full-time|Not_qualification|т у л ь с к а я о б л а с т ь|1.0|CTR,Ozon,SEO,VK,Wildberries|80000.0|120000.0|111700
+1226|маркетолог мобильных приложений|remote|Not_qualification|м о с к в а|1.0|Intellitech Solutions,Google Ads,App Store Optimization,ASO,Facebook Ads|100000.0|100000.0|104400
+1228|аналитик|full-time|Not_qualification|л и п е ц к а я о б л а с т ь|1.0|excel|50000.0|80000.0|109400
+1233|старший аналитик|full-time|Not_qualification|р о с т о в с к а я о б л а с т ь|3.0|WORD,POWERPOINT,EXCEL|65000.0|80000.0|109500
+1234|экономист аналитик|full-time|Not_qualification|р о с т о в с к а я о б л а с т ь|3.0|MS Office,Excel|35000.0|35000.0|109500
+1236|моделлер|full-time|Not_qualification|с а н к т п е т е р б у р г|2.0|BIM,Civil 3D,Revit,Navisworks,Renga|80000.0|100000.0|105200
+1243|младший аналитик маркетолог|full-time|Not_qualification|р е с п у б л и к а т а т а р с т а н т а т а р с т а н|4.0|SAP,MS Power Point,MS Excel|40000.0|50000.0|112800
+1246|бизнес аналитик|full-time|Not_qualification|м о с к в а|1.0|SQL|170000.0|195000.0|104400
+1248|маркетолог аналитик|full-time|Not_qualification|р е с п у б л и к а т а т а р с т а н т а т а р с т а н|4.0|Google Analytics|60000.0|250000.0|112800
+1256|бизнес аналитик с|full-time|Not_qualification|т ю м е н с к а я о б л а с т ь|5.0|1с|180000.0|180000.0|108900
+1263|системный аналитик|full-time|Not_qualification|м о с к в а|1.0|BPMN,PostgreSQL,UML|69400.0|69400.0|104400
+1266|ассистент маркетолога|full-time|Not_qualification|м о с к в а|1.0|reels|50000.0|60000.0|104400
+1267|системный бизнес аналитик битрикс |full-time|Not_qualification|м о с к в а|1.0|Scrum,Waterfall,Kaiten,Agile,task|180000.0|180000.0|104400
+1269|старший системный аналитик|full-time|Not_qualification|р е с п у б л и к а т а т а р с т а н т а т а р с т а н|4.0|Word Excel PowerPoint,MS Office|33000.0|65000.0|112800
+1280|аналитик методист|full-time|Not_qualification|р о с т о в с к а я о б л а с т ь|3.0|Access,Excel|20000.0|20000.0|109500
+1285|системный аналитик|full-time|Not_qualification|м о с к в а|1.0|SQL,PostgreSQL|130000.0|130000.0|104400
+1287|email маркетолог|remote|Not_qualification|п е р м с к и й к р а й|4.0|Altcraft,BotHelp,HR,Mindbox,CDP,Edna,SaleBot|60000.0|80000.0|110800
+1292|аналитик soc l|full-time|Not_qualification|с а н к т п е т е р б у р г|2.0|Playbooks|64000.0|69000.0|105200
+1303|финансовый аналитик|full-time|Not_qualification|п р и м о р с к и й к р а й|7.0|dalagroliga,resume,ru|30000.0|30000.0|109000
+1306|аналитик данных в low code платформах|full-time|Not_qualification|я м а л о н е н е ц к и й а в т о н о м н ы й о к р у г|5.0|Tableau,BI,Power BI|100000.0|120000.0|106600
+1308|трейд маркетолог|full-time|Not_qualification|ч е л я б и н с к а я о б л а с т ь|5.0|ERP,Excel|22300.0|60000.0|110400
+1312|бизнес аналитик с|full-time|Not_qualification|м о с к в а|1.0|1с|180000.0|180000.0|104400
+1313|маркетолог|full-time|Not_qualification|к и р о в с к а я о б л а с т ь|4.0|POS|47000.0|47000.0|111100
+1314|ml инженер|full-time|Not_qualification|с а н к т п е т е р б у р г|2.0|Pytorch,DL,Tensorflow|200000.0|200000.0|105200
+1324|бизнес аналитик с|full-time|Not_qualification|с в е р д л о в с к а я о б л а с т ь|5.0|1с|180000.0|180000.0|111100
+1325|продуктовый маркетолог|full-time|Not_qualification|с а м а р с к а я о б л а с т ь|4.0|STARK,IMPORT|100000.0|100000.0|111700
+1328|аналитик данных в low code платформах|full-time|Not_qualification|м о с к в а|1.0|Tableau,BI,Power BI|100000.0|120000.0|104400
+1329|аналитик данных в low code платформах|full-time|Not_qualification|р е с п у б л и к а с е в е р н а я о с е т и я а л а н и я|8.0|Tableau,BI,Power BI|100000.0|120000.0|106700
+1334|аналитик данных в low code платформах|full-time|Not_qualification|с в е р д л о в с к а я о б л а с т ь|5.0|Tableau,BI,Power BI|100000.0|120000.0|111100
+1336|аналитик данных в low code платформах|full-time|Not_qualification|т а м б о в с к а я о б л а с т ь|1.0|Tableau,BI,Power BI|100000.0|120000.0|109500
+1337|аналитик данных в low code платформах|full-time|Not_qualification|к а м ч а т с к и й к р а й|7.0|Tableau,BI,Power BI|100000.0|120000.0|107500
+1340|бизнес аналитик|full-time|Not_qualification|р е с п у б л и к а т а т а р с т а н т а т а р с т а н|4.0|Microsoft Visio,Business Studio|63000.0|63000.0|112800
+1343|аналитик|full-time|junior|с а р а т о в с к а я о б л а с т ь|4.0|Internet,Libre Office Writer,Libre Office Calc,Word,Libre Office Impress,mail,Excel,Libre Office Math,Libre Office Base,Libre Office Draw,Windows|20000.0|20000.0|110600
+1352|старший ревизор аналитик|full-time|junior|с а р а т о в с к а я о б л а с т ь|4.0|Internet,Libre Office Writer,Libre Office Calc,Word,Libre Office Impress,mail,Excel,Libre Office Math,Libre Office Base,Libre Office Draw,Windows|20000.0|20000.0|110600
+1360|маркетолог|full-time|Not_qualification|м о с к в а|1.0|Photoshop,CorelDraw|60000.0|60000.0|104400
+1367|технический аналитик|full-time|Not_qualification|с а н к т п е т е р б у р г|2.0|fvp|70000.0|70000.0|105200
+1370|ведущий системный аналитик|full-time|Not_qualification|н о в о с и б и р с к а я о б л а с т ь|6.0|ERP|120000.0|120000.0|113800
+1378|дивизиональный аналитик продаж|full-time|Not_qualification|р е с п у б л и к а т а т а р с т а н т а т а р с т а н|4.0|MS Office,Excel|50000.0|50000.0|112800
+1382|экономист аналитик|full-time|Not_qualification|с а н к т п е т е р б у р г|2.0|ERP,MS Excel|85000.0|85000.0|105200
+1388|ведущий экономист аналитик|full-time|Not_qualification|с а н к т п е т е р б у р г|2.0|Word,MS Office,Excel|89000.0|89000.0|105200
+1390|помощник маркетолога|full-time|Not_qualification|о р е н б у р г с к а я о б л а с т ь|4.0|b2b|25000.0|40000.0|116200
+1393|аналитик данных в low code платформах|full-time|Not_qualification|в о р о н е ж с к а я о б л а с т ь|1.0|Tableau,BI,Power BI|100000.0|120000.0|109300
+1394|аналитик данных в low code платформах|full-time|Not_qualification|л у г а н с к а я н а р о д н а я р е с п у б л и к а|3.0|Tableau,BI,Power BI|100000.0|120000.0|103700
+1397|маркетолог|full-time|Not_qualification|с а н к т п е т е р б у р г|2.0|Ads,Instagram,Facebook,SEO,VK|70000.0|70000.0|105200
+1399|аналитик данных в low code платформах|full-time|Not_qualification|р е с п у б л и к а к а л м ы к и я|3.0|Tableau,BI,Power BI|100000.0|120000.0|111300
+1401|помощник маркетолога|full-time|Not_qualification|о м с к а я о б л а с т ь|6.0|smm|70000.0|70000.0|112200
+1407|аналитик данных в low code платформах|full-time|Not_qualification|р е с п у б л и к а к о м и|2.0|Tableau,BI,Power BI|100000.0|120000.0|106600
+1408|аналитик данных в low code платформах|full-time|Not_qualification|т в е р с к а я о б л а с т ь|1.0|Tableau,BI,Power BI|100000.0|120000.0|112000
+1412|аналитик данных в low code платформах|full-time|Not_qualification|т о м с к а я о б л а с т ь|6.0|Tableau,BI,Power BI|100000.0|120000.0|110600
+1414|специалист по управлению данными|full-time|Not_qualification|в л а д и м и р с к а я о б л а с т ь|1.0|IPS,xml,ERP TK|45000.0|55000.0|109900
+1416|аналитик данных|full-time|Not_qualification|ч е л я б и н с к а я о б л а с т ь|5.0|SELECT,GROUP BY,UNION,WITH,ORDER BY,SQL,LIMIT,CASE,WHERE,JOIN,HAVING|30000.0|50000.0|110400
+1417|ведущий аналитик|part-time|Not_qualification|н о в о с и б и р с к а я о б л а с т ь|6.0|PR|63000.0|63000.0|113800
+1419|аналитик данных в low code платформах|full-time|Not_qualification|с м о л е н с к а я о б л а с т ь|1.0|Tableau,BI,Power BI|100000.0|120000.0|113200
+1420|аналитик|full-time|Not_qualification|х а б а р о в с к и й к р а й|7.0|Excel|48500.0|53000.0|109300
+1426|аналитик данных в low code платформах|full-time|Not_qualification|п е н з е н с к а я о б л а с т ь|4.0|Tableau,BI,Power BI|100000.0|120000.0|111000
+1427|аналитик данных в low code платформах|full-time|Not_qualification|м у р м а н с к а я о б л а с т ь|2.0|Tableau,BI,Power BI|100000.0|120000.0|106000
+1430|аналитик данных в low code платформах|full-time|Not_qualification|т ю м е н с к а я о б л а с т ь|5.0|Tableau,BI,Power BI|100000.0|120000.0|108900
+1432|маркетолог|full-time|Not_qualification|р е с п у б л и к а с а х а я к у т и я|7.0|B2C,B2B|50000.0|50000.0|105700
+1433|аналитик данных в low code платформах|full-time|Not_qualification|р е с п у б л и к а м а р и й э л|4.0|Tableau,BI,Power BI|100000.0|120000.0|112300
+1434|аналитик данных в low code платформах|full-time|Not_qualification|в л а д и м и р с к а я о б л а с т ь|1.0|Tableau,BI,Power BI|100000.0|120000.0|109900
+1437|аналитик данных в low code платформах|full-time|Not_qualification|к и р о в с к а я о б л а с т ь|4.0|Tableau,BI,Power BI|100000.0|120000.0|111100
+1438|аналитик данных в low code платформах|full-time|Not_qualification|р е с п у б л и к а м о р д о в и я|4.0|Tableau,BI,Power BI|100000.0|120000.0|112000
+1439|маркетолог аналитик|full-time|Not_qualification|с а м а р с к а я о б л а с т ь|4.0|NPS,CSI|30000.0|55000.0|111700
+1442|ml инженер|full-time|Not_qualification|п р и м о р с к и й к р а й|7.0|Python,Java|110000.0|110000.0|109000
+1446|аналитик данных в low code платформах|full-time|Not_qualification|р е с п у б л и к а к р ы м|3.0|Tableau,BI,Power BI|100000.0|120000.0|105500
+1451|аналитик отдела маркетинга|full-time|Not_qualification|н о в о с и б и р с к а я о б л а с т ь|6.0|Excel,Power Point|100000.0|100000.0|113800
+1454|инженер аналитик|full-time|Not_qualification|с в е р д л о в с к а я о б л а с т ь|5.0|mdash|22400.0|22400.0|111100
+1457|аналитик данных|full-time|Not_qualification|п р и м о р с к и й к р а й|7.0|ClickHouse,PostgreSQL,GreenPlum|90000.0|90000.0|109000
+1459|инженер данных|full-time|Not_qualification|п р и м о р с к и й к р а й|7.0|python,sql|70000.0|70000.0|109000
+1464|аналитик soc|full-time|Not_qualification|п р и м о р с к и й к р а й|7.0|WAF,ldquo,NGFW,IPS,EDR,IDS,rdquo|75000.0|140000.0|109000
+1468|data engineer|full-time|Not_qualification|п р и м о р с к и й к р а й|7.0|Python,Java,Rust|120000.0|120000.0|109000
+1476|бизнес аналитик|full-time|Not_qualification|м о с к в а|1.0|BPM,Oder Management System,Aris,ERP,UML,BPMN,DFD,OMS|75000.0|75000.0|104400
+1477|помощник аналитика|full-time|Not_qualification|р е с п у б л и к а м о р д о в и я|4.0|Excel|20000.0|20000.0|112000
+1479|системный аналитик с|full-time|Not_qualification|п р и м о р с к и й к р а й|7.0|BPMN,UML|65000.0|65000.0|109000
+1483|аналитик разработчик с erp|full-time|Not_qualification|м о с к в а|1.0|ERP|170000.0|170000.0|104400
+1487|аналитик данных в low code платформах|full-time|Not_qualification|б р я н с к а я о б л а с т ь|1.0|Tableau,BI,Power BI|100000.0|120000.0|110100
+1488|системный аналитик|full-time|Not_qualification|с а н к т п е т е р б у р г|2.0|Kanban,ER,Kafka,Scrum,Waterfall,gRPC,REST,SOAP,UML,BPMN,Agile|100000.0|120000.0|105200
+1490|аналитик данных в low code платформах|full-time|Not_qualification|р е с п у б л и к а б у р я т и я|7.0|Tableau,BI,Power BI|100000.0|120000.0|108300
+1496|дата аналитик в продуктовую команду|full-time|Not_qualification|м о с к в а|1.0|Superset,PowerBI,Tableau,BI,DataLens|100000.0|174000.0|104400
+1498|стажер аналитик с|full-time|junior|х а н т ы м а н с и й с к и й а в т о н о м н ы й о к р у г ю г р а|5.0|Business Studio,Visio,stormbpmn,com,bpmn,io|43000.0|43000.0|108400
+1501|администратор баз данных|full-time|Not_qualification|м у р м а н с к а я о б л а с т ь|2.0|DNS,DHCP,IP,TCP|55000.0|75000.0|106000
+1504|ведущий специалист|full-time|Not_qualification|с а н к т п е т е р б у р г|2.0|Microsoft Office|87000.0|87000.0|105200
+1509|оператор аналитик по работе с системой меркурий|full-time|Not_qualification|р е с п у б л и к а т а т а р с т а н т а т а р с т а н|4.0|ERP,web|42000.0|45000.0|112800
+1516|data science nlp|full-time|Not_qualification|р о с т о в с к а я о б л а с т ь|3.0|BERT,NLP,etc,IDF,T5,GPT,TF,GPU,chaining LLM,LangChain,Word2Vec|100000.0|180000.0|109500
+1518|продакт маркетолог|temporary|Not_qualification|п е р м с к и й к р а й|4.0|Figma,Word,MS Office,Excel,Miro,PowerPoint|50000.0|50000.0|110800
+1525|аналитик с|full-time|Not_qualification|n o t l o c a t i o n|2.0|sbquo|100000.0|100000.0|108900
+1529|аналитик данных в low code платформах|full-time|Not_qualification|с т а в р о п о л ь с к и й к р а й|8.0|Tableau,BI,Power BI|100000.0|120000.0|106000
+1532|маркетолог|full-time|Not_qualification|р е с п у б л и к а т а т а р с т а н т а т а р с т а н|4.0|Instagram|65000.0|65000.0|112800
+1536|трейд маркетолог|full-time|Not_qualification|с а х а л и н с к а я о б л а с т ь|7.0|POS|80000.0|80000.0|104800
+1540|аналитик|full-time|Not_qualification|к р а с н о д а р с к и й к р а й|3.0|excel,1с|42350.0|42350.0|109000
+1543|начальник отдела информационных технологий и аналитики|full-time|Not_qualification|с а м а р с к а я о б л а с т ь|4.0|MongoDB,backend,SQL,PL,MS SQL Server,Oracle Database,frontend|60000.0|60000.0|111700
+1551|аналитик отдела аналитики и проектирования информационных систем|full-time|Not_qualification|м о с к в а|1.0|cloud computing services,wireframe,API,MS Office,Gitlab,UML,BPMN|90000.0|90000.0|104400
+1552|старший аналитик отдела анализа и оптимизации капитальных вложений|full-time|Not_qualification|к р а с н о я р с к и й к р а й|6.0|SAP 4HANA|31000.0|31000.0|106700
+1563|администратор баз данных|full-time|Not_qualification|м у р м а н с к а я о б л а с т ь|2.0|html|58000.0|58000.0|106000
+1565|аналитик отдела анализа и реагирования на инциденты иб|full-time|Not_qualification|м о с к в а|1.0|FW,SIEM,Security Vision,Antivirus,PS,PT SIEM,Python,IPS,Bash,IDS,SOAR|90000.0|120000.0|104400
+1567|администратор баз данных|full-time|Not_qualification|м о с к о в с к а я о б л а с т ь|1.0|Nginx,Mapinfo,ArcGIS|61900.0|61900.0|109300
+1568|маркетолог аналитик|full-time|Not_qualification|к о с т р о м с к а я о б л а с т ь|1.0|1с|50000.0|50125.0|108000
+1575|интернет маркетолог|full-time|Not_qualification|и р к у т с к а я о б л а с т ь|6.0|coreldraw|60000.0|60000.0|107600
+1599|bim менеджер|full-time|Not_qualification|м о с к в а|1.0|BIM|175000.0|175000.0|104400
+1608|маркетолог|remote|Not_qualification|р е с п у б л и к а б у р я т и я|7.0|SMM,SEO,email|50000.0|90000.0|108300
+1613|bim координатор|full-time|Not_qualification|м о с к в а|1.0|EIR,BIM,BEP|135000.0|135000.0|104400
+1614|маркетолог|full-time|Not_qualification|м о с к о в с к а я о б л а с т ь|1.0|POS|60000.0|60000.0|109300
